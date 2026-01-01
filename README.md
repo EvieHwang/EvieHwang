@@ -31,6 +31,4 @@ At **Nordstrom**, I built an automated inventory repositioning system ($22M pilo
 
 ## Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/)  
-📧 eve@evehwang.com
-🌐 [www.evehwang.com](https://www.evehwang.com/)
+💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/) | 📧 eve@evehwang.com  | 🌐 [www.evehwang.com](https://www.evehwang.com/)
