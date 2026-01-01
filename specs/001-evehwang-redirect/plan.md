@@ -16,6 +16,21 @@ Set up a redirect from evehwang.com to the GitHub profile using AWS S3 for hosti
 
 ## Implementation Steps
 
+### Phase 0: Prerequisites
+
+1. Verify Route 53 hosted zone exists for evehwang.com
+   ```bash
+   aws route53 list-hosted-zones-by-name --dns-name evehwang.com
+   ```
+
+   If not found, create one:
+   ```bash
+   aws route53 create-hosted-zone \
+     --name evehwang.com \
+     --caller-reference "evehwang-$(date +%s)"
+   ```
+   Then update nameservers at GoDaddy to point to Route 53 NS records.
+
 ### Phase 1: SSL Certificate
 
 1. Request ACM certificate for both domains
@@ -27,9 +42,13 @@ Set up a redirect from evehwang.com to the GitHub profile using AWS S3 for hosti
      --region us-east-1
    ```
 
-2. Add CNAME validation records to Route 53 (from ACM console/output)
+2. Add CNAME validation records to Route 53 (from ACM output)
 
-3. Wait for certificate validation (may take a few minutes)
+3. Poll for certificate validation (check every 30 seconds, timeout after 10 minutes)
+   ```bash
+   aws acm describe-certificate --certificate-arn <arn> --region us-east-1 --query 'Certificate.Status'
+   ```
+   Wait until status changes from `PENDING_VALIDATION` to `ISSUED`
 
 ### Phase 2: S3 Bucket Setup
 
@@ -40,12 +59,19 @@ Set up a redirect from evehwang.com to the GitHub profile using AWS S3 for hosti
      --region us-east-1
    ```
 
-2. Enable static website hosting
+2. Disable Block Public Access (required before applying bucket policy)
    ```bash
-   aws s3 website s3://evehwang.com-redirect/ --index-document index.html
+   aws s3api put-public-access-block \
+     --bucket evehwang.com-redirect \
+     --public-access-block-configuration "BlockPublicAcls=false,IgnorePublicAcls=false,BlockPublicPolicy=false,RestrictPublicBuckets=false"
    ```
 
-3. Create redirect HTML file (index.html):
+3. Enable static website hosting with error document
+   ```bash
+   aws s3 website s3://evehwang.com-redirect/ --index-document index.html --error-document index.html
+   ```
+
+4. Create redirect HTML file (index.html):
    ```html
    <!DOCTYPE html>
    <html>
@@ -61,12 +87,12 @@ Set up a redirect from evehwang.com to the GitHub profile using AWS S3 for hosti
    </html>
    ```
 
-4. Upload redirect HTML
+5. Upload redirect HTML
    ```bash
    aws s3 cp index.html s3://evehwang.com-redirect/index.html --content-type "text/html"
    ```
 
-5. Set bucket policy for public read access
+6. Set bucket policy for public read access
    ```json
    {
      "Version": "2012-10-17",
