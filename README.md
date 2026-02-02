@@ -16,6 +16,12 @@ Product Manager learning to build with AI. I'm working through how generative AI
 
 **[WM2](https://github.com/EvieHwang/wm2)** — An AI-powered warehouse classification system. It's a learning project where I'm working through agentic patterns, semantic search, evaluation frameworks, and AWS deployment. The README is thorough and the Issues are current if you want to see how I think.
 
+**[Delivery Radius Calculator](https://github.com/EvieHwang/delivery-radius-calculator)** — A tool that calculates which zip codes fall within a deliverable radius, reducing a 2-hour manual process to under 5 minutes. Built with React, TypeScript, and Python on AWS Lambda.
+
+**[Flying Stick](https://github.com/EvieHwang/flying-stick)** — A project template for spec-driven development with GitHub Actions CI/CD. This is the scaffolding I use for cloud-first development with Claude Code—specs in, working software out.
+
+**[DWCOA Financials](https://github.com/EvieHwang/dwcoa-financials)** — A financial dashboard for a 9-unit condo association. Uses Claude AI to auto-categorize bank transactions. A small project that solves a real problem.
+
 ## Recent work
 
 At **Amazon**, I lead product for Community Delivery (15M+ meals/year to food-insecure households). Much of my work is enhanced by an AI assistant contextualized with structured program information and performance measures.
