@@ -6,7 +6,7 @@ Product Manager exploring how generative AI changes supply chain systems and the
 
 **[WM2](https://github.com/EvieHwang/wm2)** — An AI-powered warehouse classification system. My learning lab for agentic patterns, semantic search, evaluation frameworks, and AWS deployment. The README is thorough and the Issues are current if you want to see how I think.
 
-**[Burn Rate](https://github.com/EvieHwang/burn-rate)** — A personal finance awareness app that tracks spending trends instead of enforcing budgets. Uses sentiment feedback to learn comfortable spending targets, with a resolution curve showing how burn rate converges over time. AWS backend, vanilla JS web frontend, SwiftUI iOS app.
+**[Burn Rate](https://github.com/EvieHwang/burn-rate)** — A personal finance awareness app that tracks spending trends instead of enforcing budgets. Uses sentiment feedback to learn comfortable spending targets, with a resolution curve showing how burn rate converges over time.
 
 **[Delivery Radius Calculator](https://github.com/EvieHwang/delivery-radius-calculator)** — Calculates which zip codes fall within a deliverable radius, reducing a 2-hour manual process to under 5 minutes. React, TypeScript, Python on AWS Lambda.
 
