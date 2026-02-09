@@ -1,40 +1,35 @@
 # Hi, I'm Eve 👋
 
-Product Manager learning to build with AI. I'm working through how generative AI changes the way we design supply chain systems, and how it changes the PM role itself.
-
-## What I'm learning
-
-🔧 **Agentic systems for supply chain** — Agentic capabilities will make supply chain systems more adaptive and organic. I'm exploring how to envision, resource, and build them.
-
-📊 **Evaluation frameworks** — Evaluation is part of development, not a separate activity. Evaluators have to be written into the code from the start, and I'm working out how to do that as a PM in partnership with SDEs. My [WM2 project](https://github.com/EvieHwang/wm2) is my learning lab for this.
-
-⚙️ **Spec-driven development** — Enterprises have moved beyond vibe-coding. I'm building out a workflow where specs drive implementation: specifications → plans → tasks → code. This repo is managed that way, using [GitHub Spec-Kit](https://github.com/github/spec-kit) and Claude Code. I'm interested in how PMs can participate in this pattern as authors, not just reviewers.
-
-🧠 **Keeping up as the landscape shifts** — RAG used to be the answer to everything; now it's one tool among many. I'm curious about MCP, A2A, front-end design specs, and when fine-tuning will be in range for PMs to engage with directly. The knowledge base changes fast and I'm trying to stay current.
+Product Manager exploring how generative AI changes supply chain systems and the PM role itself.
 
 ## What I'm building
 
-**[WM2](https://github.com/EvieHwang/wm2)** — An AI-powered warehouse classification system. It's a learning project where I'm working through agentic patterns, semantic search, evaluation frameworks, and AWS deployment. The README is thorough and the Issues are current if you want to see how I think.
+**[WM2](https://github.com/EvieHwang/wm2)** — An AI-powered warehouse classification system. My learning lab for agentic patterns, semantic search, evaluation frameworks, and AWS deployment. The README is thorough and the Issues are current if you want to see how I think.
 
-**[Delivery Radius Calculator](https://github.com/EvieHwang/delivery-radius-calculator)** — A tool that calculates which zip codes fall within a deliverable radius, reducing a 2-hour manual process to under 5 minutes. Built with React, TypeScript, and Python on AWS Lambda.
+**[Burn Rate](https://github.com/EvieHwang/burn-rate)** — A personal finance awareness app that tracks spending trends instead of enforcing budgets. Uses sentiment feedback to learn comfortable spending targets, with a resolution curve showing how burn rate converges over time. AWS backend, vanilla JS web frontend, SwiftUI iOS app.
 
-**[Flying Stick](https://github.com/EvieHwang/flying-stick)** — A project template for spec-driven development with GitHub Actions CI/CD. This is the scaffolding I use for cloud-first development with Claude Code—specs in, working software out.
+**[Delivery Radius Calculator](https://github.com/EvieHwang/delivery-radius-calculator)** — Calculates which zip codes fall within a deliverable radius, reducing a 2-hour manual process to under 5 minutes. React, TypeScript, Python on AWS Lambda.
+
+**[Flying Stick](https://github.com/EvieHwang/flying-stick)** — A project template for spec-driven development with GitHub Actions CI/CD. The scaffolding I use for cloud-first development with Claude Code — specs in, working software out.
 
 **[DWCOA Financials](https://github.com/EvieHwang/dwcoa-financials)** — A financial dashboard for a 9-unit condo association. Uses Claude AI to auto-categorize bank transactions. A small project that solves a real problem.
 
+## What I'm learning
+
+🔧 **Agentic systems for supply chain** — How to envision, resource, and build adaptive, agentic supply chain systems.
+
+📊 **Evaluation frameworks** — Writing evaluators into code from the start, not bolting them on later. WM2 is my learning lab for this.
+
+⚙️ **Spec-driven development** — Specs → plans → tasks → code, managed with [GitHub Spec-Kit](https://github.com/github/spec-kit) and Claude Code. I'm interested in how PMs participate as authors, not just reviewers.
+
+🧠 **Keeping up** — MCP, A2A, front-end design specs, fine-tuning — the landscape shifts fast and I'm trying to stay current.
+
 ## Recent work
 
-At **Amazon**, I lead product for Community Delivery (15M+ meals/year to food-insecure households). Much of my work is enhanced by an AI assistant contextualized with structured program information and performance measures.
+At **Amazon**, I lead product for Community Delivery, a program that provides free home delivery from food banks to families in need — 15M+ meals per year across 40+ partnerships.
 
 At **Nordstrom**, I built an automated inventory repositioning system ($22M pilot EBIT) and a time-series forecasting tool used across Merchandising, Supply Chain, and Store Operations.
 
-## What I'm thinking about
-
-- How do PMs and SDEs work together when you're building with AI *and* building something that uses AI? What does that product operations workflow look like?
-- What's the design system for spec-based coding in the enterprise? How do specs, evals, and heuristics fit together as a discipline?
-- Where have we accepted that algorithmic approaches to supply chain are too expensive or too constrained—and could agentic capabilities solve those problems differently?
-- Where does human judgment actually belong in a workflow?
-
 ## Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/) | 📧 eve@evehwang.com  | 🌐 [www.evehwang.com](https://www.evehwang.com/)
+💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/) | 📧 eve@evehwang.com | 🌐 [www.evehwang.com](https://www.evehwang.com/)
