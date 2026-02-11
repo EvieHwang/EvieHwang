@@ -4,7 +4,7 @@ Product Manager exploring how generative AI changes supply chain systems and the
 
 ## What I'm building
 
-**[WM2](https://github.com/EvieHwang/wm2)** — An AI-powered warehouse classification system. My learning lab for agentic patterns, semantic search, evaluation frameworks, and AWS deployment. The README is thorough and the Issues are current if you want to see how I think.
+**[WM2](https://github.com/EvieHwang/wm2)** — An AI-powered warehouse classification system. My learning lab for agentic patterns, semantic search, evaluation frameworks, and AWS deployment.
 
 **[Burn Rate](https://github.com/EvieHwang/burn-rate)** — A personal finance awareness app that tracks spending trends instead of enforcing budgets. Uses sentiment feedback to learn comfortable spending targets, with a resolution curve showing how burn rate converges over time.
 
