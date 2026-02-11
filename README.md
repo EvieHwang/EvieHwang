@@ -30,6 +30,4 @@ At **Amazon**, I lead product for Community Delivery, a program that provides fr
 
 At **Nordstrom**, I built an automated inventory repositioning system ($22M pilot EBIT) and a time-series forecasting tool used across Merchandising, Supply Chain, and Store Operations.
 
-## Let's connect
-
 💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/) | 📧 eve@evehwang.com | 🌐 [www.evehwang.com](https://www.evehwang.com/)
