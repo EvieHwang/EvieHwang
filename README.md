@@ -4,13 +4,13 @@ Product Manager exploring how generative AI changes supply chain systems and the
 
 ## What I'm building
 
-**[WM2](https://github.com/EvieHwang/wm2)** — An AI-powered warehouse classification system. My learning lab for agentic patterns, semantic search, evaluation frameworks, and AWS deployment.
+**[Mood Playlist](https://github.com/EvieHwang/mood-playlist-mcp)** — A remote MCP server that lets Claude create Apple Music playlists from mood descriptions. Describe a vibe, Claude picks the songs, and they show up in your library. TypeScript, OAuth 2.1, Tailscale Funnel.
 
-**[Burn Rate](https://github.com/EvieHwang/burn-rate)** — A personal finance awareness app that tracks spending trends instead of enforcing budgets. Uses sentiment feedback to learn comfortable spending targets, with a resolution curve showing how burn rate converges over time.
+**[Fastmail MCP](https://github.com/EvieHwang/fastmail-mcp-server)** — A remote MCP server that gives Claude read-only access to a Fastmail account. Search, browse, and read email threads without leaving the conversation. Python, AWS Cognito OAuth, JMAP.
+
+**[Eviebot Gateway](https://github.com/EvieHwang/eviebot-MCP-gateway)** — A unified gateway that aggregates multiple MCP servers behind a single authenticated endpoint. One URL, one OAuth flow, and Claude sees tools from every backend. Python, FastMCP proxy, AWS Cognito.
 
 **[Delivery Radius Calculator](https://github.com/EvieHwang/delivery-radius-calculator)** — Calculates which zip codes fall within a deliverable radius, reducing a 2-hour manual process to under 5 minutes. React, TypeScript, Python on AWS Lambda.
-
-**[Flying Stick](https://github.com/EvieHwang/flying-stick)** — A project template for spec-driven development with GitHub Actions CI/CD. The scaffolding I use for cloud-first development with Claude Code — specs in, working software out.
 
 **[DWCOA Financials](https://github.com/EvieHwang/dwcoa-financials)** — A financial dashboard for a 9-unit condo association. Uses Claude AI to auto-categorize bank transactions. A small project that solves a real problem.
 
