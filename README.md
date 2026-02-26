@@ -1,6 +1,6 @@
 # Hi, I'm Eve 👋
 
-I'm a Product Manager exploring generative AI and how it changes being a PM, how it can be used in supply chain systems, and how it can be used in my personal life too. I work at **Amazon**, where I manage technology products in Amazon Community Impact, particularly for Community Delivery, a program that provides free home delivery from food banks to families in need.
+I'm a Product Manager exploring generative AI: how it changes being a PM, how it can be used in supply chain systems, and in my personal life too. I work at **Amazon**, where I manage technology products in Amazon Community Impact, particularly for Community Delivery, a program that provides free home delivery from food banks to families in need.
 
 ## Recent Projects
 
