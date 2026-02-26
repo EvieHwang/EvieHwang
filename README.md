@@ -1,8 +1,8 @@
 # Hi, I'm Eve 👋
 
-Product Manager exploring how generative AI changes supply chain systems and the PM role itself.
+I'm a Product Manager exploring generative AI and how it changes being a PM, how it can be used in supply chain systems, and how it can be used in my personal life too. I work at **Amazon**, where I manage technology products in Amazon Community Impact, particularly for Community Delivery, a program that provides free home delivery from food banks to families in need.
 
-## What I'm building
+## Recent Projects
 
 **[Mood Playlist](https://github.com/EvieHwang/mood-playlist-mcp)** — A remote MCP server that lets Claude create Apple Music playlists from mood descriptions. Describe a vibe, Claude picks the songs, and they show up in your library. TypeScript, OAuth 2.1, Tailscale Funnel.
 
@@ -13,11 +13,5 @@ Product Manager exploring how generative AI changes supply chain systems and the
 **[Delivery Radius Calculator](https://github.com/EvieHwang/delivery-radius-calculator)** — Calculates which zip codes fall within a deliverable radius, reducing a 2-hour manual process to under 5 minutes. React, TypeScript, Python on AWS Lambda.
 
 **[DWCOA Financials](https://github.com/EvieHwang/dwcoa-financials)** — A financial dashboard for a 9-unit condo association. Uses Claude AI to auto-categorize bank transactions. A small project that solves a real problem.
-
-## Recent work
-
-At **Amazon**, I lead product for Community Delivery, a program that provides free home delivery from food banks to families in need — 15M+ meals per year across 40+ partnerships.
-
-At **Nordstrom**, I built an automated inventory repositioning system ($22M pilot EBIT) and a time-series forecasting tool used across Merchandising, Supply Chain, and Store Operations.
 
 💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/) | 📧 eve@evehwang.com | 🌐 [www.evehwang.com](https://www.evehwang.com/)
