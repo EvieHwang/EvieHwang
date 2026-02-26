@@ -14,16 +14,6 @@ Product Manager exploring how generative AI changes supply chain systems and the
 
 **[DWCOA Financials](https://github.com/EvieHwang/dwcoa-financials)** — A financial dashboard for a 9-unit condo association. Uses Claude AI to auto-categorize bank transactions. A small project that solves a real problem.
 
-## What I'm learning
-
-🔧 **Agentic systems for supply chain** — How to envision, resource, and build adaptive, agentic supply chain systems.
-
-📊 **Evaluation frameworks** — Writing evaluators into code from the start, not bolting them on later. WM2 is my learning lab for this.
-
-⚙️ **Spec-driven development** — Specs → plans → tasks → code, managed with [GitHub Spec-Kit](https://github.com/github/spec-kit) and Claude Code. I'm interested in how PMs participate as authors, not just reviewers.
-
-🧠 **Keeping up** — MCP, A2A, front-end design specs, fine-tuning — the landscape shifts fast and I'm trying to stay current.
-
 ## Recent work
 
 At **Amazon**, I lead product for Community Delivery, a program that provides free home delivery from food banks to families in need — 15M+ meals per year across 40+ partnerships.
