@@ -1,8 +1,6 @@
-# Hi, I'm Eve 👋
+# Hi, I'm Evie 👋
 
-I'm a **Senior Product Manager** specializing in **retail merchandising systems** — line planning, MFP, assortment, allocation, and replenishment. 12+ years across Nordstrom, Amazon, Slalom, and Food Lifeline, shipping enterprise-scale systems.
-
-The projects below are working artifacts I've shipped and the same approach is being applied to retail merchandising problems in projects currently in development.
+I'm a **Senior Product Manager** specializing in **retail merchandising systems** — line planning, MFP, assortment, allocation, and replenishment. 12+ years shipping enterprise-scale systems across Amazon, Nordstrom and Slalom, now shipping spec-coded and agentic systems in the enterprise. PR>PRD.  
 
 📍 Seattle · 💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/) · 📧 [eve@evehwang.com](mailto:eve@evehwang.com) · 🌐 [evehwang.com](https://www.evehwang.com/)
 
@@ -10,19 +8,13 @@ The projects below are working artifacts I've shipped and the same approach is b
 
 ## 🛠️ Shipped
 
-### Eviebot MCP Suite
+[Markus](https://github.com/EvieHwang/Markus_v3) is an iOS Markdown editor that swipes between rendered and raw views and syncs via iCloud. No vault, no accounts, no onboarding - the Markdown editor you always wanted.
 
-A unified Model Context Protocol gateway plus a growing set of backend servers, all behind a single authenticated endpoint. One URL, one OAuth flow, and Claude sees tools from every connected service.
+[Eviebot MCP](https://github.com/EvieHwang/eviebot_api_mcp) is an MCP server containing API-based commands to Fastmail, Apple Music, and GitHub. Attached as a Claude.ai Connector, it closes a feature gap by enabling these tools in sandboxed Claude Code and in the iOS apps.
 
-- **[Fastmail](https://github.com/EvieHwang/fastmail-mcp-server)** — Email read access via JMAP
-- **[Apple Music](https://github.com/EvieHwang/mood-playlist-mcp)** — Apple Music playlist generation from natural-language mood descriptions; TypeScript, OAuth 2.1, Tailscale Funnel
-- **[GitHub](https://github.com/EvieHwang/eviebot-mcp-github)** — Repo, file, issue, and PR management via the GitHub API
+**[Delivery Radius Calculator](https://github.com/EvieHwang/delivery-radius-calculator)** — Calculates which zip codes fall within a deliverable radius, reducing a 2-hour manual verification process to under 5 minutes. Spec-coding demo app. 
 
-### Standalone
-
-**[Delivery Radius Calculator](https://github.com/EvieHwang/delivery-radius-calculator)** — Calculates which zip codes fall within a deliverable radius, reducing a 2-hour manual verification process to under 5 minutes. *React, TypeScript, Python on AWS Lambda*
-
-**[DWCOA Financials](https://github.com/EvieHwang/dwcoa-financials)** — Financial dashboard for a 9-unit condo association board. Uses Claude AI to auto-categorize bank transactions. A small project solving a real problem. *Python, Claude API*
+**[DWCOA Financials](https://github.com/EvieHwang/dwcoa-financials)** — Financial dashboard for a 9-unit condo association board, using Claude API calls to auto-categorize bank transactions. A sweet-spot app: simpler than QuickBooks but less work than using Excel. 
 
 ## 🚧 In Development
 
@@ -32,16 +24,10 @@ A unified Model Context Protocol gateway plus a growing set of backend servers, 
 
 ## 🧰 How I Build
 
-I work primarily in **[Claude Code](https://claude.com/code)** — AI-pair-programmed from architecture sketch through deployment. Source lives on **GitHub**. Apps deploy to **iOS**, **AWS** (Lambda, API Gateway, S3, DynamoDB, Cognito), and a **local Mac Mini** for headless services and persistent agents.
+I use Claude Code in the cloud sandbox for most development work, enabling remote management and secure access. New builds start from **[evie-dev-framework](https://github.com/EvieHwang/evie-dev-framework-0526)**. Source lives on GitHub, and apps deploy to iOS, AWS or a local Mac Mini for headless services and persistent agents.
 
-New builds start from **[evie-dev-framework](https://github.com/EvieHwang/evie-dev-framework)** — opinionated scaffolding that handles the boilerplate.
 
 ## 🧭 Background
 
-Most recently Product Manager at Amazon, where I led product for a multi-organization logistics program delivering 15M+ meals annually to families facing food insecurity. Before that, Senior PM at Nordstrom for demand forecasting and automated inventory repositioning. Earlier, Director of Technology at Food Lifeline.
+I'm currently open to **Product Manager** roles in retail merchandising and inventory systems, preferably at large retailers or platform companies building the planning intelligence layer.
 
-I'm currently open to **Senior Product Manager** roles in retail merchandising and inventory systems at large retailers or platform companies building the planning intelligence layer.
-
-## 🤝 Beyond Work
-
-Commissioner, Washington LGBTQ Commission · Former Chair, Greater Seattle Business Association
