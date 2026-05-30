@@ -24,7 +24,7 @@ I'm a **Product Manager** specializing in **retail merchandising systems** — l
 
 ## 🧰 How I Build
 
-I use Claude Code in the cloud sandbox for most development work, enabling remote management and secure access. New builds start from **[evie-dev-framework](https://github.com/EvieHwang/evie-dev-framework-0526)**. Source lives on GitHub, and apps deploy to iOS, AWS or a local Mac Mini for headless services and persistent agents.
+I use Claude Code in the cloud sandbox for most development work, mostly to allow for mobile management. New builds start from **[evie-dev-framework](https://github.com/EvieHwang/evie-dev-framework-0526)**. Source lives on GitHub, and apps deploy to iOS, AWS or a local Mac Mini for headless services and persistent agents.
 
 
 ## 🧭 Background
