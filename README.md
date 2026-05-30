@@ -1,6 +1,6 @@
 # Hi, I'm Evie 👋
 
-I'm a **Senior Product Manager** specializing in **retail merchandising systems** — line planning, MFP, assortment, allocation, and replenishment. 12+ years shipping enterprise-scale systems across Amazon, Nordstrom and Slalom, now shipping spec-coded and agentic systems in the enterprise. PR>PRD.  
+I'm a **Product Manager** specializing in **retail merchandising systems** — line planning, MFP, assortment, allocation, and replenishment. 12+ years shipping enterprise-scale systems across Amazon, Nordstrom and Slalom, now shipping spec-coded and agentic systems in the enterprise. PR>PRD.  
 
 📍 Seattle · 💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/) · 📧 [eve@evehwang.com](mailto:eve@evehwang.com) · 🌐 [evehwang.com](https://www.evehwang.com/)
 
