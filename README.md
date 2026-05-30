@@ -1,4 +1,4 @@
-# Hi, I'm Evie 👋
+# Hi, I'm Evie 🙋🏼‍♀️
 
 I'm a **Product Manager** specializing in **retail merchandising systems** — line planning, MFP, assortment, allocation, and replenishment. 12+ years shipping enterprise-scale systems across Amazon, Nordstrom and Slalom, now shipping spec-coded and agentic systems in the enterprise. PR>PRD.  
 
