@@ -1,6 +1,6 @@
 # Hi, I'm Evie 👋🏻
 
-I'm a **Product Manager** specializing in retail demand forecasting, allocation, replenishment, and inventory positioning. 12+ years shipping enterprise-scale systems across Amazon, Nordstrom and Slalom, now shipping spec-coded and agentic tools.  
+I'm a **Product Manager** specializing in allocation and in-season inventory management. 12+ years shipping enterprise-scale systems across Amazon, Nordstrom and Slalom, now shipping spec-coded and agentic tools.  
 
 📍 Seattle · 💼 [LinkedIn](https://www.linkedin.com/in/eviehwang/) · 📧 [eve@evehwang.com](mailto:eve@evehwang.com) · 🌐 [evehwang.com](https://www.evehwang.com/)
 
