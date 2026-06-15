@@ -25,31 +25,38 @@ Each bi-weekly briefing contains:
 
 **Term:** October Term 2025 (OT2025)
 **Began:** October 6, 2025
-**Expected close:** Late June / early July 2026
-**Cases accepted:** 59 (as of March 2026)
-**Cases argued:** 58
-**Cases pending decision as of June 15, 2026:** ~23
+**Expected close:** Late June / early July 2026 (likely final opinion day June 26)
+**Cases accepted:** ~66 (as of June 2026)
+**Cases decided:** 46 (as of June 15, 2026)
+**Cases pending decision as of June 15, 2026:** ~20
 
 ### Major Cases Still Pending (as of June 15, 2026)
 
 | Case | Issue | Likely Direction |
-|------|--------|-----------------|
-| *Trump v. Barbara* | Birthright citizenship — 14th Amendment; exec order denying citizenship to children of undocumented/temp-visa parents | Likely to strike down exec order (5–7 justices at oral argument) |
-| *Trump v. Cook* | Presidential removal power — can Trump fire Lisa Cook, Fed Board of Governors member, without "for cause"? | Likely to side with Cook |
+|------|--------|-----------------| 
+| *Trump v. Barbara* | Birthright citizenship — 14th Amendment; exec order denying citizenship to children of undocumented/temp-visa parents | Likely to strike down exec order (5–7 justices skeptical at oral argument on April 1) |
+| *Trump v. Cook* | Presidential removal power — can Trump fire Lisa Cook, Fed Board of Governors member, without "for cause"? | Uncertain; Court may treat Fed differently from other agencies |
 | *Trump v. Slaughter* | Presidential removal power — FTC commissioner fired; Court already allowed removal pending decision | Likely to side with Trump (per emergency stay signal) |
 | *Mullin v. Al Otro Lado* | Asylum seekers — whether systematic "turn back" policy at southern border violates federal asylum law | Likely to side with Trump administration |
 | *Mullin v. Doe* | Temporary Protected Status — Trump's effort to strip Haitian/Syrian nationals of TPS protection | Outcome unclear after oral argument |
 | *Watson v. RNC* | Election law — Mississippi mail-in ballot receipt deadline; whether ballots postmarked by Election Day but arriving later must be counted | TBD |
-| Transgender athlete cases | Equal Protection / Title IX — state bans on transgender women in sports (West Virginia + Idaho) | TBD |
-| ~16 additional cases | Various | — |
+| *Little v. Hecox* / *West Virginia v. B.P.J.* | Equal Protection / Title IX — state bans on transgender women in sports (Idaho + West Virginia); argued Jan 13, 2026 | Likely to uphold bans (apparent majority at oral argument) |
+| ~13 additional cases | Various | — |
 
 ### Major Decisions Already Issued This Term
 
 | Case | Date | Decision | Significance |
-|------|------|-----------|--------------|
+|------|------|-----------|--------------| 
 | *Learning Resources v. Trump* | Feb 20, 2026 | Struck down sweeping tariffs (6–3) | IEEPA statutory limits; major check on executive trade power; Trump publicly attacked Gorsuch and Barrett |
+| *Chiles v. Salazar* | Mar 31, 2026 | Reversed Colorado conversion therapy ban (8–1, Gorsuch; Jackson dissenting) | **[LGBTQ]** First Amendment strict scrutiny required for viewpoint-based licensing restrictions on talk therapy; states with similar bans face very high bar |
+| *Louisiana v. Callais* | Apr 29, 2026 | Struck down Louisiana's court-ordered remedial redistricting map as racial gerrymander (6–3, Alito; Kagan dissenting) | **[VOTING RIGHTS]** Effectively dismantles VRA Section 2 enforcement — states ordered to draw majority-minority districts may now be struck down for racial gerrymandering; Thomas concurrence calls for abolishing Section 2 entirely |
 | *Allen v. Milligan* (2026 emergency order) | Jun 2, 2026 | Allowed Alabama's redrawn maps despite lower court finding of racial discrimination | Effectively further weakened VRA Section 2 enforcement |
-| *FCC v. AT&T* | Jun 4, 2026 | Decided | FCC/telecom — customer location data mishandling |
+| *FCC v. AT&T* | Jun 4, 2026 | Upheld FCC forfeiture orders without jury trial (8–1, Roberts; Thomas dissenting) | Seventh Amendment's jury trial right does not apply to agency penalty proceedings; Thomas dissent continues his project of reexamining administrative penalty mechanisms |
+| *Sripetch v. SEC* | Jun 4, 2026 | Unanimous — SEC need not show investor monetary loss to seek disgorgement | Narrow securities law ruling |
+| *Hikma Pharmaceuticals v. Amarin Pharma* | Jun 4, 2026 | Decided (details minor) | Patent / pharmaceutical |
+| *Keathley v. Buddy Ayers Construction* | Jun 11–12, 2026 | Decided | Minor |
+| *FS Credit Opportunities Corp. v. Saba Capital Master Fund* | Jun 11–12, 2026 | Decided | Minor |
+| *Abouammo v. United States* | Jun 11–12, 2026 | Decided | Minor |
 
 ---
 
@@ -59,19 +66,19 @@ Each bi-weekly briefing contains:
 
 ### Topics Covered
 
-*(None yet — first briefing has not been sent)*
+- **[Jun 15, 2026]** The 14th Amendment's Citizenship Clause: text, ratification history, and *United States v. Wong Kim Ark* (1898) — foundational precedent for *Trump v. Barbara*
 
 ### Topic Queue (Planned)
 
 **Constitutional Foundations**
-- [ ] The 14th Amendment's Citizenship Clause: text, ratification history, and *United States v. Wong Kim Ark* (1898) — foundational precedent for *Trump v. Barbara*
-- [ ] Article II removal power: from *Myers v. United States* (1926) to *Humphrey's Executor* (1935) to *Seila Law* (2020) — the arc behind *Trump v. Cook* and *Trump v. Slaughter*
+- [x] ~~The 14th Amendment's Citizenship Clause: text, ratification history, and *United States v. Wong Kim Ark* (1898) — foundational precedent for *Trump v. Barbara*~~ *(covered Jun 15, 2026)*
+- [ ] Article II removal power: from *Myers v. United States* (1926) to *Humphrey's Executor* (1935) to *Seila Law* (2020) — the arc behind *Trump v. Cook* and *Trump v. Slaughter* ← **NEXT (highly timely)**
 - [ ] The Chevron doctrine: rise (*Chevron USA v. NRDC*, 1984), fall (*Loper Bright*, 2024), and what deference looks like now
 - [ ] The major questions doctrine: what it is, where it came from, and how it interacts with originalism
 
 **Voting Rights and Elections**
-- [ ] The VRA's original architecture: Sections 2 and 5, *Shelby County v. Holder* (2013), and the post-*Shelby* landscape
-- [ ] Racial gerrymandering doctrine: *Shaw v. Reno* through *Allen v. Milligan* — a 30-year arc
+- [ ] The VRA's original architecture: Sections 2 and 5, *Shelby County v. Holder* (2013), and the post-*Shelby* landscape ← **highly timely given *Callais* and Allen v. Milligan**
+- [ ] Racial gerrymandering doctrine: *Shaw v. Reno* through *Louisiana v. Callais* — a 30-year arc
 - [ ] The independent state legislature theory: *Moore v. Harper* (2023) and what it didn't do
 
 **Executive Power**
@@ -102,22 +109,33 @@ Each bi-weekly briefing contains:
 
 > Threads to track across multiple briefings — cases or doctrines that evolve over many terms.
 
-- **Presidential removal power**: *Myers → Humphrey's Executor → Morrison → Free Enterprise Fund → Seila Law → Collins → Trump v. Cook / Trump v. Slaughter*. Will extend into future terms.
-- **Birthright citizenship**: *Wong Kim Ark* (1898) is the only SCOTUS precedent directly on point. *Trump v. Barbara* may be the most significant 14th Amendment case in a generation.
-- **Voting rights erosion**: *Crawford → Shelby County → Brnovich → Allen v. Milligan 2023 → Allen v. Milligan 2026*. A clear trajectory.
-- **Administrative state rollback**: *Chevron* overruled (*Loper Bright*, 2024) → major questions doctrine → non-delegation revival? A multi-term thread with enormous downstream consequences.
+- **Presidential removal power**: *Myers → Humphrey's Executor → Morrison → Free Enterprise Fund → Seila Law → Collins → Trump v. Cook / Trump v. Slaughter*. Will extend into future terms. Decision imminent this term.
+- **Birthright citizenship**: *Wong Kim Ark* (1898) is the only SCOTUS precedent directly on point. *Trump v. Barbara* may be the most significant 14th Amendment case in a generation. Decision imminent.
+- **Voting rights erosion**: *Crawford → Shelby County → Brnovich → Allen v. Milligan 2023 → Louisiana v. Callais → Allen v. Milligan 2026*. A clear and accelerating trajectory. VRA Section 2 enforcement now functionally dismantled.
+- **Administrative state rollback**: *Chevron* overruled (*Loper Bright*, 2024) → major questions doctrine → non-delegation revival? → *Learning Resources v. Trump* (IEEPA limits). A multi-term thread with enormous downstream consequences.
+- **LGBTQ First Amendment**: *Chiles v. Salazar* (2026) established strict scrutiny for viewpoint-based licensing restrictions on talk therapy. Transgender athlete cases (*Little v. Hecox*, *West Virginia v. B.P.J.*) pending — likely to uphold state bans under Title IX / Equal Protection analysis.
+
+---
+
+## Briefing History
+
+| Date | Deep Dive Topic | Major Events Covered |
+|------|----------------|----------------------|
+| Jun 15, 2026 (inaugural) | 14th Amendment Citizenship Clause / *Wong Kim Ark* | *Chiles v. Salazar*, *Louisiana v. Callais*, *FCC v. AT&T*; spotlight on *Trump v. Barbara*; preview of removal power cases |
 
 ---
 
 ## System Notes
 
-- **Briefing cadence:** Bi-weekly (every two weeks), sent via daily planning agent email system
-- **Next briefing due:** June 29, 2026 (adjust if major opinion lands — brief on impact within 24 hours of a landmark decision)
+- **Briefing cadence:** Bi-weekly (every two weeks), sent via Claude Code routine
+- **Last briefing sent:** June 15, 2026 (inaugural)
+- **Next briefing due:** June 29, 2026 (end-of-term edition — expect major decisions by then)
 - **Source priority:** SCOTUSblog (primary), official SCOTUS site for opinions and calendars, NPR Legal, Ballotpedia for term case lists
 - **Interpretive frame:** Originalism as methodological constraint (not political position); separation of powers as a structural good; Court legitimacy as contingent on restraint; awareness that "giving it back to the legislature" carries real human costs, and that this is a feature of democratic accountability, not a bug
 - **Tone:** Analytical, not partisan. Surface the doctrinal stakes. Let Evie form the political judgments.
+- **Flag in bold:** Any decision directly relevant to LGBTQ rights, voting rights, or executive power over agencies
 
 ---
 
 *Last updated: June 15, 2026*
-*Updated by: Claude (briefing system initialization)*
+*Updated by: Claude (SCOTUS briefing routine — post-June 15 send)*
