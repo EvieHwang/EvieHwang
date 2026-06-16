@@ -1,5 +1,5 @@
 # Retail Intel — Working Memory
-_Last updated: 2026-06-15_
+_Last updated: 2026-06-16_
 
 ## Deep Dives Covered (rolling 90 days)
 <!-- format: topic — [layer/rung] — YYYY-MM-DD -->
@@ -10,6 +10,7 @@ _Last updated: 2026-06-15_
 - RL-for-inventory status: multi-agent DRL, edge-RL replenishment patents; mixed results outside hyperscale confirm watchlist stance — [RL rung] — 2026-04-26
 - Lululemon Q1 FY26 chase + SKU rationalization: chase +20%, SKU density -15%, dev-timeline compression, guidance cut — [layer 2 / layer 5 / markdown] — 2026-06-04
 - Multi-objective Pareto forecast combination (arXiv:2606.04900, Petropoulos et al.): accuracy ≠ decision performance under asymmetric costs; Pareto frontier over combination weights — [forecasting → decision rung] — 2026-06-15
+- XGBoost vs. neural ML comparison for retail (arXiv:2506.05941): tree-based wins on intermittent/sparse/high-turnover retail data; SAITS imputation helps neural but still inferior; foundation quality gates which workhorse you can deploy — [forecasting rung / honest boundary] — 2026-06-16
 
 ## Headlines & Company Events Covered (rolling 14 days)
 <!-- format: entity — one-line — YYYY-MM-DD -->
@@ -22,8 +23,16 @@ _Last updated: 2026-06-15_
 - Under Armour — Q1 2026: inventory +2%, operating margin swings from -25.3% to +0.3%; markdown bleed stopped — 2026-06-15
 - Nike — Q4 FY26 results June 30; $230M supply chain severance booked Q3; margin inflection guided Q2 FY27 — 2026-06-15
 - Retail sales — May trade +5.2% YoY; June 17 advance monthly release; post-front-loading consumer bounce holding — 2026-06-15
+- arXiv:2506.05941 — XGBoost RMSE 4.833 beats N-BEATS/N-HiTS/TFT on retail data with intermittency and missingness; SAITS imputation closes gap at aggregate levels only — 2026-06-16
+- RELEX State of Supply Chain 2026 — 54% prefer AI recommendation + human decision; only 10% trust autonomous AI supply chain decisions; 47% using/planning AI-driven inventory optimization — 2026-06-16
+- Blue Yonder ICON 2026 — Inventory Ops Agent: explainable supplier order approval workflow; new "skills" for agentic ordering layer over existing optimization engine — 2026-06-16
+- Adidas Q1 2026 — +14% inventory on World Cup front-load; gross margin 51.1% (-1pp FX/tariffs); ~€250M Q1 + ~€250M Q2 event demand; H2 sell-through test ahead — 2026-06-16
+- GLP-1 → apparel size-run allocation — structural demand shift toward smaller sizes making pre-GLP-1 sell-through curves stale at size level; historical allocation signals unreliable — 2026-06-16
+- Census MTIS April — releasing June 17; watch inventory-to-sales ratio for post-front-loading normalization signal — 2026-06-16
+- PVH — inventory cost +3% YoY in Q3, ~2pp attributable to tariffs; critical ratio and holding cost math needs updating — 2026-06-16
 
 ## Sign-offs Used (rolling 14 days)
 <!-- format: line — YYYY-MM-DD -->
 - "Three brands spent the quarter proving the model's least flattering claim: the order loop was never the problem." — 2026-06-15
 - "Units down, dollars flat — that's not inventory discipline, that's tariffs doing the accounting." — 2026-06-15
+- "54% of supply chain leaders want AI to recommend while they decide. Which is exactly what a spreadsheet does — we've just started calling it an agent." — 2026-06-16
