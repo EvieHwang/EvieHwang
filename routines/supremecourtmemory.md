@@ -27,10 +27,10 @@ Each bi-weekly briefing contains:
 **Began:** October 6, 2025
 **Expected close:** Late June / early July 2026 (likely final opinion day June 26)
 **Cases accepted:** ~66 (as of June 2026)
-**Cases decided:** 46 (as of June 15, 2026)
-**Cases pending decision as of June 20, 2026:** ~20
+**Cases decided:** 46 (as of June 16, 2026)
+**Cases pending decision as of June 16, 2026:** ~20
 
-### Major Cases Still Pending (as of June 20, 2026)
+### Major Cases Still Pending (as of June 16, 2026)
 
 | Case | Issue | Likely Direction |
 |------|--------|-----------------|
@@ -59,8 +59,6 @@ Each bi-weekly briefing contains:
 | *Abouammo v. United States* | Jun 11–15, 2026 | Decided | Minor |
 | *E.D. v. Noblesville School District* | Jun 15, 2026 | Cert denied; Alito dissented, calling for revisiting *Hazelwood* (1988) | Student free speech / school flyer case; not a merits ruling but Alito's dissent flags *Hazelwood* as a target for future reconsideration |
 
-*Note: June 18, 2026 was an opinion day; specific cases decided that day could not be confirmed at time of June 20 briefing. Memory will be updated once confirmed.*
-
 ---
 
 ## Deep Dive Tracker
@@ -71,14 +69,14 @@ Each bi-weekly briefing contains:
 
 - **[Jun 15, 2026]** The 14th Amendment's Citizenship Clause: text, ratification history, and *United States v. Wong Kim Ark* (1898) — foundational precedent for *Trump v. Barbara*
 - **[Jun 16, 2026]** Article II removal power: from *Myers v. United States* (1926) to *Humphrey's Executor* (1935) to *Seila Law* (2020) — the arc behind *Trump v. Cook* and *Trump v. Slaughter*
-- **[Jun 20, 2026]** The Chevron doctrine: rise (*Chevron USA v. NRDC*, 1984), fall (*Loper Bright*, 2024), and what deference looks like now — connected to *Learning Resources v. Trump* and *Trump v. Slaughter*
+- **[Jun 16, 2026]** The Chevron doctrine: rise (*Chevron USA v. NRDC*, 1984), fall (*Loper Bright*, 2024), and what deference looks like now — connected to *Learning Resources v. Trump* and *Trump v. Slaughter*
 
 ### Topic Queue (Planned)
 
 **Constitutional Foundations**
 - [x] ~~The 14th Amendment's Citizenship Clause: text, ratification history, and *United States v. Wong Kim Ark* (1898) — foundational precedent for *Trump v. Barbara*~~ *(covered Jun 15, 2026)*
 - [x] ~~Article II removal power: from *Myers v. United States* (1926) to *Humphrey's Executor* (1935) to *Seila Law* (2020) — the arc behind *Trump v. Cook* and *Trump v. Slaughter*~~ *(covered Jun 16, 2026)*
-- [x] ~~The Chevron doctrine: rise (*Chevron USA v. NRDC*, 1984), fall (*Loper Bright*, 2024), and what deference looks like now~~ *(covered Jun 20, 2026)*
+- [x] ~~The Chevron doctrine: rise (*Chevron USA v. NRDC*, 1984), fall (*Loper Bright*, 2024), and what deference looks like now~~ *(covered Jun 16, 2026)*
 - [ ] The major questions doctrine: what it is, where it came from, and how it interacts with originalism ← **NEXT**
 
 **Voting Rights and Elections**
@@ -128,7 +126,7 @@ Each bi-weekly briefing contains:
 |------|----------------|----------------------|
 | Jun 15, 2026 (inaugural) | 14th Amendment Citizenship Clause / *Wong Kim Ark* | *Chiles v. Salazar*, *Louisiana v. Callais*, *FCC v. AT&T*; spotlight on *Trump v. Barbara*; preview of removal power cases |
 | Jun 16, 2026 | Article II removal power: *Myers → Humphrey's Executor → Seila Law* | No new opinions since Jun 15; cert denial in *E.D. v. Noblesville* (Alito dissent); spotlight on *Trump v. Slaughter / Cook* and *Watson v. RNC*; end-of-term calendar |
-| Jun 20, 2026 | Chevron doctrine: *Chevron* (1984) → *Loper Bright* (2024) → post-deference landscape | Jun 18 opinion day (cases TBD); shadow docket — Alabama nitrogen execution order; spotlight on *Little v. Hecox* / *West Virginia v. B.P.J.*; end-of-term calendar |
+| Jun 16, 2026 (sent early — scheduled for Jun 19) | Chevron doctrine: *Chevron* (1984) → *Loper Bright* (2024) → post-deference landscape | Shadow docket — Alabama nitrogen execution order; spotlight on *Little v. Hecox* / *West Virginia v. B.P.J.*; end-of-term calendar |
 
 ---
 
@@ -148,8 +146,8 @@ Cases already granted certiorari for October Term 2026 (begins October 5, 2026):
 ## System Notes
 
 - **Briefing cadence:** Twice weekly (Tuesdays and Fridays), sent via Claude Code routine
-- **Last briefing sent:** June 20, 2026
-- **Next briefing due:** June 23, 2026 (Tuesday — expect final-week opinions, potentially including birthright citizenship, removal power, and transgender athlete decisions)
+- **Last briefing sent:** June 16, 2026 (Chevron briefing sent early; scheduled date was June 19)
+- **Next briefing due:** June 19, 2026 (Friday — expect opinions released Jun 18+ to cover; removal power, birthright citizenship, and transgender athlete decisions may land before then)
 - **Source priority:** SCOTUSblog (primary), official SCOTUS site for opinions and calendars, NPR Legal, Ballotpedia for term case lists
 - **Interpretive frame:** Originalism as methodological constraint (not political position); separation of powers as a structural good; Court legitimacy as contingent on restraint; awareness that "giving it back to the legislature" carries real human costs, and that this is a feature of democratic accountability, not a bug
 - **Tone:** Analytical, not partisan. Surface the doctrinal stakes. Let Evie form the political judgments.
@@ -157,5 +155,5 @@ Cases already granted certiorari for October Term 2026 (begins October 5, 2026):
 
 ---
 
-*Last updated: June 20, 2026*
-*Updated by: Claude (SCOTUS briefing routine — post-June 20 send)*
+*Last updated: June 16, 2026*
+*Updated by: Claude (SCOTUS briefing routine — date correction after Chevron briefing sent early)*
