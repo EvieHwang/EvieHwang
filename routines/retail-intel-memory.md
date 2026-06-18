@@ -1,5 +1,5 @@
 # Retail Intel — Working Memory
-_Last updated: 2026-06-17_
+_Last updated: 2026-06-18_
 
 ## Deep Dives Covered (rolling 90 days)
 <!-- format: topic — [layer/rung] — YYYY-MM-DD -->
@@ -12,6 +12,7 @@ _Last updated: 2026-06-17_
 - Multi-objective Pareto forecast combination (arXiv:2606.04900, Petropoulos et al.): accuracy ≠ decision performance under asymmetric costs; Pareto frontier over combination weights — [forecasting → decision rung] — 2026-06-15
 - XGBoost vs. neural ML comparison for retail (arXiv:2506.05941): tree-based wins on intermittent/sparse/high-turnover retail data; SAITS imputation helps neural but still inferior; foundation quality gates which workhorse you can deploy — [forecasting rung / honest boundary] — 2026-06-16
 - Zalando extended (R,s,Q) + conformal prediction + DES (Scientific Reports Dec 2025): LightGBM quantiles → conformal calibration → discrete event simulation → stochastic policy optimization; 22% GMV uplift over human baseline; real decision-focused optimization in production at fashion scale — [decision optimization rung] — 2026-06-17
+- RELEX 10 AI Agents GA: agents-over-engine architecture confirmed — right layer (agentic), right position (over real optimization, not replacing it); M&S Food as GA reference customer; gap remains on conformal/newsvendor fractile integration; March "copilot veneer" verdict updated to "right architecture at the agentic rung" — [agentic rung] — 2026-06-18
 
 ## Headlines & Company Events Covered (rolling 14 days)
 <!-- format: entity — one-line — YYYY-MM-DD -->
@@ -35,6 +36,15 @@ _Last updated: 2026-06-17_
 - invent.ai — 2026 Gartner FAR market guide recognition (short + long lifecycle); "agentic decisioning" blog framing; same caveat as Blue Yonder: agentic UI ≠ real decision math underneath — 2026-06-17
 - Toolio — April 2026 update: rolling MFP inventory, in-season retrending, allocation controls; collapses Layer 1/2 gap from batch to live — 2026-06-17
 - TSFM-Bench — arXiv:2410.11802 at KDD 2026; first cross-model benchmark across Chronos/TimesFM/Moirai zero/few/full-shot; retrained gradient boosting baseline still missing from most comparisons — 2026-06-17
+- US-Iran MOU — signed June 17; Hormuz reopening ~30 days but mine clearance 6 weeks–6 months; Q3 BAF/PSS hits July 1 regardless; CMA CGM $1,000/TEU PSS + new FAK rates ($3,700/20', $6,300/40') effective July 1; Hapag-Lloyd $500–$1,000/TEU PSS from June 8 ongoing; buy plans on Hormuz-inflated unit costs are overstated for H2 — 2026-06-18
+- BLS May 2026 — import prices +6.7% YoY, +1.9% MoM (released June 16); apparel/footwear/household goods component accelerating for second consecutive month; cost ratio c_u/(c_u+c_o) has shifted materially; frozen safety stock calibrations mis-stated — 2026-06-18
+- NRF import forecast — June +14.3% YoY (2.25M TEU) then July cliff -8.4%, August -8.6%; tariff pull-forward manufacturing phantom demand signal at port level; planning systems reading June momentum as genuine demand will overshoot H2 buy — 2026-06-18
+- RELEX — 10 AI Agents GA launched June 17; M&S Food as reference production customer; Inventory Control, Order Proposal Troubleshooting, Promotion Diagnostics, Store Support, Location Clustering + P&P equivalents; see Deep Dive for full architecture analysis — 2026-06-18
+- Manhattan Associates — ~6% workforce cut June 1 + fiduciary investigation ongoing; OMS/WMS platform in restructuring; customer roadmap commitments post-June 1 carry elevated uncertainty — 2026-06-18
+- Ralph Lauren Q4 FY26 — inventory +7%, management calls composition "healthy and current," mid-single-digit FY27 revenue growth guide; strategic pull-forward conviction buy — 2026-06-18
+- Capri Holdings Q4 FY26 — inventory -17% to $581M, sharpest destocking in peer group; $25M tariff refund (IEEPA ruling) as additional cost reduction; full-price sell-through discipline — 2026-06-18
+- Toolio — "Intelligence vs. Judgment" blog (June 16): AI handles intelligence (anomaly surfacing, recaps, exception flagging); humans own judgment (markdown timing, vendor negotiation, assortment bets); cleanest vendor articulation of agentic rung ceiling this week — 2026-06-18
+- Section 122 tariff — apparel tariff expires July 24; USTR 60-country forced labor 301 proposed as replacement; comment period closes July 6; 36-day regime uncertainty window July 24–Aug 29; Federal Circuit stay June 11 adds second open variable; two unresolved landed cost inputs simultaneously — 2026-06-18
 
 ## Sign-offs Used (rolling 14 days)
 <!-- format: line — YYYY-MM-DD -->
@@ -42,3 +52,4 @@ _Last updated: 2026-06-17_
 - "Units down, dollars flat — that's not inventory discipline, that's tariffs doing the accounting." — 2026-06-15
 - "54% of supply chain leaders want AI to recommend while they decide. Which is exactly what a spreadsheet does — we've just started calling it an agent." — 2026-06-16
 - "22% GMV over a human baseline is a headline. That the conformal quantiles fed a simulation instead of a safety-stock formula is the paper." — 2026-06-17
+- "The MOU moves the sell-through curve. The buy plan it was built on doesn't know that yet." — 2026-06-18
