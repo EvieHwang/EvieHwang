@@ -1,5 +1,5 @@
 # Retail Intel — Working Memory
-_Last updated: 2026-06-19_
+_Last updated: 2026-06-20_
 
 ## Deep Dives Covered (rolling 90 days)
 <!-- format: topic — [layer/rung] — YYYY-MM-DD -->
@@ -14,6 +14,7 @@ _Last updated: 2026-06-19_
 - Zalando extended (R,s,Q) + conformal prediction + DES (Scientific Reports Dec 2025): LightGBM quantiles → conformal calibration → discrete event simulation → stochastic policy optimization; 22% GMV uplift over human baseline; real decision-focused optimization in production at fashion scale — [decision optimization rung] — 2026-06-17
 - RELEX 10 AI Agents GA: agents-over-engine architecture confirmed — right layer (agentic), right position (over real optimization, not replacing it); M&S Food as GA reference customer; gap remains on conformal/newsvendor fractile integration; March "copilot veneer" verdict updated to "right architecture at the agentic rung" — [agentic rung] — 2026-06-18
 - Google Complexity Router (arXiv:2605.24381): feature-based routing assigns 30% of series to FM inference, 70% to lightweight specialists; MASE 0.970 vs. 0.989 for universal FM; heterogeneous demand explicitly classified as specialist-favoring regime; architecture implication: route at ingestion, calibrate threshold in-domain — [forecasting rung / honest boundary] — 2026-06-19
+- DeepStock (arXiv:2603.19621): base-stock policy regularizations (monotone ordering + smoothness) as soft priors in DRL training; 100% production deployment on Alibaba Tmall; outperforms classical baselines (EWA, myopic newsvendor, base-stock); RL earns its place only because classical structure is injected as prior — confirms hyperscale-only watchlist stance; refined question is whether you have a working classical layer to regularize against — [RL rung] — 2026-06-20
 
 ## Headlines & Company Events Covered (rolling 14 days)
 <!-- format: entity — one-line — YYYY-MM-DD -->
@@ -22,7 +23,7 @@ _Last updated: 2026-06-19_
 - Gap Inc — Q1 FY26: inventory flat in dollars/units down; ~200bps tariff drag on merchandise margin; EPS beat, guidance raised — 2026-06-15
 - Aritzia — Q1 FY27 (Mar–May 2026): 33% revenue growth vs 3% inventory growth; cleanest inventory-to-sales print in peer group — 2026-06-15
 - Under Armour — FY26 full year (Q4 reported May 12): inventory $915M (-3%), full-year net loss $496M on -4% revenue $5.0B; "better not just smaller" composition narrative; stock -17% on FY27 guidance signals demand gap not closed — 2026-06-19
-- Nike — Q4 FY26 reporting June 30; $230M supply chain severance booked Q3; Q3 inventory $7.5B (-1% units), tariff-inflated unit costs; ~250bps tariff headwind on Q4 gross margin; watch for inventory clearance confirmation — 2026-06-19
+- Nike — Q4 FY26 reporting June 30; sell-through green all channels for first time in 2 years (Feb); classic inventory clearance rolling off (~5pp Q3 drag); ~250bps tariff headwind Q4 gross margin; watch full-price mix and China trajectory on June 30 — 2026-06-20
 - Retail sales — May trade +5.2% YoY; post-front-loading consumer bounce holding — 2026-06-15
 - arXiv:2506.05941 — XGBoost RMSE 4.833 beats N-BEATS/N-HiTS/TFT on retail data with intermittency and missingness; SAITS imputation closes gap at aggregate levels only — 2026-06-16
 - RELEX State of Supply Chain 2026 — 54% prefer AI recommendation + human decision; only 10% trust autonomous AI supply chain decisions; 47% using/planning AI-driven inventory optimization — 2026-06-16
@@ -40,14 +41,17 @@ _Last updated: 2026-06-19_
 - BLS May 2026 — import prices +6.7% YoY, +1.9% MoM; apparel/footwear/household goods accelerating second consecutive month; c_u/(c_u+c_o) ratio shifted materially; frozen safety stock calibrations mis-stated — 2026-06-18
 - NRF import forecast — June +14.3% YoY (2.25M TEU) then July cliff -8.4%, August -8.6%; tariff pull-forward phantom demand signal at port level; planning systems reading June momentum as genuine demand will overshoot H2 buy — 2026-06-18
 - RELEX — 10 AI Agents GA launched June 17; M&S Food as reference production customer; Inventory Control, Order Proposal Troubleshooting, Promotion Diagnostics, Store Support, Location Clustering + P&P equivalents — 2026-06-18
-- Manhattan Associates — ~6% workforce cut June 1 (~260 jobs) + fiduciary investigation ongoing; 2026 guidance reaffirmed post-restructuring; OMS/WMS roadmap commitment uncertainty remains for customers mid-implementation — 2026-06-19
+- Manhattan Associates — ~6% workforce cut June 1 (~260 jobs); Linda Pinne new CFO since March 31; $7–9M Q2 restructuring charges (substantially complete); Rosen Law fiduciary investigation ongoing; OMS/WMS roadmap signals still absent — 2026-06-20
 - Ralph Lauren Q4 FY26 — inventory +7%, management calls composition "healthy and current," mid-single-digit FY27 revenue growth guide; strategic pull-forward conviction buy — 2026-06-18
 - Capri Holdings Q4 FY26 — inventory -17% to $581M, sharpest destocking in peer group; $25M tariff refund (IEEPA ruling); full-price sell-through discipline — 2026-06-18
 - Toolio — "Intelligence vs. Judgment" blog (June 16): AI surfaces exceptions, humans own judgment calls; cleanest vendor articulation of agentic rung ceiling — 2026-06-18
-- Section 122 tariff — CIT struck down as unlawful May 7 (2-1); Federal Circuit stayed injunction June 11, collection continues; statutory expiration July 23; USTR Section 301 replacement proposed (10–12.5%), comment period closes July 6, hearings July 7; three simultaneous outcome scenarios for fall buy-plan landed cost — 2026-06-19
+- Section 122/301 tariff — CIT struck down May 7, stayed June 11, expiry July 23; USTR Section 301 Forced Labor proposed June 2: 60 economies, 10–12.5%, textile mechanism for US-cotton apparel; June 22 hearing registration deadline; July 6 comment close; four simultaneous tariff scenarios for fall landed cost — 2026-06-20
 - arXiv:2605.24381 — Google Complexity Router: 30% FM / 70% specialist split, MASE 0.970 vs. 0.989 universal FM; heterogeneous demand classified specialist-favoring regime — 2026-06-19
 - Scientific Reports 2026 RL — Sorour et al. multi-objective inventory RL: profit + carbon as independent MDP objectives; PPO/PPG/A2C/DDQN benchmarked; academic result, no production evidence; EU CSRD forcing function to watch — 2026-06-19
 - Levi Strauss — Q2 FY26 reporting July 9; Q1 +14% revenue, 61.9% gross margin, inventory +9% in dollars; watch for tariff cost pass-through durability in June quarter — 2026-06-19
+- DeepStock arXiv:2603.19621 — base-stock-regularized DRL at 100% Tmall production; hyperscale RL only works with classical prior; first confirmed RL deployment outside Amazon at e-comm hyperscale — 2026-06-20
+- arXiv:2603.16815 — "Beyond Accuracy": M5 Walmart benchmarked by newsvendor inventory cost; Temporal CNN/LSTM beat statistical baselines on cost not just error; third paper this month making accuracy ≠ cost ranking — 2026-06-20
+- Lululemon CEO Heidi O'Neill — 25-year Nike veteran, Sept 8 start, inherits 15–16 month lead-time target and SKU-rationalization agenda; supply-chain translation question from performance-sport to fashion-cycle — 2026-06-20
 
 ## Sign-offs Used (rolling 14 days)
 <!-- format: line — YYYY-MM-DD -->
@@ -57,3 +61,4 @@ _Last updated: 2026-06-19_
 - "22% GMV over a human baseline is a headline. That the conformal quantiles fed a simulation instead of a safety-stock formula is the paper." — 2026-06-17
 - "The MOU moves the sell-through curve. The buy plan it was built on doesn't know that yet." — 2026-06-18
 - "Google built a router so you'd stop arguing about which model wins. The router's answer is: it depends on the series. You still have to know your series." — 2026-06-19
+- "The only thing that made deep RL work at Tmall was putting the newsvendor's ghost inside it. Build the ghost first." — 2026-06-20
