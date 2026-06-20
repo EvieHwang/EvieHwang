@@ -4,6 +4,14 @@
 
 ---
 
+## Canon Criterion
+
+The ethical viewer rejects work with abusive content or abusive creators. Some judgment may be required; some work may be viewed as historical artifact. Where the actor is the victim, conscious viewing honors their talent despite the abuse.
+
+All recommendations in this canon have been evaluated against this criterion, or carry a ⚑ flag where judgment applies.
+
+---
+
 ## Taste in Brief
 
 Style as argument, not decoration. Formal control and emotional unsparing quality at the same time. Protagonists who are completely clear-eyed about what they're facing and act anyway — not heroism, clarity. Cynicism without nihilism. Cool that earns itself. No Anglo-centrism — country of origin is not a filter, vision is.
@@ -21,12 +29,10 @@ Mainstream is fine when made well and meaning something: The Bourne Ultimatum, C
 ### Foundation
 Films that build the language.
 
-- [ ] Chinatown (1974, Roman Polanski) — New Hollywood at its most controlled. Power, corruption, a city that does not explain itself. Jake Gittes finds out exactly what he is dealing with and cannot stop it anyway.
 - [x] Three Colors: Blue (1993, Kieślowski) — Grief rendered with absolute formal precision. A woman who is completely herself, at great cost.
 - [ ] Blade Runner (1982, Ridley Scott) — Dark glamour, formally precise, philosophically serious about time and what a life amounts to.
 - [ ] Paris, Texas (1984, Wim Wenders) — A man walking back into a life. Devastatingly beautiful, emotionally rigorous.
-- [ ] The Conformist (1970, Bertolucci) — Italian Cold War fascism, morally serious, visually extraordinary. Direct ancestor of everything Sorrentino does.
-- [ ] Repulsion (1965, Roman Polanski) — Psychological disintegration rendered with absolute formal precision. Deneuve is completely, terrifyingly herself.
+- [ ] The Conformist (1970, Bertolucci) ⚑ — Italian Cold War fascism, morally serious, visually extraordinary. Direct ancestor of everything Sorrentino does. *Flag: Bertolucci admitted in a 2013 interview to directing a non-consensual scene in Last Tango in Paris (1972), specifically so the actress's distress would be real. This film predates that conduct. Judgment applies.*
 
 ### Director Deep Dives
 Go deep on one filmmaker at a time.
@@ -60,11 +66,10 @@ Things surfaced by the digest or recommended along the way.
 
 ## Next Up
 
-1. Chinatown (1974, Polanski) — Foundation
-2. In the Mood for Love (2000, Wong Kar-wai) — Director Deep Dives
-3. The Lives of Others (2006, von Donnersmarck) — Director Deep Dives
-4. The Ipcress File (1965, Furie) — Movements
-5. Yi Yi (2000, Edward Yang) — Director Deep Dives
+1. In the Mood for Love (2000, Wong Kar-wai) — Director Deep Dives
+2. The Lives of Others (2006, von Donnersmarck) — Director Deep Dives
+3. The Ipcress File (1965, Furie) — Movements
+4. Yi Yi (2000, Edward Yang) — Director Deep Dives
 
 ---
 
@@ -82,7 +87,7 @@ Films watched before the curriculum began. These form the foundation of the tast
 | Se7en | 1995 | Fincher | ★★★★★ | Wonderful. |
 | Heat | 1995 | Michael Mann | ★★★★★ | The coffee shop scene is one of the great scenes in American cinema. |
 | Goodfellas | 1990 | Scorsese | ★★★★★ | Style as argument — the way it is shot is inseparable from what it says about seduction and violence. |
-| Léon: The Professional | 1994 | Besson | ★★★★★ | Wonderful. |
+| Léon: The Professional | 1994 | Besson | ★★★★★ | Wonderful. ⚑ *Flag: Besson faced a rape allegation in 2018 (charges dropped by French prosecutors). The film also frames a romantic attachment between a 12-year-old and an adult male protagonist. Both warrant review against the canon criterion.* |
 | Rogue One | 2016 | Edwards | ★★★★★ | Incredibly powerful. A resistance tragedy. Broken people who find a reason to act without a reason to hope. Makes me cry. |
 | The Matrix | 1999 | Wachowskis | ★★★★★ | Incredibly impactful. Formally revolutionary, philosophically serious. |
 | Tinker Tailor Soldier Spy | 2011 | Alfredson | ★★★★★ | Cold War, restraint, betrayal, moral seriousness wearing a quiet face. |
@@ -100,3 +105,4 @@ Films watched before the curriculum began. These form the foundation of the tast
 | The Rum Diary | 2011 | Robinson | ★★★ | |
 | Three Colors: Blue | 1993 | Kieślowski | ★★★★★ | Grief rendered with formal precision. Part of curriculum — Foundation. |
 | Mulholland Drive | 2001 | Lynch | ★★★★ | Part of curriculum — Movements. A film to return to. |
+| Chinatown | 1974 | Polanski | — | Immaculate setup. Ending is cruel filmmaking — the director using craft to deliver harm to the audience. The child rapist's perversity is in the work. Removed from canon: convicted predator, work fails both tests. Unrated. |
