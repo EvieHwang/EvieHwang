@@ -32,7 +32,7 @@ Films that build the language.
 - [x] Three Colors: Blue (1993, Kieślowski) — Grief rendered with absolute formal precision. A woman who is completely herself, at great cost.
 - [ ] Blade Runner (1982, Ridley Scott) — Dark glamour, formally precise, philosophically serious about time and what a life amounts to.
 - [ ] Paris, Texas (1984, Wim Wenders) — A man walking back into a life. Devastatingly beautiful, emotionally rigorous.
-- [ ] The Conformist (1970, Bertolucci) ⚑ — Italian Cold War fascism, morally serious, visually extraordinary. Direct ancestor of everything Sorrentino does. *Flag: Bertolucci admitted in a 2013 interview to directing a non-consensual scene in Last Tango in Paris (1972), specifically so the actress's distress would be real. This film predates that conduct. Judgment applies.*
+- [ ] The Conformist (1970, Bertolucci) — Italian Cold War fascism, morally serious, visually extraordinary. Direct ancestor of everything Sorrentino does. *Note: Bertolucci's admitted conduct in Last Tango in Paris disqualifies that film. The Conformist predates it and stands on its own merits; Bertolucci is not categorically excluded.*
 
 ### Director Deep Dives
 Go deep on one filmmaker at a time.
@@ -70,6 +70,7 @@ Things surfaced by the digest or recommended along the way.
 2. The Lives of Others (2006, von Donnersmarck) — Director Deep Dives
 3. The Ipcress File (1965, Furie) — Movements
 4. Yi Yi (2000, Edward Yang) — Director Deep Dives
+5. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
 
 ---
 
@@ -87,7 +88,7 @@ Films watched before the curriculum began. These form the foundation of the tast
 | Se7en | 1995 | Fincher | ★★★★★ | Wonderful. |
 | Heat | 1995 | Michael Mann | ★★★★★ | The coffee shop scene is one of the great scenes in American cinema. |
 | Goodfellas | 1990 | Scorsese | ★★★★★ | Style as argument — the way it is shot is inseparable from what it says about seduction and violence. |
-| Léon: The Professional | 1994 | Besson | ★★★★★ | Wonderful. ⚑ *Flag: Besson faced a rape allegation in 2018 (charges dropped by French prosecutors). The film also frames a romantic attachment between a 12-year-old and an adult male protagonist. Both warrant review against the canon criterion.* |
+| Léon: The Professional | 1994 | Besson | — | Loving but non-sexual relationship between Léon and Mathilda — the juxtaposition of innocent and assassin. Besson carries a dropped allegation (question mark, not dismissal). Prior five-star rating suspended; queued for conscious re-watch and re-evaluation. |
 | Rogue One | 2016 | Edwards | ★★★★★ | Incredibly powerful. A resistance tragedy. Broken people who find a reason to act without a reason to hope. Makes me cry. |
 | The Matrix | 1999 | Wachowskis | ★★★★★ | Incredibly impactful. Formally revolutionary, philosophically serious. |
 | Tinker Tailor Soldier Spy | 2011 | Alfredson | ★★★★★ | Cold War, restraint, betrayal, moral seriousness wearing a quiet face. |
