@@ -37,6 +37,23 @@ Films that build the language.
 ### Director Deep Dives
 Go deep on one filmmaker at a time.
 
+#### Stanley Kubrick — Complete Cycle
+*Chronological. The development of a singular and uncompromising vision. Carry the canon criterion into every film; no flags on Kubrick himself.*
+
+- [ ] The Killing (1956) — His first major work. A heist built on interlocking perspectives, each revealing the same catastrophe from a different angle. The cynicism is already fully formed — the plan is perfect and it fails anyway.
+- [ ] Paths of Glory (1957) — Three soldiers court-martialed for an impossible order. Kirk Douglas. Kubrick at his most morally direct: men who see exactly what institutional power is doing to them and cannot stop it. 88 minutes. Start here.
+- [ ] Spartacus (1960) — The only film where he lacked final cut; he semi-disowned it. Worth seeing as the exception that defines the rule — what Kubrick looks like when constrained by a system.
+- [x] Lolita (1962) — The trap of beautiful prose and monstrous narration. Mason's suave performance is the formal device. Already seen.
+- [ ] Dr. Strangelove (1964) — The logic of nuclear deterrence taken to its absurd conclusion without blinking. The end of the world as black comedy. Peter Sellers in three roles.
+- [ ] 2001: A Space Odyssey (1968) — The formal argument about technology, consciousness, and deep time. The long takes are not indulgent — they are the argument. HAL is the most chilling performance in any of his films.
+- [ ] A Clockwork Orange (1971) — State violence, free will, and whether morality is possible without choice. Goes further than almost anything in your canon. The recoil is appropriate and intentional.
+- [ ] Barry Lyndon (1975) — Shot entirely with natural light using NASA-developed lenses — the most visually extraordinary film he made. The emotional coldness is total. Ryan O'Neal rises and falls and the film watches with absolute indifference. Earn it; the completionist impulse is the right reason.
+- [ ] The Shining (1980) — Horror as architecture. The dread is in the geometry — the hotel's spaces are designed to disorient. What it does to Jack is inseparable from what Jack already was.
+- [ ] Full Metal Jacket (1987) — Two films joined at the seam. The Parris Island first half is formally perfect. R. Lee Ermey. The Vietnam second half is the cost of the first.
+- [ ] Eyes Wide Shut (1999) — His last film; he died four days after delivering the final cut. A man glimpses a world of private rituals among powerful men and is turned away at the door. Quieter and stranger than most of his work. About marriage, hidden lives, and what power keeps to itself. Watch it knowing what you now know about Hollywood.
+
+#### Individual Films
+
 - [ ] Yi Yi (2000, Edward Yang) — Taiwanese, three hours, about what a life amounts to across three generations. Quietly formidable. Emotionally devastating without a single sentimental frame.
 - [ ] In the Mood for Love (2000, Wong Kar-wai) — Two people who know exactly what is happening between them and choose, with full awareness, how to navigate it. Discipline, restraint, what you carry when you walk away.
 - [ ] Oldboy (2003, Park Chan-wook) — Formally immaculate, emotionally devastating, morally serious. Park at his most controlled and most savage.
@@ -71,6 +88,7 @@ Things surfaced by the digest or recommended along the way.
 3. The Ipcress File (1965, Furie) — Movements
 4. Yi Yi (2000, Edward Yang) — Director Deep Dives
 5. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
+6. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
 
 ---
 
@@ -106,4 +124,5 @@ Films watched before the curriculum began. These form the foundation of the tast
 | The Rum Diary | 2011 | Robinson | ★★★ | |
 | Three Colors: Blue | 1993 | Kieślowski | ★★★★★ | Grief rendered with formal precision. Part of curriculum — Foundation. |
 | Mulholland Drive | 2001 | Lynch | ★★★★ | Part of curriculum — Movements. A film to return to. |
+| Lolita | 1962 | Kubrick | — | The trap of beautiful prose and monstrous narration. HH is a monster throughout; the novel shows you what he tries not to show you. Part of Kubrick Cycle. |
 | Chinatown | 1974 | Polanski | — | Immaculate setup. Ending is cruel filmmaking — the director using craft to deliver harm to the audience. The child rapist's perversity is in the work. Removed from canon: convicted predator, work fails both tests. Unrated. |
