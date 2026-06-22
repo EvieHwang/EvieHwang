@@ -55,7 +55,7 @@ Go deep on one filmmaker at a time.
 #### Individual Films
 
 - [ ] Yi Yi (2000, Edward Yang) — Taiwanese, three hours, about what a life amounts to across three generations. Quietly formidable. Emotionally devastating without a single sentimental frame.
-- [ ] In the Mood for Love (2000, Wong Kar-wai) — Two people who know exactly what is happening between them and choose, with full awareness, how to navigate it. Discipline, restraint, what you carry when you walk away.
+- [x] In the Mood for Love (2000, Wong Kar-wai) — Two people who know exactly what is happening between them and choose, with full awareness, how to navigate it. Discipline, restraint, what you carry when you walk away.
 - [ ] Oldboy (2003, Park Chan-wook) — Formally immaculate, emotionally devastating, morally serious. Park at his most controlled and most savage.
 - [ ] Youth (2015, Sorrentino) — Two old men at a Swiss spa taking stock of what a life amounts to. Same register as La Grande Bellezza but more intimate.
 - [ ] Shoplifters (2018, Kore-eda) — Quiet and domestic but never soft. About family, love, and who gets to claim it. Will stay with you for weeks.
@@ -84,13 +84,12 @@ Things surfaced by the digest or recommended along the way.
 
 ## Next Up
 
-1. In the Mood for Love (2000, Wong Kar-wai) — Director Deep Dives
-2. The Lives of Others (2006, von Donnersmarck) — Director Deep Dives
-3. The Ipcress File (1965, Furie) — Movements
-4. The Quiet American (2002, Noyce) — Movements
-5. Yi Yi (2000, Edward Yang) — Director Deep Dives
-6. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
-7. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
+1. The Lives of Others (2006, von Donnersmarck) — Director Deep Dives
+2. The Ipcress File (1965, Furie) — Movements
+3. The Quiet American (2002, Noyce) — Movements
+4. Yi Yi (2000, Edward Yang) — Director Deep Dives
+5. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
+6. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
 
 ---
 
@@ -128,3 +127,4 @@ Films watched before the curriculum began. These form the foundation of the tast
 | Mulholland Drive | 2001 | Lynch | ★★★★ | Part of curriculum — Movements. A film to return to. |
 | Lolita | 1962 | Kubrick | — | The trap of beautiful prose and monstrous narration. HH is a monster throughout; the novel shows you what he tries not to show you. Part of Kubrick Cycle. |
 | Chinatown | 1974 | Polanski | — | Immaculate setup. Ending is cruel filmmaking — the director using craft to deliver harm to the audience. The child rapist's perversity is in the work. Removed from canon: convicted predator, work fails both tests. Unrated. |
+| In the Mood for Love | 2000 | Wong Kar-wai | ★★★★★ | Lush and visually wonderful. Plot-wise it doesn't go anywhere — didn't mind at all, too beautiful to watch. The best trains are the ones that don't go anywhere. Part of curriculum — Director Deep Dives. |
