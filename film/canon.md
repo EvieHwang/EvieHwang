@@ -65,6 +65,7 @@ Go deep on one filmmaker at a time.
 Post-punk British cinema, Cold War thrillers, Hong Kong wave, world cinema.
 
 - [ ] The Ipcress File (1965, Sidney J. Furie) — The anti-Bond. Michael Caine as a shabby, unglamorous spy. Cold, dirty, real.
+- [ ] The Spy Who Came in from the Cold (1965, Martin Ritt) — Le Carré's thesis made film. Richard Burton as Alec Leamas — a man who knows exactly what the Cold War costs and pays it anyway. Bleaker than Ipcress, more morally savage. Same year, same anti-glamour argument, taken further.
 - [ ] The Quiet American (2002, Phillip Noyce) — Greene's thesis about idealism as a form of violence, made with Michael Caine at his best. Fowler is exactly your kind of protagonist: completely clear-eyed, acts anyway, not redeemed for it. Held by Miramax after 9/11 for being too anti-American — which is its own demonstration of the film's argument.
 - [x] Mulholland Drive (2001, David Lynch) — Structurally audacious, set in a Hollywood that does not explain itself. Glamour and dread coexisting.
 - [ ] Betty Blue (1986, Jean-Jacques Beineix) — French, visually ravishing, emotionally unsparing. Formally ambitious without being cold.
@@ -84,13 +85,14 @@ Things surfaced by the digest or recommended along the way.
 
 ## Next Up
 
-1. The Ipcress File (1965, Furie) — Movements
-2. The Quiet American (2002, Noyce) — Movements
-3. Yi Yi (2000, Edward Yang) — Director Deep Dives
-4. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
-5. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
-6. Heat (1995, Michael Mann) — First watch: anchor by reputation, now to be earned and ranked
-7. Three Colors: Blue (1993, Kieślowski) — Re-watch: re-rank under tier criteria
+1. The Ipcress File (1965, Furie) — Movements — *currently watching*
+2. The Spy Who Came in from the Cold (1965, Ritt) — Movements — companion piece
+3. The Quiet American (2002, Noyce) — Movements
+4. Yi Yi (2000, Edward Yang) — Director Deep Dives
+5. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
+6. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
+7. Heat (1995, Michael Mann) — First watch: anchor by reputation, now to be earned and ranked
+8. Three Colors: Blue (1993, Kieślowski) — Re-watch: re-rank under tier criteria
 
 ---
 
