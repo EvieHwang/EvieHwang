@@ -64,7 +64,7 @@ Go deep on one filmmaker at a time.
 ### Movements
 Post-punk British cinema, Cold War thrillers, Hong Kong wave, world cinema.
 
-- [ ] The Ipcress File (1965, Sidney J. Furie) — The anti-Bond. Michael Caine as a shabby, unglamorous spy. Cold, dirty, real.
+- [x] The Ipcress File (1965, Sidney J. Furie) — The anti-Bond. Michael Caine as a shabby, unglamorous spy. Cold, dirty, real.
 - [ ] The Spy Who Came in from the Cold (1965, Martin Ritt) — Le Carré's thesis made film. Richard Burton as Alec Leamas — a man who knows exactly what the Cold War costs and pays it anyway. Bleaker than Ipcress, more morally savage. Same year, same anti-glamour argument, taken further.
 - [ ] The Quiet American (2002, Phillip Noyce) — Greene's thesis about idealism as a form of violence, made with Michael Caine at his best. Fowler is exactly your kind of protagonist: completely clear-eyed, acts anyway, not redeemed for it. Held by Miramax after 9/11 for being too anti-American — which is its own demonstration of the film's argument.
 - [x] Mulholland Drive (2001, David Lynch) — Structurally audacious, set in a Hollywood that does not explain itself. Glamour and dread coexisting.
@@ -85,14 +85,13 @@ Things surfaced by the digest or recommended along the way.
 
 ## Next Up
 
-1. The Ipcress File (1965, Furie) — Movements — *currently watching*
-2. The Spy Who Came in from the Cold (1965, Ritt) — Movements — companion piece
-3. The Quiet American (2002, Noyce) — Movements
-4. Yi Yi (2000, Edward Yang) — Director Deep Dives
-5. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
-6. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
-7. Heat (1995, Michael Mann) — First watch: anchor by reputation, now to be earned and ranked
-8. Three Colors: Blue (1993, Kieślowski) — Re-watch: re-rank under tier criteria
+1. The Spy Who Came in from the Cold (1965, Ritt) — Movements — companion piece to Ipcress
+2. The Quiet American (2002, Noyce) — Movements
+3. Yi Yi (2000, Edward Yang) — Director Deep Dives
+4. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
+5. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
+6. Heat (1995, Michael Mann) — First watch: anchor by reputation, now to be earned and ranked
+7. Three Colors: Blue (1993, Kieślowski) — Re-watch: re-rank under tier criteria
 
 ---
 
@@ -134,3 +133,4 @@ Rated on an S/A/B/C/D tier scale. S tracks filmmaking, not enjoyment — reserve
 | Chinatown | 1974 | Polanski | — | Immaculate setup. Ending is cruel filmmaking — the director using craft to deliver harm to the audience. The child rapist's perversity is in the work. Removed from canon: convicted predator, work fails both tests. Unrated. |
 | In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful. Plot-wise it doesn't go anywhere — didn't mind at all, too beautiful to watch. The best trains are the ones that don't go anywhere. Opacity applied evenhandedly to both leads — restraint, not flattening. Great filmmaking. Part of curriculum — Director Deep Dives. |
 | The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been; uplifting from Gorbachev's face to the end. Wiesler is a good man. Misses S on misogyny: it spends Christa-Maria — she has no interior life of her own and her death is the hinge the men's redemption turns on. Filed as a period artifact, not a substantial failure of art: viewer isn't asked for complicity, filmmaker commits no egregious abuse. Flawed but acceptable. Part of curriculum — Director Deep Dives. |
+| The Ipcress File | 1965 | Furie | B | Entertaining and characterful — Palmer as grammar school meritocrat is the real achievement. Period London is a document. Plot loses its thread in the third act; wouldn't recommend broadly. B is right: good without being great, honest without being ungenerous. |
