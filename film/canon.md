@@ -1,6 +1,6 @@
 # Film Canon
 *Evie's personal film curriculum and watch history*
-*Last updated: 2026-06-19*
+*Last updated: 2026-06-21*
 
 ---
 
@@ -65,6 +65,7 @@ Go deep on one filmmaker at a time.
 Post-punk British cinema, Cold War thrillers, Hong Kong wave, world cinema.
 
 - [ ] The Ipcress File (1965, Sidney J. Furie) — The anti-Bond. Michael Caine as a shabby, unglamorous spy. Cold, dirty, real.
+- [ ] The Quiet American (2002, Phillip Noyce) — Greene's thesis about idealism as a form of violence, made with Michael Caine at his best. Fowler is exactly your kind of protagonist: completely clear-eyed, acts anyway, not redeemed for it. Held by Miramax after 9/11 for being too anti-American — which is its own demonstration of the film's argument.
 - [x] Mulholland Drive (2001, David Lynch) — Structurally audacious, set in a Hollywood that does not explain itself. Glamour and dread coexisting.
 - [ ] Betty Blue (1986, Jean-Jacques Beineix) — French, visually ravishing, emotionally unsparing. Formally ambitious without being cold.
 - [ ] Manhunter (1986, Michael Mann) — Cold, precise, neon-lit. Mann at his most controlled. Post-punk aesthetic as crime procedural.
@@ -86,9 +87,10 @@ Things surfaced by the digest or recommended along the way.
 1. In the Mood for Love (2000, Wong Kar-wai) — Director Deep Dives
 2. The Lives of Others (2006, von Donnersmarck) — Director Deep Dives
 3. The Ipcress File (1965, Furie) — Movements
-4. Yi Yi (2000, Edward Yang) — Director Deep Dives
-5. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
-6. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
+4. The Quiet American (2002, Noyce) — Movements
+5. Yi Yi (2000, Edward Yang) — Director Deep Dives
+6. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
+7. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
 
 ---
 
