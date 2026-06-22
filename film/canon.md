@@ -89,6 +89,8 @@ Things surfaced by the digest or recommended along the way.
 3. Yi Yi (2000, Edward Yang) — Director Deep Dives
 4. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
 5. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
+6. Heat (1995, Michael Mann) — First watch: anchor by reputation, now to be earned and ranked
+7. Three Colors: Blue (1993, Kieślowski) — Re-watch: re-rank under tier criteria
 
 ---
 
@@ -96,21 +98,21 @@ Things surfaced by the digest or recommended along the way.
 
 Films watched before the curriculum began. These form the foundation of the taste profile.
 
-Rated on an S/A/B/C/D tier scale. S is reserved; A is excellent, often with a single named flaw; descending from there. A dash (—) means consciously unrated.
+Rated on an S/A/B/C/D tier scale. S tracks filmmaking, not enjoyment — reserved for great craft with no load-bearing flaw. A is excellent and often very enjoyable, sometimes with a single named flaw. Descending from there. A dash (—) means consciously unranked.
 
 | Title | Year | Director | Tier | Notes |
 |-------|------|----------|------|-------|
 | The Godfather | 1972 | Coppola | S | Anchor film. Narratively compelling, visually lush, cool without trying. |
 | La Grande Bellezza | 2013 | Sorrentino | S | Anchor film. "The best trains are the ones that don't go anywhere." |
-| Atomic Blonde | 2017 | Leitch | S | Anchor film. Captures something essential. |
+| Atomic Blonde | 2017 | Leitch | A | Anchor by affection. Strong women, gripping plot, great styling, genuine surprise at the end — but very enjoyable rather than great filmmaking. |
 | No Country for Old Men | 2007 | Coens | S | Anchor film. Brings back memories. Recognition film, not entertainment. |
-| The Silence of the Lambs | 1991 | Demme | S | Really landed. |
-| Se7en | 1995 | Fincher | S | Wonderful. |
-| Heat | 1995 | Michael Mann | S | The coffee shop scene is one of the great scenes in American cinema. |
-| Goodfellas | 1990 | Scorsese | S | Style as argument — the way it is shot is inseparable from what it says about seduction and violence. |
+| The Silence of the Lambs | 1991 | Demme | S | Really landed. Clarice is the fully realized competent protagonist — passes the test and the craft is airtight. |
+| Se7en | 1995 | Fincher | B | Clever, but not especially so. |
+| Heat | 1995 | Michael Mann | — | Anchor by reputation — not yet seen. Queued for first watch. |
+| Goodfellas | 1990 | Scorsese | B | Notably good moments, but unquotable and didn't charm. |
 | Léon: The Professional | 1994 | Besson | — | Loving but non-sexual relationship between Léon and Mathilda — the juxtaposition of innocent and assassin. Besson carries a dropped allegation (question mark, not dismissal). Prior top rating suspended; queued for conscious re-watch and re-evaluation. |
-| Rogue One | 2016 | Edwards | S | Incredibly powerful. A resistance tragedy. Broken people who find a reason to act without a reason to hope. Makes me cry. |
-| The Matrix | 1999 | Wachowskis | S | Incredibly impactful. Formally revolutionary, philosophically serious. |
+| Rogue One | 2016 | Edwards | A | Incredibly powerful. A resistance tragedy. Broken people who find a reason to act without a reason to hope. Makes me cry — but still franchise filmmaking. |
+| The Matrix | 1999 | Wachowskis | A | Incredibly impactful, formally revolutionary, philosophically serious. Very good, not great filmmaking. |
 | Tinker Tailor Soldier Spy | 2011 | Alfredson | S | Cold War, restraint, betrayal, moral seriousness wearing a quiet face. |
 | Fight Club | 1999 | Fincher | A | The emphasis on authentic life experience connected. A little violent. |
 | The Big Short | 2015 | McKay | A | Smart, formally inventive, genuinely angry, cynical about power. |
@@ -118,15 +120,15 @@ Rated on an S/A/B/C/D tier scale. S is reserved; A is excellent, often with a si
 | Casino Royale | 2006 | Campbell | A | First half. Bond stripped of camp, brutal and controlled. |
 | John Wick | 2014 | Stahelski | A | Formal precision in action cinema. The worldbuilding is cynical and complete. |
 | Gravity | 2013 | Cuarón | A | Stripped down, survival, formal control, one person against a system that does not care. |
-| The Martian | 2015 | Scott | A | Competence as heroism. Problem-solving as character. |
+| The Martian | 2015 | Scott | A | Competence as heroism. Problem-solving as character. Very enjoyable. |
 | Ocean's 8 | 2018 | Ross | A | Cool, female, precise. The pleasure of competence. |
 | Snatch | 2000 | Ritchie | A | Wit, construction, cynicism as entertainment. |
 | The Gentlemen | 2019 | Ritchie | A | Same register as Snatch. |
 | Shaun of the Dead | 2004 | Wright | A | British wit, structural cleverness, genuine affection underneath the comedy. |
 | The Rum Diary | 2011 | Robinson | B | |
-| Three Colors: Blue | 1993 | Kieślowski | S | Grief rendered with formal precision. Part of curriculum — Foundation. |
+| Three Colors: Blue | 1993 | Kieślowski | — | Grief rendered with formal precision. Part of curriculum — Foundation. Unranked pending re-watch under tier criteria. |
 | Mulholland Drive | 2001 | Lynch | A | Part of curriculum — Movements. A film to return to. |
 | Lolita | 1962 | Kubrick | — | The trap of beautiful prose and monstrous narration. HH is a monster throughout; the novel shows you what he tries not to show you. Part of Kubrick Cycle. |
 | Chinatown | 1974 | Polanski | — | Immaculate setup. Ending is cruel filmmaking — the director using craft to deliver harm to the audience. The child rapist's perversity is in the work. Removed from canon: convicted predator, work fails both tests. Unrated. |
-| In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful. Plot-wise it doesn't go anywhere — didn't mind at all, too beautiful to watch. The best trains are the ones that don't go anywhere. Opacity applied evenhandedly to both leads — restraint, not flattening. Part of curriculum — Director Deep Dives. |
+| In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful. Plot-wise it doesn't go anywhere — didn't mind at all, too beautiful to watch. The best trains are the ones that don't go anywhere. Opacity applied evenhandedly to both leads — restraint, not flattening. Great filmmaking. Part of curriculum — Director Deep Dives. |
 | The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been; uplifting from Gorbachev's face to the end. Wiesler is a good man. Misses S on misogyny: it spends Christa-Maria — she has no interior life of her own and her death is the hinge the men's redemption turns on. Filed as a period artifact, not a substantial failure of art: viewer isn't asked for complicity, filmmaker commits no egregious abuse. Flawed but acceptable. Part of curriculum — Director Deep Dives. |
