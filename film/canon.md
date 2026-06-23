@@ -18,7 +18,7 @@ This is not a ranked watchlist. It is a polling instrument. Each film is a probe
 
 **Hard pre-filter:** the Canon Criterion is a gate, not a variable. Nothing that fails it ever enters a slate, regardless of how well it fits the taste model.
 
-**Conversation before an out-of-expectation grade.** If Evie moves to grade something in a way that conflicts with the model's expectation — an S for a film carrying a known conduct or content problem, or any tier that contradicts an established axis or the Canon Criterion — pause and surface it for discussion *before* recording the grade. Surprises get a conversation, not a silent entry.
+**Conversation before an out-of-expectation grade.** If Evie moves to grade something in a way that conflicts with the model's expectation — an S for a film carrying a known conduct or content problem, or any tier that contradicts an established axis or the Canon Criterion — pause and surface it for discussion *before* recording the grade. Surprises get a conversation, not a silent entry. (See *The Shining* — the case that established this rule works as engagement, not reflex.)
 
 ---
 
@@ -30,7 +30,9 @@ Flattening female characters is treated as a *competence failure*, not merely an
 
 **Hard rule:** no S-tier for a film that was abusive to one of its female leads. On-set conduct counts, not only on-screen treatment. Craft can be S-level and the tier still capped by the conduct.
 
-Currently excluded: Polanski (convicted predator), von Trier (archetypal misogynist; female suffering as the engine of the work). Under review: Besson (dropped allegation — question mark, not dismissal). Bertolucci not categorically excluded, but *Last Tango in Paris* is.
+**On the hard rule — what it is and isn't.** It is not an aesthetic antipathy toward depictions of female suffering, applied reflexively. It is a commitment to *engage genuinely* with what's actually there. That means distinguishing harm imposed *on* an actor as a person (caps the tier) from harm an actor *summons as craft* in knowing partnership with a director whose intent is wholly instrumental to the work (does not). The test is the director's agenda and the lead's standing, not the presence of suffering. Where interpretations of consent genuinely cancel out, the person who was in the room holds the casting vote. (See *The Shining*: the edge case that proves rather than breaks the rule.)
+
+Currently excluded: Polanski (convicted predator — cruelty *was* the point), von Trier (archetypal misogynist; female suffering as the auteur's signature). Under review: Besson (dropped allegation — question mark, not dismissal). Bertolucci not categorically excluded, but *Last Tango in Paris* is.
 
 ---
 
@@ -40,10 +42,10 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 
 - **Style as argument, not decoration.** Formal control that means something. Load-bearing across the entire watch log.
 - **Clear-eyed protagonists who act anyway.** Clarity, not heroism. Leamas, Fowler, Clarice. The single most reliable predictor of a high score.
-- **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads). One licensed exception for *on-screen* treatment: diminishment that is *realistically earned within the story* rather than authorial (cf. *The Shining*, Wendy under terror). Note this is separate from *on-set* conduct, which the hard rule governs.
+- **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads). One licensed exception for *on-screen* treatment: diminishment that is *realistically earned within the story* rather than authorial (cf. *The Shining*, Wendy under terror). On-set conduct is governed by the hard rule, and adjudicated case by case — not assumed from the presence of suffering.
 - **Cynicism without nihilism.** Cool that earns itself. *No Country*, *The Big Short*.
 - **Competence as pleasure.** The satisfaction of watching skilled people be skilled. *Ocean's 8*, *The Martian*, *John Wick*.
-- **Dread as architecture (newly confirmed).** Formal control aimed at fear lands at the top tier on craft — *The Shining* (craft is S-level; final tier under conduct review). Horror is a live register, not a blind spot.
+- **Dread as architecture (confirmed).** Formal control aimed at fear lands at the top tier — *The Shining* at S. Horror is a live register, not a blind spot.
 - **Country-of-origin neutral.** Vision is the filter, never the passport.
 
 ### Open questions (low confidence — where the probes go)
@@ -51,7 +53,7 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 1. **Does aesthetic achievement buy out narrative weakness, and above what threshold?** *In the Mood for Love* (S) forgave plotlessness because it was too beautiful to mind; *The Ipcress File* (B) was not beautiful enough to carry a plot that lost its thread. The exchange rate between beauty and story is the central unknown.
 2. **Is the Cold War pull era-aesthetic or moral-architecture?** Does she respond to the *period* — mid-century texture, the look of it — or to the *moral structure* those films happen to carry (idealism as violence, the cost of clarity)? *The Quiet American* is the controlled experiment now in flight.
 3. **Does dry contemplative cinema land like lush contemplative cinema?** Or was beauty doing the work in the world-cinema scores so far? Tests whether the arthouse strand is a real vein or homework.
-4. **Untested forms.** Still near-zero data on animation, documentary, pre-1960 cinema, and comedy-as-craft (Ritchie scores A — vein or incidental?). Horror is now answered on craft: dread-as-architecture lands at the top level. Each remaining blank is a wildcard a probe can open.
+4. **Untested forms.** Still near-zero data on animation, documentary, pre-1960 cinema, and comedy-as-craft (Ritchie scores A — vein or incidental?). Horror is now answered: dread-as-architecture lands at S. Each remaining blank is a wildcard a probe can open.
 
 ---
 
@@ -91,7 +93,7 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 - Hereditary (2018, Ari Aster) — grief as horror; formal control; a woman at the center.
 
 **Untested forms (wildcards — promote to keep exploration alive)**
-- Paths of Glory (1957, Kubrick) — pre-1960; 88 min; squarely on the clear-eyed-protagonist axis. *(Note Kubrick conduct flag for any female-lead films.)*
+- Paths of Glory (1957, Kubrick) — pre-1960; 88 min; squarely on the clear-eyed-protagonist axis.
 - Dr. Strangelove (1964, Kubrick) — comedy as craft, nuclear logic to absurdity.
 - The Wolf House (2018, León & Cociña) — animation as serious form; Chilean, disturbing.
 - I Shot Andy Warhol (1996, Mary Harron) — feminist, punk, countercultural.
@@ -139,8 +141,8 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 | Three Colors: Blue | 1993 | Kieślowski | — | Grief rendered with formal precision. Unranked pending re-watch under tier criteria. |
 | Mulholland Drive | 2001 | Lynch | A | Structurally audacious. Glamour and dread coexisting. A film to return to. |
 | Lolita | 1962 | Kubrick | — | The trap of beautiful prose and monstrous narration. HH is a monster throughout; the novel shows what he tries not to. |
-| Chinatown | 1974 | Polanski | — | Immaculate setup, cruel ending. Removed from canon: convicted predator, work fails both tests. Unrated. |
+| Chinatown | 1974 | Polanski | — | Immaculate setup, cruel ending. Removed from canon: convicted predator, cruelty was the point — work fails both tests. Unrated. |
 | In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful; doesn't go anywhere and didn't mind — too beautiful to watch. Opacity evenhanded across both leads — restraint, not flattening. Great filmmaking. |
-| The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been. Wiesler is a good man. Misses S on misogyny: Christa-Maria has no interior life and her death is the hinge the men's redemption turns on. Period artifact, flawed but acceptable. |
+| The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been. Wiesler is a good man. Misses S on misogyny: Christa-Maria has no interior life and her death is the hinge the men's redemption turns on. Sloppy characterization, not malice. Flawed but acceptable. |
 | The Ipcress File | 1965 | Furie | B | Entertaining and characterful — Palmer as grammar-school meritocrat is the real achievement, and period London is a document. Plot loses its thread in the third act; not beautiful enough to carry that. B is honest: good without being great. |
-| The Shining | 1980 | Kubrick | — | **Rank held pending Evie's call (out-of-expectation rule).** Craft is unambiguously S-level — dread as architecture, total control. But Kubrick deliberately subjected Shelley Duvall to sustained on-set stress and isolation to extract her performance (scheduled daily crying, instructed crew to withhold sympathy, praise reserved for Nicholson); the exhaustion on screen is partly real. Under the hard rule (no S for abuse of a female lead), this caps at **A**. Countervailing: Duvall herself later credited the method and resisted the victim framing — her agency belongs in the record. Final tier on Evie's decision. |
+| The Shining | 1980 | Kubrick | S | **An S adjudicated, not assumed — the edge case that proves the rule.** Craft is total: dread as architecture, the hotel's geometry *is* the horror. The conduct question was engaged, not reflexed past. Kubrick kept Duvall in sustained on-set stress and isolation to reach the performance — and the hard rule exists for exactly this. But the rule tests the *director's agenda* and the *lead's standing*, not the mere presence of suffering. Here: no sign of another agenda — the harm was wholly instrumental to the work, none aimed at her as a person (unlike Polanski, where cruelty was the point; unlike von Trier, whose signature it is). Duvall embraced the role, summoned the states as craft, and validated it after. The dissent stays on the record: her consent was largely retrospective, the isolation was structurally imposed, and unfalsifiable "they understood it together" readings cut both ways. But when external interpretations of consent genuinely cancel, the person who was in the room holds the casting vote — and that is Duvall. Deferring to her standing is the rigorous position, not the soft one. S earned with eyes open. Honors the creative muse. |
