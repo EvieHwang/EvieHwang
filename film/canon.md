@@ -1,6 +1,22 @@
 # Film Canon
-*Evie's personal film curriculum and watch history*
-*Last updated: 2026-06-22*
+*Evie's personal film practice — an active-inference model of her taste*
+*Last updated: 2026-06-23*
+
+---
+
+## How this file works
+
+This is not a ranked watchlist. It is a polling instrument. Each film is a probe; each tier score is signal; the queue updates based on what the signal reveals about the underlying taste structure. The goal is to *discover* the shape of Evie's taste, not to confirm a prior guess about it.
+
+**The loop, each round:**
+
+1. Surface a **slate of 3–4 probes**. Every slate mixes *exploit* (high-confidence fits that sharpen a known axis) and *explore* (deliberate uncertainty and wildcards that prevent overfitting). Never zero explore.
+2. Each probe carries an **explicit hypothesis**: the axis-uncertainty it tests, plus what a high tier versus a rejection would each reveal. A rejection is data, not a dead end.
+3. Evie responds per film — **Reject** (premise wrong or won't watch; downweight that direction) or **Commit** (will watch).
+4. After watching: **tier + note**. Update the relevant axis confidence in The Model below.
+5. Every ~5–6 logged films: a **synthesis pass** — name the pattern the data now reveals, revise the open questions, re-balance the exploration.
+
+**Hard pre-filter:** the Canon Criterion is a gate, not a variable. Nothing that fails it ever enters a slate, regardless of how well it fits the taste model.
 
 ---
 
@@ -8,112 +24,96 @@
 
 The ethical viewer rejects work with abusive content or abusive creators. Some judgment may be required; some work may be viewed as historical artifact. Where the actor is the victim, conscious viewing honors their talent despite the abuse.
 
-All recommendations in this canon have been evaluated against this criterion, or carry a ⚑ flag where judgment applies.
+Flattening female characters is treated as a *competence failure*, not merely an ethical blemish — it costs tiers, not just goodwill.
+
+Currently excluded: Polanski (convicted predator), von Trier (archetypal misogynist; female suffering as the engine of the work). Under review: Besson (dropped allegation — question mark, not dismissal). Bertolucci not categorically excluded, but *Last Tango in Paris* is.
 
 ---
 
-## Taste in Brief
+## The Model
 
-Style as argument, not decoration. Formal control and emotional unsparing quality at the same time. Protagonists who are completely clear-eyed about what they're facing and act anyway — not heroism, clarity. Cynicism without nihilism. Cool that earns itself. No Anglo-centrism — country of origin is not a filter, vision is.
+### Established axes (high confidence — exploit territory)
 
-Anchor films: The Godfather, La Grande Bellezza, Atomic Blonde, No Country for Old Men, The Silence of the Lambs, Heat, Fight Club, The Matrix, Tinker Tailor Soldier Spy, Rogue One.
+- **Style as argument, not decoration.** Formal control that means something. Load-bearing across the entire watch log.
+- **Clear-eyed protagonists who act anyway.** Clarity, not heroism. Leamas, Fowler, Clarice. The single most reliable predictor of a high score.
+- **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads).
+- **Cynicism without nihilism.** Cool that earns itself. *No Country*, *The Big Short*.
+- **Competence as pleasure.** The satisfaction of watching skilled people be skilled. *Ocean's 8*, *The Martian*, *John Wick*.
+- **Country-of-origin neutral.** Vision is the filter, never the passport.
 
-Prioritise: 35mm prints, restorations, Cold War settings, spy films with unglamorous realism, female protagonists who are competent or morally complex, filmmaker in-person events, discussion-format screenings, world cinema with formal ambition.
+### Open questions (low confidence — where the probes go)
 
-Mainstream is fine when made well and meaning something: The Bourne Ultimatum, Casino Royale, John Wick, Gravity, The Big Short all qualify.
-
----
-
-## Curriculum
-
-### Foundation
-Films that build the language.
-
-- [x] Three Colors: Blue (1993, Kieślowski) — Grief rendered with absolute formal precision. A woman who is completely herself, at great cost.
-- [ ] Blade Runner (1982, Ridley Scott) — Dark glamour, formally precise, philosophically serious about time and what a life amounts to.
-- [ ] Paris, Texas (1984, Wim Wenders) — A man walking back into a life. Devastatingly beautiful, emotionally rigorous.
-- [ ] The Conformist (1970, Bertolucci) — Italian Cold War fascism, morally serious, visually extraordinary. Direct ancestor of everything Sorrentino does. *Note: Bertolucci's admitted conduct in Last Tango in Paris disqualifies that film. The Conformist predates it and stands on its own merits; Bertolucci is not categorically excluded.*
-
-### Director Deep Dives
-Go deep on one filmmaker at a time.
-
-#### Stanley Kubrick — Complete Cycle
-*Chronological. The development of a singular and uncompromising vision. Carry the canon criterion into every film; no flags on Kubrick himself.*
-
-- [ ] The Killing (1956) — His first major work. A heist built on interlocking perspectives, each revealing the same catastrophe from a different angle. The cynicism is already fully formed — the plan is perfect and it fails anyway.
-- [ ] Paths of Glory (1957) — Three soldiers court-martialed for an impossible order. Kirk Douglas. Kubrick at his most morally direct: men who see exactly what institutional power is doing to them and cannot stop it. 88 minutes. Start here.
-- [ ] Spartacus (1960) — The only film where he lacked final cut; he semi-disowned it. Worth seeing as the exception that defines the rule — what Kubrick looks like when constrained by a system.
-- [x] Lolita (1962) — The trap of beautiful prose and monstrous narration. Mason's suave performance is the formal device. Already seen.
-- [ ] Dr. Strangelove (1964) — The logic of nuclear deterrence taken to its absurd conclusion without blinking. The end of the world as black comedy. Peter Sellers in three roles.
-- [ ] 2001: A Space Odyssey (1968) — The formal argument about technology, consciousness, and deep time. The long takes are not indulgent — they are the argument. HAL is the most chilling performance in any of his films.
-- [ ] A Clockwork Orange (1971) — State violence, free will, and whether morality is possible without choice. Goes further than almost anything in your canon. The recoil is appropriate and intentional.
-- [ ] Barry Lyndon (1975) — Shot entirely with natural light using NASA-developed lenses — the most visually extraordinary film he made. The emotional coldness is total. Ryan O'Neal rises and falls and the film watches with absolute indifference. Earn it; the completionist impulse is the right reason.
-- [ ] The Shining (1980) — Horror as architecture. The dread is in the geometry — the hotel's spaces are designed to disorient. What it does to Jack is inseparable from what Jack already was.
-- [ ] Full Metal Jacket (1987) — Two films joined at the seam. The Parris Island first half is formally perfect. R. Lee Ermey. The Vietnam second half is the cost of the first.
-- [ ] Eyes Wide Shut (1999) — His last film; he died four days after delivering the final cut. A man glimpses a world of private rituals among powerful men and is turned away at the door. Quieter and stranger than most of his work. About marriage, hidden lives, and what power keeps to itself. Watch it knowing what you now know about Hollywood.
-
-#### Individual Films
-
-- [ ] Yi Yi (2000, Edward Yang) — Taiwanese, three hours, about what a life amounts to across three generations. Quietly formidable. Emotionally devastating without a single sentimental frame.
-- [x] In the Mood for Love (2000, Wong Kar-wai) — Two people who know exactly what is happening between them and choose, with full awareness, how to navigate it. Discipline, restraint, what you carry when you walk away.
-- [ ] Oldboy (2003, Park Chan-wook) — Formally immaculate, emotionally devastating, morally serious. Park at his most controlled and most savage.
-- [ ] Youth (2015, Sorrentino) — Two old men at a Swiss spa taking stock of what a life amounts to. Same register as La Grande Bellezza but more intimate.
-- [ ] Shoplifters (2018, Kore-eda) — Quiet and domestic but never soft. About family, love, and who gets to claim it. Will stay with you for weeks.
-- [x] The Lives of Others (2006, Florian Henckel von Donnersmarck) — East Berlin 1983. A Stasi officer spying on a playwright becomes unexpectedly entangled. Formally precise, emotionally devastating.
-
-### Movements
-Post-punk British cinema, Cold War thrillers, Hong Kong wave, world cinema.
-
-- [x] The Ipcress File (1965, Sidney J. Furie) — The anti-Bond. Michael Caine as a shabby, unglamorous spy. Cold, dirty, real.
-- [ ] The Spy Who Came in from the Cold (1965, Martin Ritt) — Le Carré's thesis made film. Richard Burton as Alec Leamas — a man who knows exactly what the Cold War costs and pays it anyway. Bleaker than Ipcress, more morally savage. Same year, same anti-glamour argument, taken further.
-- [ ] The Quiet American (2002, Phillip Noyce) — Greene's thesis about idealism as a form of violence, made with Michael Caine at his best. Fowler is exactly your kind of protagonist: completely clear-eyed, acts anyway, not redeemed for it. Held by Miramax after 9/11 for being too anti-American — which is its own demonstration of the film's argument.
-- [x] Mulholland Drive (2001, David Lynch) — Structurally audacious, set in a Hollywood that does not explain itself. Glamour and dread coexisting.
-- [ ] Betty Blue (1986, Jean-Jacques Beineix) — French, visually ravishing, emotionally unsparing. Formally ambitious without being cold.
-- [ ] Manhunter (1986, Michael Mann) — Cold, precise, neon-lit. Mann at his most controlled. Post-punk aesthetic as crime procedural.
-- [ ] The Hole (1998, Tsai Ming-liang) — Taiwanese. Sci-fi, romantic comedy, Antonioni-esque urban squalor, and jukebox musical simultaneously. Genuinely singular.
-- [ ] Chungking Express (1994, Wong Kar-wai) — Hong Kong 1994. Two cops, two love stories. The speed and texture of the city as feeling.
-
-### Discoveries
-Things surfaced by the digest or recommended along the way.
-
-- [ ] Love Lies Bleeding (2024, Rose Glass) — Crime, obsession, bodybuilding, female desire, New Mexico. Extremely stylized, genuinely dark.
-- [ ] I Shot Andy Warhol (1996, Mary Harron) — Valerie Solanas, Warhol, 1968. Dark, feminist, punk, countercultural. In the Unstreamable series at NWFF.
-- [ ] The Wolf House (2018, Cristóbal León & Joaquín Cociña) — Chilean experimental animation. Dark, surreal, disturbing. Not children's animation. Extraordinary.
-- [ ] Early Summer (1951, Yasujirō Ozu) — Part of the NWFF Ozu retrospective. Quiet, precise, emotionally devastating about family and impermanence.
+1. **Does aesthetic achievement buy out narrative weakness, and above what threshold?** *In the Mood for Love* (S) forgave plotlessness because it was too beautiful to mind; *The Ipcress File* (B) was not beautiful enough to carry a plot that lost its thread. The exchange rate between beauty and story is the central unknown.
+2. **Is the Cold War pull era-aesthetic or moral-architecture?** Does she respond to the *period* — mid-century texture, the look of it — or to the *moral structure* those films happen to carry (idealism as violence, the cost of clarity)?
+3. **Does dry contemplative cinema land like lush contemplative cinema?** Or was beauty doing the work in the world-cinema scores so far? Tests whether the arthouse strand is a real vein or homework.
+4. **Untested forms.** The model has near-zero data on horror, animation, documentary, pre-1960 cinema, and comedy-as-craft (Ritchie scores A — vein or incidental?). Each is a blind spot a wildcard can open.
 
 ---
 
-## Next Up
+## Active Slate
+*React per film: Reject or Commit. This is the poll.*
 
-1. The Spy Who Came in from the Cold (1965, Ritt) — Movements — companion piece to Ipcress
-2. The Quiet American (2002, Noyce) — Movements
-3. Yi Yi (2000, Edward Yang) — Director Deep Dives
-4. Léon: The Professional (1994, Besson) — Re-watch: conscious engagement
-5. Paths of Glory (1957, Kubrick) — Kubrick Cycle: start here
-6. Heat (1995, Michael Mann) — First watch: anchor by reputation, now to be earned and ranked
-7. Three Colors: Blue (1993, Kieślowski) — Re-watch: re-rank under tier criteria
+**① The Spy Who Came in from the Cold (1965, Martin Ritt) — EXPLOIT**
+*Tests Q2 and the Cold-War vein directly.* The data is split: *Tinker Tailor* (S) versus *Ipcress* (B, plot lost its thread). Le Carré's own thesis film — bleaker, more morally savage. **High tier →** the vein is craft-rich, mine it. **B or below →** Tinker Tailor was the exception and the genre is mostly era-affection; stop over-weighting it.
+
+**② The Quiet American (2002, Phillip Noyce) — EXPLORE (controlled experiment)**
+*Isolates Q2.* Same lead as *Ipcress* (Caine) as a control; different era and setting (1950s Vietnam); identical moral structure — idealism as violence, a clear-eyed protagonist who acts and is not redeemed. **Scores like the Berlin films →** it's the moral architecture, drop the era constraint and widen the search. **Scores lower →** the period aesthetic is doing real work and is a genuine axis.
+
+**③ Yi Yi (2000, Edward Yang) — EXPLORE**
+*Isolates Q1 and Q3.* Three hours, domestic, formally serious but *not* lush — strips out the beauty variable that *In the Mood for Love* enjoyed. **High tier →** formal seriousness alone holds you; the arthouse strand is real. **Low / reject →** beauty was load-bearing, and the slow-cinema strand needs a lushness or genre hook to work.
+
+**④ The Shining (1980, Stanley Kubrick) — EXPLORE (wildcard)**
+*Opens Q4.* Zero horror data in the model. A high-craft object that can't fail on competence — which isolates the question cleanly: does dread-as-architecture, formal control aimed at fear rather than moral clarity, land or bounce? **High tier →** horror is a vein worth opening. **Low →** genre-fear isn't your register even at the highest craft; keep the search inside moral seriousness.
+
+---
+
+## Holding Pool
+*Candidates the model can promote into a future slate, grouped by what each would test.*
+
+**Cold War / moral-architecture (promote if ① or ② scores high)**
+- The Conformist (1970, Bertolucci) — fascism, Italian, the direct ancestor of Sorrentino.
+- Manhunter (1986, Michael Mann) — cold, precise, procedural; moral architecture in a genre frame.
+
+**Arthouse depth (promote if ③ scores high)**
+- Chungking Express (1994, Wong Kar-wai) — lush again, as a control against Yi Yi's dryness.
+- Shoplifters (2018, Kore-eda) — domestic, quiet, never soft; family and who gets to claim it.
+- Oldboy (2003, Park Chan-wook) — formally immaculate, savage; tests how far the violence tolerance runs.
+- The Hole (1998, Tsai Ming-liang) — genuinely singular; sci-fi/musical/squalor at once.
+- Youth (2015, Sorrentino) — the *La Grande Bellezza* register, more intimate.
+
+**Untested forms (wildcards — promote to keep exploration alive)**
+- Paths of Glory (1957, Kubrick) — pre-1960; 88 min; squarely on the clear-eyed-protagonist axis.
+- Dr. Strangelove (1964, Kubrick) — comedy as craft, nuclear logic to absurdity.
+- The Wolf House (2018, León & Cociña) — animation as serious form; Chilean, disturbing.
+- I Shot Andy Warhol (1996, Mary Harron) — feminist, punk, countercultural.
+- Love Lies Bleeding (2024, Rose Glass) — contemporary, stylized, female desire and obsession.
+
+**Re-evaluations (carry their own reason)**
+- Léon: The Professional (1994, Besson) — conscious re-watch under the Besson question mark.
+- Three Colors: Blue (1993, Kieślowski) — re-rank under the tier criteria.
+- Heat (1995, Michael Mann) — anchor by reputation, never actually seen; earn the rank.
+
+**Foundation candidates (untested register)**
+- Blade Runner (1982, Scott); Paris, Texas (1984, Wenders); Betty Blue (1986, Beineix); Early Summer (1951, Ozu).
 
 ---
 
 ## Watch Log
-
-Films watched before the curriculum began. These form the foundation of the taste profile.
-
-Rated on an S/A/B/C/D tier scale. S tracks filmmaking, not enjoyment — reserved for great craft with no load-bearing flaw. A is excellent and often very enjoyable, sometimes with a single named flaw. Descending from there. A dash (—) means consciously unranked.
+*The accumulated signal. Tier scale: S tracks filmmaking, not enjoyment — great craft, no load-bearing flaw. A is excellent, often very enjoyable, sometimes one named flaw. Descending from there. A dash (—) means consciously unranked.*
 
 | Title | Year | Director | Tier | Notes |
 |-------|------|----------|------|-------|
 | The Godfather | 1972 | Coppola | S | Anchor film. Narratively compelling, visually lush, cool without trying. |
 | La Grande Bellezza | 2013 | Sorrentino | S | Anchor film. "The best trains are the ones that don't go anywhere." |
-| Atomic Blonde | 2017 | Leitch | A | Anchor by affection. Strong women, gripping plot, great styling, genuine surprise at the end — but very enjoyable rather than great filmmaking. |
-| No Country for Old Men | 2007 | Coens | S | Anchor film. Brings back memories. Recognition film, not entertainment. |
-| The Silence of the Lambs | 1991 | Demme | S | Really landed. Clarice is the fully realized competent protagonist — passes the test and the craft is airtight. |
+| Atomic Blonde | 2017 | Leitch | A | Anchor by affection. Strong women, gripping plot, great styling, genuine surprise — but very enjoyable rather than great filmmaking. |
+| No Country for Old Men | 2007 | Coens | S | Anchor film. Recognition film, not entertainment. |
+| The Silence of the Lambs | 1991 | Demme | S | Clarice is the fully realized competent protagonist — passes the test and the craft is airtight. |
 | Se7en | 1995 | Fincher | B | Clever, but not especially so. |
-| Heat | 1995 | Michael Mann | — | Anchor by reputation — not yet seen. Queued for first watch. |
+| Heat | 1995 | Michael Mann | — | Anchor by reputation — not yet seen. In holding pool for first watch. |
 | Goodfellas | 1990 | Scorsese | B | Notably good moments, but unquotable and didn't charm. |
-| Léon: The Professional | 1994 | Besson | — | Loving but non-sexual relationship between Léon and Mathilda — the juxtaposition of innocent and assassin. Besson carries a dropped allegation (question mark, not dismissal). Prior top rating suspended; queued for conscious re-watch and re-evaluation. |
-| Rogue One | 2016 | Edwards | A | Incredibly powerful. A resistance tragedy. Broken people who find a reason to act without a reason to hope. Makes me cry — but still franchise filmmaking. |
-| The Matrix | 1999 | Wachowskis | A | Incredibly impactful, formally revolutionary, philosophically serious. Very good, not great filmmaking. |
+| Léon: The Professional | 1994 | Besson | — | Innocent/assassin juxtaposition. Besson carries a dropped allegation. Prior top rating suspended; queued for conscious re-watch. |
+| Rogue One | 2016 | Edwards | A | A resistance tragedy. Broken people who act without a reason to hope. Makes me cry — but still franchise filmmaking. |
+| The Matrix | 1999 | Wachowskis | A | Impactful, formally revolutionary, philosophically serious. Very good, not great filmmaking. |
 | Tinker Tailor Soldier Spy | 2011 | Alfredson | S | Cold War, restraint, betrayal, moral seriousness wearing a quiet face. |
 | Fight Club | 1999 | Fincher | A | The emphasis on authentic life experience connected. A little violent. |
 | The Big Short | 2015 | McKay | A | Smart, formally inventive, genuinely angry, cynical about power. |
@@ -127,10 +127,10 @@ Rated on an S/A/B/C/D tier scale. S tracks filmmaking, not enjoyment — reserve
 | The Gentlemen | 2019 | Ritchie | A | Same register as Snatch. |
 | Shaun of the Dead | 2004 | Wright | A | British wit, structural cleverness, genuine affection underneath the comedy. |
 | The Rum Diary | 2011 | Robinson | B | |
-| Three Colors: Blue | 1993 | Kieślowski | — | Grief rendered with formal precision. Part of curriculum — Foundation. Unranked pending re-watch under tier criteria. |
-| Mulholland Drive | 2001 | Lynch | A | Part of curriculum — Movements. A film to return to. |
-| Lolita | 1962 | Kubrick | — | The trap of beautiful prose and monstrous narration. HH is a monster throughout; the novel shows you what he tries not to show you. Part of Kubrick Cycle. |
-| Chinatown | 1974 | Polanski | — | Immaculate setup. Ending is cruel filmmaking — the director using craft to deliver harm to the audience. The child rapist's perversity is in the work. Removed from canon: convicted predator, work fails both tests. Unrated. |
-| In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful. Plot-wise it doesn't go anywhere — didn't mind at all, too beautiful to watch. The best trains are the ones that don't go anywhere. Opacity applied evenhandedly to both leads — restraint, not flattening. Great filmmaking. Part of curriculum — Director Deep Dives. |
-| The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been; uplifting from Gorbachev's face to the end. Wiesler is a good man. Misses S on misogyny: it spends Christa-Maria — she has no interior life of her own and her death is the hinge the men's redemption turns on. Filed as a period artifact, not a substantial failure of art: viewer isn't asked for complicity, filmmaker commits no egregious abuse. Flawed but acceptable. Part of curriculum — Director Deep Dives. |
-| The Ipcress File | 1965 | Furie | B | Entertaining and characterful — Palmer as grammar school meritocrat is the real achievement. Period London is a document. Plot loses its thread in the third act; wouldn't recommend broadly. B is right: good without being great, honest without being ungenerous. |
+| Three Colors: Blue | 1993 | Kieślowski | — | Grief rendered with formal precision. Unranked pending re-watch under tier criteria. |
+| Mulholland Drive | 2001 | Lynch | A | Structurally audacious. Glamour and dread coexisting. A film to return to. |
+| Lolita | 1962 | Kubrick | — | The trap of beautiful prose and monstrous narration. HH is a monster throughout; the novel shows what he tries not to. |
+| Chinatown | 1974 | Polanski | — | Immaculate setup, cruel ending. Removed from canon: convicted predator, work fails both tests. Unrated. |
+| In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful; doesn't go anywhere and didn't mind — too beautiful to watch. Opacity evenhanded across both leads — restraint, not flattening. Great filmmaking. |
+| The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been. Wiesler is a good man. Misses S on misogyny: Christa-Maria has no interior life and her death is the hinge the men's redemption turns on. Period artifact, flawed but acceptable. |
+| The Ipcress File | 1965 | Furie | B | Entertaining and characterful — Palmer as grammar-school meritocrat is the real achievement, and period London is a document. Plot loses its thread in the third act; not beautiful enough to carry that. B is honest: good without being great. |
