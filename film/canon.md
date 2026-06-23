@@ -36,41 +36,42 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 
 - **Style as argument, not decoration.** Formal control that means something. Load-bearing across the entire watch log.
 - **Clear-eyed protagonists who act anyway.** Clarity, not heroism. Leamas, Fowler, Clarice. The single most reliable predictor of a high score.
-- **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads).
+- **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads). One licensed exception: diminishment that is *realistically earned within the story* rather than authorial (cf. *The Shining*, Wendy under terror).
 - **Cynicism without nihilism.** Cool that earns itself. *No Country*, *The Big Short*.
 - **Competence as pleasure.** The satisfaction of watching skilled people be skilled. *Ocean's 8*, *The Martian*, *John Wick*.
+- **Dread as architecture (newly confirmed).** Formal control aimed at fear lands at the top tier — *The Shining* at S. Horror is a live register, not a blind spot.
 - **Country-of-origin neutral.** Vision is the filter, never the passport.
 
 ### Open questions (low confidence — where the probes go)
 
 1. **Does aesthetic achievement buy out narrative weakness, and above what threshold?** *In the Mood for Love* (S) forgave plotlessness because it was too beautiful to mind; *The Ipcress File* (B) was not beautiful enough to carry a plot that lost its thread. The exchange rate between beauty and story is the central unknown.
-2. **Is the Cold War pull era-aesthetic or moral-architecture?** Does she respond to the *period* — mid-century texture, the look of it — or to the *moral structure* those films happen to carry (idealism as violence, the cost of clarity)?
+2. **Is the Cold War pull era-aesthetic or moral-architecture?** Does she respond to the *period* — mid-century texture, the look of it — or to the *moral structure* those films happen to carry (idealism as violence, the cost of clarity)? *The Quiet American* is the controlled experiment now in flight.
 3. **Does dry contemplative cinema land like lush contemplative cinema?** Or was beauty doing the work in the world-cinema scores so far? Tests whether the arthouse strand is a real vein or homework.
-4. **Untested forms.** The model has near-zero data on horror, animation, documentary, pre-1960 cinema, and comedy-as-craft (Ritchie scores A — vein or incidental?). Each is a blind spot a wildcard can open.
+4. **Untested forms.** Still near-zero data on animation, documentary, pre-1960 cinema, and comedy-as-craft (Ritchie scores A — vein or incidental?). Horror is now answered: dread-as-architecture lands at S. Each remaining blank is a wildcard a probe can open.
 
 ---
 
 ## Active Slate
 *React per film: Reject or Commit. This is the poll.*
 
-**① The Spy Who Came in from the Cold (1965, Martin Ritt) — EXPLOIT**
-*Tests Q2 and the Cold-War vein directly.* The data is split: *Tinker Tailor* (S) versus *Ipcress* (B, plot lost its thread). Le Carré's own thesis film — bleaker, more morally savage. **High tier →** the vein is craft-rich, mine it. **B or below →** Tinker Tailor was the exception and the genre is mostly era-affection; stop over-weighting it.
+**① The Spy Who Came in from the Cold (1965, Martin Ritt) — EXPLOIT — COMMITTED (paced back)**
+*Tests Q2 and the Cold-War vein directly.* Data is split: *Tinker Tailor* (S) versus *Ipcress* (B). Le Carré's own thesis film — bleaker, more morally savage. **High tier →** the vein is craft-rich, mine it. **B or below →** Tinker Tailor was the exception; stop over-weighting the genre.
 
-**② The Quiet American (2002, Phillip Noyce) — EXPLORE (controlled experiment)**
-*Isolates Q2.* Same lead as *Ipcress* (Caine) as a control; different era and setting (1950s Vietnam); identical moral structure — idealism as violence, a clear-eyed protagonist who acts and is not redeemed. **Scores like the Berlin films →** it's the moral architecture, drop the era constraint and widen the search. **Scores lower →** the period aesthetic is doing real work and is a genuine axis.
+**② The Quiet American (2002, Phillip Noyce) — EXPLORE (controlled experiment) — WATCHING NOW**
+*Isolates Q2.* Same lead as *Ipcress* (Caine) as a control; different era and setting (1950s Vietnam); identical moral structure. **Scores like the Berlin films →** it's the moral architecture, drop the era constraint and widen the search. **Scores lower →** the period aesthetic is a genuine axis.
 
-**③ Yi Yi (2000, Edward Yang) — EXPLORE**
-*Isolates Q1 and Q3.* Three hours, domestic, formally serious but *not* lush — strips out the beauty variable that *In the Mood for Love* enjoyed. **High tier →** formal seriousness alone holds you; the arthouse strand is real. **Low / reject →** beauty was load-bearing, and the slow-cinema strand needs a lushness or genre hook to work.
+**③ Yi Yi (2000, Edward Yang) — EXPLORE — WARM (intrigued, awaiting commit)**
+*Isolates Q1 and Q3.* Three hours, domestic, formally serious but *not* lush — strips out the beauty variable. **High tier →** formal seriousness alone holds you. **Low / reject →** beauty was load-bearing.
 
-**④ The Shining (1980, Stanley Kubrick) — EXPLORE (wildcard)**
-*Opens Q4.* Zero horror data in the model. A high-craft object that can't fail on competence — which isolates the question cleanly: does dread-as-architecture, formal control aimed at fear rather than moral clarity, land or bounce? **High tier →** horror is a vein worth opening. **Low →** genre-fear isn't your register even at the highest craft; keep the search inside moral seriousness.
+**④ Under the Skin (2013, Jonathan Glazer) — EXPLORE (wildcard) — NEW**
+*Chases the confirmed dread vein while cross-checking Q3 and the female-character axis.* Formally radical, cold, not conventionally lush; a female alien-predator who inverts the gaze. **High tier →** dread-as-architecture extends past Kubrick's craft into pure formal audacity, and dry-formal arthouse holds. **Low →** the horror signal was Kubrick-specific, or formal coldness without warmth loses you.
 
 ---
 
 ## Holding Pool
 *Candidates the model can promote into a future slate, grouped by what each would test.*
 
-**Cold War / moral-architecture (promote if ① or ② scores high)**
+**Cold War / moral-architecture (promote if ① scores high)**
 - The Conformist (1970, Bertolucci) — fascism, Italian, the direct ancestor of Sorrentino.
 - Manhunter (1986, Michael Mann) — cold, precise, procedural; moral architecture in a genre frame.
 
@@ -80,6 +81,10 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 - Oldboy (2003, Park Chan-wook) — formally immaculate, savage; tests how far the violence tolerance runs.
 - The Hole (1998, Tsai Ming-liang) — genuinely singular; sci-fi/musical/squalor at once.
 - Youth (2015, Sorrentino) — the *La Grande Bellezza* register, more intimate.
+
+**Dread-as-architecture (promote if ④ scores high — vein newly opened)**
+- The Witch (2015, Robert Eggers) — period folk-horror, natural light, a female protagonist who ends in liberation.
+- Hereditary (2018, Ari Aster) — grief as horror; formal control; a woman at the center.
 
 **Untested forms (wildcards — promote to keep exploration alive)**
 - Paths of Glory (1957, Kubrick) — pre-1960; 88 min; squarely on the clear-eyed-protagonist axis.
@@ -134,3 +139,4 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 | In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful; doesn't go anywhere and didn't mind — too beautiful to watch. Opacity evenhanded across both leads — restraint, not flattening. Great filmmaking. |
 | The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been. Wiesler is a good man. Misses S on misogyny: Christa-Maria has no interior life and her death is the hinge the men's redemption turns on. Period artifact, flawed but acceptable. |
 | The Ipcress File | 1965 | Furie | B | Entertaining and characterful — Palmer as grammar-school meritocrat is the real achievement, and period London is a document. Plot loses its thread in the third act; not beautiful enough to carry that. B is honest: good without being great. |
+| The Shining | 1980 | Kubrick | S | Dread as architecture — the hotel's geometry *is* the horror. Wendy's diminishment forgiven: read as realistic terror-response, not authorial flattening — a distinction the framework allows. The S rests consciously on the actor-as-victim clause: Kubrick's documented cruelty to Shelley Duvall produced real distress on screen, and the rank honors her performance, not the method. Craft is total. |
