@@ -18,6 +18,8 @@ This is not a ranked watchlist. It is a polling instrument. Each film is a probe
 
 **Hard pre-filter:** the Canon Criterion is a gate, not a variable. Nothing that fails it ever enters a slate, regardless of how well it fits the taste model.
 
+**Conversation before an out-of-expectation grade.** If Evie moves to grade something in a way that conflicts with the model's expectation — an S for a film carrying a known conduct or content problem, or any tier that contradicts an established axis or the Canon Criterion — pause and surface it for discussion *before* recording the grade. Surprises get a conversation, not a silent entry.
+
 ---
 
 ## Canon Criterion
@@ -25,6 +27,8 @@ This is not a ranked watchlist. It is a polling instrument. Each film is a probe
 The ethical viewer rejects work with abusive content or abusive creators. Some judgment may be required; some work may be viewed as historical artifact. Where the actor is the victim, conscious viewing honors their talent despite the abuse.
 
 Flattening female characters is treated as a *competence failure*, not merely an ethical blemish — it costs tiers, not just goodwill.
+
+**Hard rule:** no S-tier for a film that was abusive to one of its female leads. On-set conduct counts, not only on-screen treatment. Craft can be S-level and the tier still capped by the conduct.
 
 Currently excluded: Polanski (convicted predator), von Trier (archetypal misogynist; female suffering as the engine of the work). Under review: Besson (dropped allegation — question mark, not dismissal). Bertolucci not categorically excluded, but *Last Tango in Paris* is.
 
@@ -36,10 +40,10 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 
 - **Style as argument, not decoration.** Formal control that means something. Load-bearing across the entire watch log.
 - **Clear-eyed protagonists who act anyway.** Clarity, not heroism. Leamas, Fowler, Clarice. The single most reliable predictor of a high score.
-- **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads). One licensed exception: diminishment that is *realistically earned within the story* rather than authorial (cf. *The Shining*, Wendy under terror).
+- **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads). One licensed exception for *on-screen* treatment: diminishment that is *realistically earned within the story* rather than authorial (cf. *The Shining*, Wendy under terror). Note this is separate from *on-set* conduct, which the hard rule governs.
 - **Cynicism without nihilism.** Cool that earns itself. *No Country*, *The Big Short*.
 - **Competence as pleasure.** The satisfaction of watching skilled people be skilled. *Ocean's 8*, *The Martian*, *John Wick*.
-- **Dread as architecture (newly confirmed).** Formal control aimed at fear lands at the top tier — *The Shining* at S. Horror is a live register, not a blind spot.
+- **Dread as architecture (newly confirmed).** Formal control aimed at fear lands at the top tier on craft — *The Shining* (craft is S-level; final tier under conduct review). Horror is a live register, not a blind spot.
 - **Country-of-origin neutral.** Vision is the filter, never the passport.
 
 ### Open questions (low confidence — where the probes go)
@@ -47,7 +51,7 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 1. **Does aesthetic achievement buy out narrative weakness, and above what threshold?** *In the Mood for Love* (S) forgave plotlessness because it was too beautiful to mind; *The Ipcress File* (B) was not beautiful enough to carry a plot that lost its thread. The exchange rate between beauty and story is the central unknown.
 2. **Is the Cold War pull era-aesthetic or moral-architecture?** Does she respond to the *period* — mid-century texture, the look of it — or to the *moral structure* those films happen to carry (idealism as violence, the cost of clarity)? *The Quiet American* is the controlled experiment now in flight.
 3. **Does dry contemplative cinema land like lush contemplative cinema?** Or was beauty doing the work in the world-cinema scores so far? Tests whether the arthouse strand is a real vein or homework.
-4. **Untested forms.** Still near-zero data on animation, documentary, pre-1960 cinema, and comedy-as-craft (Ritchie scores A — vein or incidental?). Horror is now answered: dread-as-architecture lands at S. Each remaining blank is a wildcard a probe can open.
+4. **Untested forms.** Still near-zero data on animation, documentary, pre-1960 cinema, and comedy-as-craft (Ritchie scores A — vein or incidental?). Horror is now answered on craft: dread-as-architecture lands at the top level. Each remaining blank is a wildcard a probe can open.
 
 ---
 
@@ -87,7 +91,7 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 - Hereditary (2018, Ari Aster) — grief as horror; formal control; a woman at the center.
 
 **Untested forms (wildcards — promote to keep exploration alive)**
-- Paths of Glory (1957, Kubrick) — pre-1960; 88 min; squarely on the clear-eyed-protagonist axis.
+- Paths of Glory (1957, Kubrick) — pre-1960; 88 min; squarely on the clear-eyed-protagonist axis. *(Note Kubrick conduct flag for any female-lead films.)*
 - Dr. Strangelove (1964, Kubrick) — comedy as craft, nuclear logic to absurdity.
 - The Wolf House (2018, León & Cociña) — animation as serious form; Chilean, disturbing.
 - I Shot Andy Warhol (1996, Mary Harron) — feminist, punk, countercultural.
@@ -139,4 +143,4 @@ Currently excluded: Polanski (convicted predator), von Trier (archetypal misogyn
 | In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful; doesn't go anywhere and didn't mind — too beautiful to watch. Opacity evenhanded across both leads — restraint, not flattening. Great filmmaking. |
 | The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been. Wiesler is a good man. Misses S on misogyny: Christa-Maria has no interior life and her death is the hinge the men's redemption turns on. Period artifact, flawed but acceptable. |
 | The Ipcress File | 1965 | Furie | B | Entertaining and characterful — Palmer as grammar-school meritocrat is the real achievement, and period London is a document. Plot loses its thread in the third act; not beautiful enough to carry that. B is honest: good without being great. |
-| The Shining | 1980 | Kubrick | S | Dread as architecture — the hotel's geometry *is* the horror. Wendy's diminishment forgiven: read as realistic terror-response, not authorial flattening — a distinction the framework allows. The S rests consciously on the actor-as-victim clause: Kubrick's documented cruelty to Shelley Duvall produced real distress on screen, and the rank honors her performance, not the method. Craft is total. |
+| The Shining | 1980 | Kubrick | — | **Rank held pending Evie's call (out-of-expectation rule).** Craft is unambiguously S-level — dread as architecture, total control. But Kubrick deliberately subjected Shelley Duvall to sustained on-set stress and isolation to extract her performance (scheduled daily crying, instructed crew to withhold sympathy, praise reserved for Nicholson); the exhaustion on screen is partly real. Under the hard rule (no S for abuse of a female lead), this caps at **A**. Countervailing: Duvall herself later credited the method and resisted the victim framing — her agency belongs in the record. Final tier on Evie's decision. |
