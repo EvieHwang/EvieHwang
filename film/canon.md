@@ -62,7 +62,7 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 ## Active Slate
 *React per film: Reject or Commit. This is the poll.*
 
-**① The Spy Who Came in from the Cold (1965, Martin Ritt) — EXPLOIT — COMMITTED (paced back)**
+**① The Spy Who Came in from the Cold (1965, Martin Ritt) — EXPLOIT**
 *Tests the Cold-War vein at full strength.* Le Carré's bleakest film — the moral architecture is the argument, not the backdrop. **High tier →** the vein is craft-rich, mine it. **B or below →** Tinker Tailor was the exception.
 
 **② The Conformist (1970, Bertolucci) — EXPLOIT — NEW**
