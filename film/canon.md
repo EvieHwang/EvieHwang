@@ -41,20 +41,21 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 ### Established axes (high confidence — exploit territory)
 
 - **Style as argument, not decoration.** Formal control that means something. Load-bearing across the entire watch log.
+- **Every affective register must earn its place through philosophical weight.** Mood, ennui, beauty, setting, atmosphere — none of these are ends in themselves. They must be in service of a thesis. *La Grande Bellezza* is about wasted life; *The Godfather* is about corruption; *Tinker Tailor* refuses emotion as an argument *about* that refusal. The sole exception: aesthetic and cultural texture at overwhelming intensity can substitute for explicit argument — but only when the intensity is extreme AND the viewer's cultural antenna connects. *In the Mood for Love* earns this exception (Hong Kong texture, Shanghainese-exile specificity, colour and music at full force). *Yi Yi* does not reach the threshold: the philosophy is real but quiet, and the cultural antenna doesn't connect. *Under the Skin* fails doubly — no argument, and nothing meaningful to say about Scotland even to someone who has lived there.
 - **Clear-eyed protagonists who act anyway.** Clarity, not heroism. Leamas, Fowler, Clarice. The single most reliable predictor of a high score.
 - **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads). One licensed exception for *on-screen* treatment: diminishment that is *realistically earned within the story* rather than authorial (cf. *The Shining*, Wendy under terror). On-set conduct is governed by the hard rule, and adjudicated case by case — not assumed from the presence of suffering.
 - **Cynicism without nihilism.** Cool that earns itself. *No Country*, *The Big Short*.
 - **Competence as pleasure.** The satisfaction of watching skilled people be skilled. *Ocean's 8*, *The Martian*, *John Wick*.
-- **Dread as architecture (confirmed, with refinement).** Formal control aimed at fear lands at the top tier — *The Shining* at S. Horror is a live register, not a blind spot. Refinement from *Under the Skin* (D): dread requires emotional stakes — warmth that can be destroyed. *The Shining* worked because Jack's disintegration and Wendy's terror were the warm core the horror worked against. Pure formal coldness without stakes generates distance, not unease. *The Witch* and *Hereditary* remain live candidates — both have emotional warmth before the horror arrives.
+- **Dread as architecture (confirmed, with refinement).** Formal control aimed at fear lands at the top tier — *The Shining* at S. Horror is a live register, not a blind spot. Refinement from *Under the Skin* (D): dread requires emotional stakes — warmth that can be destroyed. Pure formal coldness without stakes generates distance, not unease. *The Witch* and *Hereditary* remain live candidates — both have emotional warmth before the horror arrives.
 - **Moral architecture over period aesthetic (confirmed).** The Cold War pull is structural, not era-specific — *The Quiet American* confirmed this in 1950s Vietnam. The search for this register extends beyond European mid-century settings.
 - **Country-of-origin neutral.** Vision is the filter, never the passport.
 
 ### Open questions (low confidence — where the probes go)
 
-1. **Does aesthetic achievement buy out narrative weakness, and above what threshold?** *In the Mood for Love* (S) forgave plotlessness because it was too beautiful to mind; *The Ipcress File* (B) was not beautiful enough to carry a plot that lost its thread. The exchange rate between beauty and story is the central unknown.
-2. **Cold War pull: ANSWERED — moral architecture.** *The Quiet American* (A, 2026-06-23) confirmed: structural pull held in 1950s Vietnam, different visual grammar, no European frame, no le Carré. The era constraint drops; the search widens. Open question now becomes: does the moral-architecture axis extend beyond the Cold War period entirely, or is the war/ideology context still load-bearing?
-3. **Does dry contemplative cinema land like lush contemplative cinema?** Or was beauty doing the work in the world-cinema scores so far? Tests whether the arthouse strand is a real vein or homework.
-4. **Untested forms.** Still near-zero data on animation, documentary, pre-1960 cinema, and comedy-as-craft (Ritchie scores A — vein or incidental?). Horror is now answered: dread-as-architecture lands at S when emotional stakes are present. Each remaining blank is a wildcard a probe can open.
+1. **Does aesthetic achievement buy out narrative weakness, and above what threshold?** *In the Mood for Love* (S) forgave plotlessness because it was too beautiful to mind. The exchange rate between beauty and thesis is better understood now — beauty alone is insufficient (*Yi Yi* reject), but beauty at overwhelming intensity earns a specific exception. The question is where exactly the threshold sits.
+2. **Cold War pull: ANSWERED — moral architecture.** *The Quiet American* (A, 2026-06-23) confirmed: structural pull held in 1950s Vietnam, different visual grammar, no European frame, no le Carré. Open question now: does the moral-architecture axis extend beyond the Cold War and war/ideology context entirely?
+3. **Dry contemplative cinema: ANSWERED — doesn't hold without philosophical weight announcing itself.** *Yi Yi* reject confirms: formal seriousness without a thesis that surfaces clearly through the texture doesn't land. The arthouse strand is a real vein only when the argument is present and legible.
+4. **Untested forms.** Still near-zero data on animation, documentary, pre-1960 cinema, and comedy-as-craft. Horror answered: dread lands at S when emotional stakes are present. Each remaining blank is a wildcard.
 
 ---
 
@@ -62,33 +63,34 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 *React per film: Reject or Commit. This is the poll.*
 
 **① The Spy Who Came in from the Cold (1965, Martin Ritt) — EXPLOIT — COMMITTED (paced back)**
-*Tests the Cold-War vein directly.* Data is split: *Tinker Tailor* (S) versus *Ipcress* (B). Le Carré's own thesis film — bleaker, more morally savage. **High tier →** the vein is craft-rich, mine it. **B or below →** Tinker Tailor was the exception; stop over-weighting the genre.
+*Tests the Cold-War vein at full strength.* Le Carré's bleakest film — the moral architecture is the argument, not the backdrop. **High tier →** the vein is craft-rich, mine it. **B or below →** Tinker Tailor was the exception.
 
-**② Yi Yi (2000, Edward Yang) — EXPLORE — WARM (intrigued, awaiting commit)**
-*Isolates Q1 and Q3.* Three hours, domestic, formally serious but *not* lush — strips out the beauty variable. **High tier →** formal seriousness alone holds you. **Low / reject →** beauty was load-bearing.
+**② The Conformist (1970, Bertolucci) — EXPLOIT — NEW**
+*Tests whether the moral-architecture axis extends to fascism-era Europe.* Visually ravishing (Storaro), philosophically serious — a man who destroys what he loves to belong. Sits at the intersection of the Sorrentino register (Italian, lush, about moral vacancy) and the Cold War moral-architecture axis. **High tier →** the axis is broader than Cold War; promote the full moral-architecture holding pool. **Low →** the ideology/war context was still load-bearing.
+
+**③ Paths of Glory (1957, Kubrick) — EXPLORE — NEW**
+*Untested register: pre-1960, and Kubrick before the formal experimentation.* 88 minutes, WWI, a lawyer-soldier defending men ordered to die. Squarely on the clear-eyed-protagonist axis. **High tier →** pre-1960 cinema is not a barrier; the axis holds across eras. **Low →** period filmmaking grammar is a genuine filter.
 
 ---
 
 ## Holding Pool
 *Candidates the model can promote into a future slate, grouped by what each would test.*
 
-**Cold War / moral-architecture (promote if ① scores high)**
-- The Conformist (1970, Bertolucci) — fascism, Italian, the direct ancestor of Sorrentino.
+**Cold War / moral-architecture (promote if ① or ② scores high)**
 - Manhunter (1986, Michael Mann) — cold, precise, procedural; moral architecture in a genre frame.
 
-**Arthouse depth (promote if ② scores high)**
-- Chungking Express (1994, Wong Kar-wai) — lush again, as a control against Yi Yi's dryness.
-- Shoplifters (2018, Kore-eda) — domestic, quiet, never soft; family and who gets to claim it.
-- Oldboy (2003, Park Chan-wook) — formally immaculate, savage; tests how far the violence tolerance runs.
-- The Hole (1998, Tsai Ming-liang) — genuinely singular; sci-fi/musical/squalor at once.
-- Youth (2015, Sorrentino) — the *La Grande Bellezza* register, more intimate.
+**Arthouse with philosophical weight (revised after Yi Yi reject — domestic-quiet without legible thesis now downweighted)**
+- Chungking Express (1994, Wong Kar-wai) — lush again; likely works on the beauty-plus-argument axis.
+- Oldboy (2003, Park Chan-wook) — formally immaculate, savage; philosophical and announces it.
+- Youth (2015, Sorrentino) — the *La Grande Bellezza* register, more intimate; thesis legible.
+- Shoplifters (2018, Kore-eda) — domestic and quiet like Yi Yi; lower confidence after reject, but the thesis (who gets to claim family) is clearer. Borderline.
+- The Hole (1998, Tsai Ming-liang) — genuinely singular; sci-fi/musical/squalor. Probably too dry.
 
 **Dread-as-architecture (both have emotional warmth before the horror — still viable despite Under the Skin D)**
-- The Witch (2015, Robert Eggers) — period folk-horror, natural light, a female protagonist who ends in liberation. Family warmth as the thing being destroyed.
-- Hereditary (2018, Ari Aster) — grief as horror; formal control; a woman at the center. Emotional stakes front-loaded.
+- The Witch (2015, Robert Eggers) — period folk-horror; family warmth as the thing being destroyed.
+- Hereditary (2018, Ari Aster) — grief as horror; emotional stakes front-loaded.
 
 **Untested forms (wildcards — promote to keep exploration alive)**
-- Paths of Glory (1957, Kubrick) — pre-1960; 88 min; squarely on the clear-eyed-protagonist axis.
 - Dr. Strangelove (1964, Kubrick) — comedy as craft, nuclear logic to absurdity.
 - The Wolf House (2018, León & Cociña) — animation as serious form; Chilean, disturbing.
 - I Shot Andy Warhol (1996, Mary Harron) — feminist, punk, countercultural.
@@ -105,7 +107,7 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 ---
 
 ## Watch Log
-*The accumulated signal. Tier scale: S tracks filmmaking, not enjoyment — great craft, no load-bearing flaw. A is excellent, often very enjoyable, sometimes one named flaw. Descending from there. A dash (—) means consciously unranked.*
+*The accumulated signal. Tier scale: S tracks filmmaking, not enjoyment — great craft, no load-bearing flaw. A is excellent, often very enjoyable, sometimes one named flaw. Descending from there. A dash (—) means consciously unranked or abandoned.*
 
 | Title | Year | Director | Tier | Notes |
 |-------|------|----------|------|-------|
@@ -137,9 +139,10 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 | Mulholland Drive | 2001 | Lynch | A | Structurally audacious. Glamour and dread coexisting. A film to return to. |
 | Lolita | 1962 | Kubrick | — | The trap of beautiful prose and monstrous narration. HH is a monster throughout; the novel shows what he tries not to. |
 | Chinatown | 1974 | Polanski | — | Immaculate setup, cruel ending. Removed from canon: convicted predator, cruelty was the point — work fails both tests. Unrated. |
-| In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful; doesn't go anywhere and didn't mind — too beautiful to watch. Opacity evenhanded across both leads — restraint, not flattening. Great filmmaking. |
+| In the Mood for Love | 2000 | Wong Kar-wai | S | Lush and visually wonderful; doesn't go anywhere and didn't mind — too beautiful to watch. Opacity evenhanded across both leads — restraint, not flattening. Great filmmaking. Licensed exception to the affective-weight axiom: beauty and cultural texture at overwhelming intensity. |
 | The Lives of Others | 2006 | von Donnersmarck | A | Quietly beautiful, softer than it could have been. Wiesler is a good man. Misses S on misogyny: Christa-Maria has no interior life and her death is the hinge the men's redemption turns on. Sloppy characterization, not malice. Flawed but acceptable. |
 | The Ipcress File | 1965 | Furie | B | Entertaining and characterful — Palmer as grammar-school meritocrat is the real achievement, and period London is a document. Plot loses its thread in the third act; not beautiful enough to carry that. B is honest: good without being great. |
 | The Shining | 1980 | Kubrick | S | **An S adjudicated, not assumed — the edge case that proves the rule.** Craft is total: dread as architecture, the hotel's geometry *is* the horror. The conduct question was engaged, not reflexed past. Kubrick kept Duvall in sustained on-set stress and isolation to reach the performance — and the hard rule exists for exactly this. But the rule tests the *director's agenda* and the *lead's standing*, not the mere presence of suffering. Here: no sign of another agenda — the harm was wholly instrumental to the work, none aimed at her as a person (unlike Polanski, where cruelty was the point; unlike von Trier, whose signature it is). Duvall embraced the role, summoned the states as craft, and validated it after. The dissent stays on the record: her consent was largely retrospective, the isolation was structurally imposed, and unfalsifiable "they understood it together" readings cut both ways. But when external interpretations of consent genuinely cancel, the person who was in the room holds the casting vote — and that is Duvall. Deferring to her standing is the rigorous position, not the soft one. S earned with eyes open. Honors the creative muse. |
 | The Quiet American | 2002 | Noyce | A | Moral architecture holds outside the Cold War European frame — Q2 answered. Visual beauty under-realized; Phuong's arc squandered despite being there for the taking. Pyle is a fraud even to himself: the bombing scene reveals the cold calculator beneath the compassionate exterior. No emotional closure; courageous filmmaking. |
-| Under the Skin | 2013 | Glazer | D | Abandoned at 20 min, skimmed to end. Formal coldness without warmth or emotional stakes — emptiness critics project meaning onto, assisted by naked ScarJo. Mica Levi score genuinely good; the rest is thinner than the reviews suggest. Probe result: dread requires stakes. The Shining worked because there was warmth to destroy. This never had any. |
+| Under the Skin | 2013 | Glazer | D | Abandoned at 20 min, skimmed to end. Formal coldness without warmth or emotional stakes — emptiness critics project meaning onto, assisted by naked ScarJo. Mica Levi score genuinely good; the rest is thinner than the reviews suggest. Used Glasgow as wallpaper — nothing to say about Scotland despite the setting. Probe result: dread requires stakes, and setting must mean something. |
+| Yi Yi | 2000 | Yang | — | REJECTED — abandoned after opening. Philosophically serious but the thesis (you can never see what others see) arrives too quietly through domestic texture to surface. No cultural antenna connecting with Taiwanese domestic life; no beauty at sufficient intensity to substitute. Confirmed: dry contemplative cinema without a legible thesis doesn't hold. Domestic subject matter is not the barrier — the absence of philosophical weight that announces itself is. |
