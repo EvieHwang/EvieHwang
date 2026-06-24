@@ -65,8 +65,11 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 **① The Spy Who Came in from the Cold (1965, Martin Ritt) — EXPLOIT**
 *Tests the Cold-War vein at full strength.* Le Carré's bleakest film — the moral architecture is the argument, not the backdrop. **High tier →** the vein is craft-rich, mine it. **B or below →** Tinker Tailor was the exception.
 
-**② The Conformist (1970, Bertolucci) — EXPLOIT — NEW**
+**② The Conformist (1970, Bertolucci) — EXPLOIT**
 *Tests whether the moral-architecture axis extends to fascism-era Europe.* Visually ravishing (Storaro), philosophically serious — a man who destroys what he loves to belong. Sits at the intersection of the Sorrentino register (Italian, lush, about moral vacancy) and the Cold War moral-architecture axis. **High tier →** the axis is broader than Cold War; promote the full moral-architecture holding pool. **Low →** the ideology/war context was still load-bearing.
+
+**③ Dr. Strangelove (1964, Kubrick) — EXPLORE**
+*Tests comedy as the right vehicle for the Paths of Glory thesis.* Same argument — the gap between moral self-image and behavior generates specific cruelty, and the most dangerous figures are the ones who mean well — delivered as black comedy. Perfectly timed after PoG: if the register holds in absurdism, it opens a new vein. **High tier →** comedy is live for this thesis; untested form confirmed. **Low →** the argument requires gravity to land.
 
 ---
 
@@ -88,7 +91,6 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 - Hereditary (2018, Ari Aster) — grief as horror; emotional stakes front-loaded.
 
 **Untested forms (wildcards — promote to keep exploration alive)**
-- Dr. Strangelove (1964, Kubrick) — comedy as craft, nuclear logic to absurdity.
 - The Wolf House (2018, León & Cociña) — animation as serious form; Chilean, disturbing.
 - I Shot Andy Warhol (1996, Mary Harron) — feminist, punk, countercultural.
 - Love Lies Bleeding (2024, Rose Glass) — contemporary, stylized, female desire and obsession.
@@ -143,4 +145,4 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 | The Quiet American | 2002 | Noyce | A | Moral architecture holds outside the Cold War European frame — Q2 answered. Visual beauty under-realized; Phuong's arc squandered despite being there for the taking. Pyle is a fraud even to himself: the bombing scene reveals the cold calculator beneath the compassionate exterior. No emotional closure; courageous filmmaking. |
 | Under the Skin | 2013 | Glazer | D | Abandoned at 20 min, skimmed to end. Formal coldness without warmth or emotional stakes — emptiness critics project meaning onto, assisted by naked ScarJo. Mica Levi score genuinely good; the rest is thinner than the reviews suggest. Used Glasgow as wallpaper — nothing to say about Scotland despite the setting. Probe result: dread requires stakes, and setting must mean something. |
 | Yi Yi | 2000 | Yang | — | REJECTED — abandoned after opening. Philosophically serious but the thesis (you can never see what others see) arrives too quietly through domestic texture to surface. No cultural antenna connecting with Taiwanese domestic life; no beauty at sufficient intensity to substitute. Confirmed: dry contemplative cinema without a legible thesis doesn't hold. Domestic subject matter is not the barrier — the absence of philosophical weight that announces itself is. |
-| Paths of Glory | 1957 | Kubrick | A | EXPLORE probe confirmed: pre-1960 not a barrier. Moral architecture load-bearing throughout — the generals are never sympathetic, and rightness provides no protection. Clear-eyed protagonist axis: Dax acts with full knowledge of futility, which is the argument. Three tonal registers (social satire → war film → courtroom drama → lyrical coda) held without seams. Dated enough to sit in A not S — earned its retirement; filmmakers have since taken its ground and gone further. |
+| Paths of Glory | 1957 | Kubrick | A | A confirmed; S under consideration pending re-watch. Initial datedness flaw dissolved in canon conversation (2026-06-24): supersession, not grammar — progenitor penalty rejected. Typological characterization (Dax as nobility, Broulard as cynicism) reread as load-bearing rather than limitation — characters as system functions is the argument. Residual case for A over S: limited emotional reach toward individuals; you recognize, you do not grieve. Thesis: the most dangerous figure in the film is Dax, precisely because he means well. The firing squad assignment and the refusal of promotion are the same mechanism — stimulus-response to moral outrage — which places him inside the animalism he believed himself above. |
