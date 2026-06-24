@@ -1,6 +1,6 @@
 # Film Canon
 *Evie's personal film practice — an active-inference model of her taste*
-*Last updated: 2026-06-23*
+*Last updated: 2026-06-24*
 
 ---
 
@@ -55,7 +55,7 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 1. **Does aesthetic achievement buy out narrative weakness, and above what threshold?** *In the Mood for Love* (S) forgave plotlessness because it was too beautiful to mind. The exchange rate between beauty and thesis is better understood now — beauty alone is insufficient (*Yi Yi* reject), but beauty at overwhelming intensity earns a specific exception. The question is where exactly the threshold sits.
 2. **Cold War pull: ANSWERED — moral architecture.** *The Quiet American* (A, 2026-06-23) confirmed: structural pull held in 1950s Vietnam, different visual grammar, no European frame, no le Carré. Open question now: does the moral-architecture axis extend beyond the Cold War and war/ideology context entirely?
 3. **Dry contemplative cinema: ANSWERED — doesn't hold without philosophical weight announcing itself.** *Yi Yi* reject confirms: formal seriousness without a thesis that surfaces clearly through the texture doesn't land. The arthouse strand is a real vein only when the argument is present and legible.
-4. **Untested forms.** Still near-zero data on animation, documentary, pre-1960 cinema, and comedy-as-craft. Horror answered: dread lands at S when emotional stakes are present. Each remaining blank is a wildcard.
+4. **Untested forms.** Pre-1960 cinema: ANSWERED — not a barrier. *Paths of Glory* (A, 2026-06-24) confirmed the moral-architecture and clear-eyed-protagonist axes hold across eras; historical datedness costs nothing below S and the craft remains fully legible. Still near-zero data on animation, documentary, and comedy-as-craft. Horror answered: dread lands at S when emotional stakes are present. Each remaining blank is a wildcard.
 
 ---
 
@@ -67,9 +67,6 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 
 **② The Conformist (1970, Bertolucci) — EXPLOIT — NEW**
 *Tests whether the moral-architecture axis extends to fascism-era Europe.* Visually ravishing (Storaro), philosophically serious — a man who destroys what he loves to belong. Sits at the intersection of the Sorrentino register (Italian, lush, about moral vacancy) and the Cold War moral-architecture axis. **High tier →** the axis is broader than Cold War; promote the full moral-architecture holding pool. **Low →** the ideology/war context was still load-bearing.
-
-**③ Paths of Glory (1957, Kubrick) — EXPLORE — NEW**
-*Untested register: pre-1960, and Kubrick before the formal experimentation.* 88 minutes, WWI, a lawyer-soldier defending men ordered to die. Squarely on the clear-eyed-protagonist axis. **High tier →** pre-1960 cinema is not a barrier; the axis holds across eras. **Low →** period filmmaking grammar is a genuine filter.
 
 ---
 
@@ -146,3 +143,4 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 | The Quiet American | 2002 | Noyce | A | Moral architecture holds outside the Cold War European frame — Q2 answered. Visual beauty under-realized; Phuong's arc squandered despite being there for the taking. Pyle is a fraud even to himself: the bombing scene reveals the cold calculator beneath the compassionate exterior. No emotional closure; courageous filmmaking. |
 | Under the Skin | 2013 | Glazer | D | Abandoned at 20 min, skimmed to end. Formal coldness without warmth or emotional stakes — emptiness critics project meaning onto, assisted by naked ScarJo. Mica Levi score genuinely good; the rest is thinner than the reviews suggest. Used Glasgow as wallpaper — nothing to say about Scotland despite the setting. Probe result: dread requires stakes, and setting must mean something. |
 | Yi Yi | 2000 | Yang | — | REJECTED — abandoned after opening. Philosophically serious but the thesis (you can never see what others see) arrives too quietly through domestic texture to surface. No cultural antenna connecting with Taiwanese domestic life; no beauty at sufficient intensity to substitute. Confirmed: dry contemplative cinema without a legible thesis doesn't hold. Domestic subject matter is not the barrier — the absence of philosophical weight that announces itself is. |
+| Paths of Glory | 1957 | Kubrick | A | EXPLORE probe confirmed: pre-1960 not a barrier. Moral architecture load-bearing throughout — the generals are never sympathetic, and rightness provides no protection. Clear-eyed protagonist axis: Dax acts with full knowledge of futility, which is the argument. Three tonal registers (social satire → war film → courtroom drama → lyrical coda) held without seams. Dated enough to sit in A not S — earned its retirement; filmmakers have since taken its ground and gone further. |
