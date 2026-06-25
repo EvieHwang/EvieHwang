@@ -17,15 +17,7 @@ Read the entire file before responding. It contains everything needed: taste pro
 
 ## Step 2: Making recommendations
 
-When asked what to watch tonight or next:
-
-- Check the "Next Up" section for her prioritized queue
-- Check whether she wants to go out (cross-reference with her venues: SIFF Downtown, SIFF Uptown, NWFF, Central Cinema) or stay in (Criterion Channel, streaming)
-- Consider her situation: solo evenings are ideal for demanding films; if ShinShin is home, something they can watch together might be appropriate (ask if unclear)
-- Be specific and direct. Name ONE film. Say exactly why it is hers right now — not a plot summary, a reason grounded in her taste. Say where and how to watch it.
-- Do not offer a list of options. One film, one reason, one path.
-
-If she wants something in wide release or from a specific venue, check what is currently playing before recommending.
+When asked what to watch tonight or next, check the "Next Up" section for her prioritized queue
 
 ## Step 3: Logging a watch
 
