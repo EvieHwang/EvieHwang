@@ -1,5 +1,5 @@
 # Retail Intel — Working Memory
-_Last updated: 2026-06-25_
+_Last updated: 2026-06-26_
 
 ## Deep Dives Covered (rolling 90 days)
 <!-- format: topic — [layer/rung] — YYYY-MM-DD -->
@@ -18,10 +18,10 @@ _Last updated: 2026-06-25_
 - Supervised learning for (s,S) inventory model (arXiv:2601.12900, Sherzer et al.): ML learns optimal (s,S) policy parameters from simulated cost surface; no distributional assumptions; handles general interarrival demand (intermittent/lumpy) and general lead times; pipeline implication: TSFM prior at cold-start → supervised (s,S) calibration as history builds → conformal coverage; business-metric cost inputs required — [decision optimization rung] — 2026-06-23
 - Manhattan Associates Sightline: explainability is foundation-rung work surfaced through an agentic interface; Sightline explains AI-driven forecast/safety stock/order decisions in plain language in-application; companion launch Solution Design Studio (NL config for warehouse/transportation); key distinction — explaining a recommendation ≠ improving it; explanation trusted without backtest validation becomes a confidence trap that suppresses the override; Manhattan's OMS/WMS execution data moat differentiates explanation quality; verdict: earns foundation-rung credit, not decision-rung credit — [foundation / agentic rung] — 2026-06-24
 - July 24 Section 122 tariff cliff / Section 301 transition: multi-scenario buy plan is correct structure — single-scenario H2 assumptions mis-state c_u/c_o under scenario uncertainty; CIT struck down Section 122 (DOJ appeal pending); Section 301 Forced Labor track (10–12.5%) on 60 countries likely replacement and may be equal or higher than current Section 122 for major apparel-origin countries; importers betting on "tariff lapse" could catch Section 301 instead; Layer 1 dollar-value uncertainty persists until customs confirms applicable rate — [Macro / Layer 2] — 2026-06-25
+- Censored demand / in-context learning for lost-sales inventory (arXiv:2605.14840): every stockout in training history hides true demand; sell-through–trained models embed censoring bias structurally; ICGPS (in-context generative posterior sampling) does Bayesian demand recovery without distributional assumption; regret bound scales as √T × distributional mismatch; Layer 1 signal corrupted by Layer 4 decision history; gap surface and newsvendor fractile mis-calibrated downstream; pre-build audit: identify censored SKUs before calibrating any safety-stock or fractile parameter — [decision rung / Layer 1-3] — 2026-06-26
 
 ## Headlines & Company Events Covered (rolling 14 days)
 <!-- format: entity — one-line — YYYY-MM-DD -->
-- Time-series foundation models — Chronos-2 group-attention multivariate explainers proliferating among practitioners — 2026-06-11
 - arXiv:2606.04900 — Petropoulos et al. multi-objective forecast combination; Pareto weights for statistical accuracy vs. inventory cost — 2026-06-15
 - Gap Inc — Q1 FY26: inventory flat in dollars/units down; ~200bps tariff drag on merchandise margin; EPS beat, guidance raised — 2026-06-15
 - Aritzia — Q1 FY27 (Mar–May 2026): 33% revenue growth vs 3% inventory growth; cleanest inventory-to-sales print in peer group — 2026-06-15
@@ -65,6 +65,17 @@ _Last updated: 2026-06-25_
 - GIFT-Eval leaderboard June 23 — MoiraiAgent (Salesforce, MASE 0.689) leads Chronos-2 (0.698) and TimesFM-2.5 (0.705); first confirmed leaderboard leadership for NL-augmented TSFM; GIFT-Eval skews finance/energy; retail validation gap remains — 2026-06-25
 - arXiv:2506.14810 — Intelligent Routing for Sparse Demand Forecasting: InceptionTime router +11.8% NWRMSLE on Favorita vs. single-model; 4.67× faster inference; classifies SKU demand regime before assigning forecasting model; natural complement to Google Complexity Router (arXiv:2605.24381) — route at SKU level, not series-type level — 2026-06-25
 - arXiv:2606.19587 — Solver-free predict-then-optimize accepted at ICML 2026; eliminates solver call per gradient step (Fisher consistency + excess risk bounds); scales SPO+ family to large instances; decision-optimization rung methodological advance — 2026-06-25
+- arXiv:2605.14840 — in-context learning for censored inventory demand; ICGPS recovers unbiased demand from lost-sales history without parametric assumption; regret bound penalizes meta-training mismatch; decision rung Layer 1/3 — 2026-06-26
+- arXiv:2605.17920 — multivariate hierarchical reconciliation; ensures size-SKU and region-store coherence while preserving cross-variable relationships; beats MinT on real data; addresses GLP-1 size-run consistency problem — 2026-06-26
+- Kontoor Brands — Q1 FY26 inventory -8% YoY; cleanest denim peer print against PVH tariff-driven cost inflation; full-year guidance intact; Lee/Wrangler vertically-integrated discipline — 2026-06-26
+- o9 Solutions — named 2026 Gartner MQ Leader for Supply Chain Planning; Digital Brain + LLM exception management; agentic rung positioning; solver depth vs. RELEX/Blue Yonder remains unconfirmed — 2026-06-26
+- ICML 2026 — forecasting track live in Seoul; covariate integration and recency-bias robustification as frontier; exogenous variables into TSFM inference without retraining is the cold-start accuracy gap — 2026-06-26
+- arXiv:2602.22694 — Robust MinT reconciliation with M-estimation; handles contaminated base forecasts from data errors and demand anomalies; foundation rung resilience — 2026-06-26
+- ToolsGroup — "Decion" agentic AI platform launched May 2026 + Promo.io promotions optimization; recognized in Gartner's first Discrete Industries Supply Chain Planning MQ; agentic rung framing over Service Optimizer 99+ probabilistic engine — 2026-06-26
+- Kinaxis — Foundational Decision Engine (FDE) unveiled at Kinexions conference June 2026; new CEO Razat Gaurav (appointed January 2026); operational orchestration positioning — 2026-06-26
+- Drewry WCI June 25 — $4,166/FEU composite (+5% from June 18's $3,969); Shanghai-NY $5,870 (+7%), Shanghai-LA $4,683 (+3%); freight inflation accelerating into peak season; H2 landed-cost assumptions remain misstated — 2026-06-26
+- Inditex Q1 FY2026 — inventory +1% YoY, sales +8.8% constant currency, May trading +11.5%; near-zero inventory growth on double-digit revenue remains sector benchmark for Layer 2/4 discipline; no debt, €10.8B net cash — 2026-06-26
+- PVH Q1 2026 — inventory +13% (deliberate tariff hedge build); Q2 EPS guidance $3.00–$3.10; $100M tariff refund benefit expected Q2 operating margin; Middle East conflict impacting EMEA wholesale — 2026-06-26
 
 ## Sign-offs Used (rolling 14 days)
 <!-- format: line — YYYY-MM-DD -->
@@ -77,3 +88,4 @@ _Last updated: 2026-06-25_
 - "The only thing worse than buying the wrong amount is computing it with the right formula and the wrong distribution assumption — which is how you get confident (s,S) parameters for a SKU whose demand was never Gaussian." — 2026-06-23
 - "The AI can now explain why it set safety stock at that level. The lead-time data it reasoned from hasn't been updated since Q4." — 2026-06-24
 - "The industry is modeling July 24 as the day tariffs go away. The statute says that's when Section 122 expires. Those are not the same sentence." — 2026-06-25
+- "The demand your model learned from isn't demand. It's the sales you had stock for. Everything else was recorded as a stockout and never taught a lesson." — 2026-06-26
