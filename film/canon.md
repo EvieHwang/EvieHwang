@@ -1,6 +1,6 @@
 # Film Canon
 *Evie's personal film practice — an active-inference model of her taste*
-*Last updated: 2026-06-24*
+*Last updated: 2026-06-26*
 
 ---
 
@@ -42,7 +42,7 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 
 - **Style as argument, not decoration.** Formal control that means something. Load-bearing across the entire watch log.
 - **Every affective register must earn its place through philosophical weight.** Mood, ennui, beauty, setting, atmosphere — none of these are ends in themselves. They must be in service of a thesis. *La Grande Bellezza* is about wasted life; *The Godfather* is about corruption; *Tinker Tailor* refuses emotion as an argument *about* that refusal. The sole exception: aesthetic and cultural texture at overwhelming intensity can substitute for explicit argument — but only when the intensity is extreme AND the viewer's cultural antenna connects. *In the Mood for Love* earns this exception (Hong Kong texture, Shanghainese-exile specificity, colour and music at full force). *Yi Yi* does not reach the threshold: the philosophy is real but quiet, and the cultural antenna doesn't connect. *Under the Skin* fails doubly — no argument, and nothing meaningful to say about Scotland even to someone who has lived there.
-- **Clear-eyed protagonists who act anyway.** Clarity, not heroism. Leamas, Fowler, Clarice. The single most reliable predictor of a high score.
+- **Clear-eyed protagonists who act anyway.** Clarity, not heroism. Leamas, Fowler, Clarice. The single most reliable predictor of a high score. *Note after TSWCITFC:* Leamas complicates the archetype — he is deceived for the entire film, achieving clarity only at the Wall. The axis may be better understood as: clarity at the moment of decisive action, not throughout. The final choice (stay with Nan, die) is the purest possible expression of the type; it simply arrives late.
 - **Female characters as competence test.** Evenhanded interiority earns; spending a woman as a plot hinge costs (cf. *Lives of Others* missing S on exactly this; *In the Mood for Love* earning S because opacity was applied to both leads). One licensed exception for *on-screen* treatment: diminishment that is *realistically earned within the story* rather than authorial (cf. *The Shining*, Wendy under terror). On-set conduct is governed by the hard rule, and adjudicated case by case — not assumed from the presence of suffering.
 - **Cynicism without nihilism.** Cool that earns itself. *No Country*, *The Big Short*.
 - **Competence as pleasure.** The satisfaction of watching skilled people be skilled. *Ocean's 8*, *The Martian*, *John Wick*.
@@ -50,31 +50,33 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 - **Moral architecture over period aesthetic (confirmed).** The Cold War pull is structural, not era-specific — *The Quiet American* confirmed this in 1950s Vietnam. The search for this register extends beyond European mid-century settings.
 - **Implication over observation (confirmed).** Comedy creates distance where the taste requires implication. Watching buffoons from outside (Strangelove) produces laughter but not movement. Being inside the machine's logic (Paths of Glory, Tinker Tailor) produces recognition. The difference is not thesis but relationship between viewer and argument. B ceiling confirmed for comedy-as-primary-register.
 - **Country-of-origin neutral.** Vision is the filter, never the passport.
+- **Structure performing thesis (candidate axis — unconfirmed).** *The Spy Who Came in from the Cold* performs the deception it depicts: viewer and Leamas are deceived simultaneously, revelation arriving only at the Wall. When a film enacts its argument rather than states it, the craft register may be distinct from — and potentially higher than — the thesis alone suggests. Cf. *Paths of Glory* (states thesis through Dax and the court martial) vs. *TSWCITFC* (enacts it through structure, makes you complicit in the machinery). Candidate for confirmation: *The Conformist*, *Oldboy*.
 
 ### Open questions (low confidence — where the probes go)
 
 1. **Does aesthetic achievement buy out narrative weakness, and above what threshold?** *In the Mood for Love* (S) forgave plotlessness because it was too beautiful to mind. The exchange rate between beauty and thesis is better understood now — beauty alone is insufficient (*Yi Yi* reject), but beauty at overwhelming intensity earns a specific exception. The question is where exactly the threshold sits.
-2. **Cold War pull: ANSWERED — moral architecture.** *The Quiet American* (A, 2026-06-23) confirmed: structural pull held in 1950s Vietnam, different visual grammar, no European frame, no le Carré. Open question now: does the moral-architecture axis extend beyond the Cold War and war/ideology context entirely?
+2. **Cold War pull: ANSWERED — moral architecture.** *The Quiet American* (A, 2026-06-23) confirmed: structural pull held in 1950s Vietnam, different visual grammar, no European frame, no le Carré. *The Spy Who Came in from the Cold* (B, 2026-06-26) confirms the vein is real but shows the female-character test is a genuine ceiling — this would have been A without it. Open question now: does the moral-architecture axis extend beyond war/ideology context entirely?
 3. **Dry contemplative cinema: ANSWERED — doesn't hold without philosophical weight announcing itself.** *Yi Yi* reject confirms: formal seriousness without a thesis that surfaces clearly through the texture doesn't land. The arthouse strand is a real vein only when the argument is present and legible.
 4. **Untested forms.** Pre-1960 cinema: ANSWERED — not a barrier (*Paths of Glory*, A). Comedy-as-craft: ANSWERED — B ceiling confirmed. Comedy creates distance where the taste requires implication; absurdist thesis (institutional logic to unchecked conclusion) lands as entertaining observation rather than moral implication. Still near-zero data on animation and documentary. Each remaining blank is a wildcard.
+5. **Anti-triumphalist narrative pattern: emerging, unconfirmed.** The S-tier cluster — *The Godfather*, *No Country*, *Tinker Tailor*, *In the Mood for Love* — shares a structural property: the narrative follows the world's logic, not the protagonist's desire. No triumphant resolution; the protagonist gets what the world gives them. *The Spy* confirms this pattern (Leamas gets death and a kind of grace, not victory). Open question: is this a preference for tragedy specifically, or for films where the world is treated as an independent agent with its own logic? To test: a well-crafted film with a triumphalist arc — does it score high if the craft and moral architecture are present?
 
 ---
 
 ## Active Slate
 *React per film: Reject or Commit. This is the poll.*
 
-**① The Spy Who Came in from the Cold (1965, Martin Ritt) — EXPLOIT**
-*Tests the Cold-War vein at full strength.* Le Carré's bleakest film — the moral architecture is the argument, not the backdrop. **High tier →** the vein is craft-rich, mine it. **B or below →** Tinker Tailor was the exception.
+**① The Conformist (1970, Bertolucci) — EXPLOIT**
+*Tests whether the moral-architecture axis extends to fascism-era Europe.* Visually ravishing (Storaro), philosophically serious — a man who destroys what he loves to belong. Sits at the intersection of the Sorrentino register (Italian, lush, about moral vacancy) and the Cold War moral-architecture axis. Updated after *The Spy Who Came in from the Cold* (B): that film scored B not because the vein is weak but because the female-character test wasn't met. If The Conformist handles this better AND the moral-architecture holds, A or higher is on the table. **High tier →** the axis is broader than Cold War; promote the full moral-architecture holding pool. **Low →** the ideology/war context was load-bearing, or female-character failure recurs.
 
-**② The Conformist (1970, Bertolucci) — EXPLOIT**
-*Tests whether the moral-architecture axis extends to fascism-era Europe.* Visually ravishing (Storaro), philosophically serious — a man who destroys what he loves to belong. Sits at the intersection of the Sorrentino register (Italian, lush, about moral vacancy) and the Cold War moral-architecture axis. **High tier →** the axis is broader than Cold War; promote the full moral-architecture holding pool. **Low →** the ideology/war context was still load-bearing.
+**② The Witch (2015, Robert Eggers) — EXPLORE**
+*Tests whether dread-as-architecture holds beyond Kubrick.* Under the Skin (D) established that dread requires warmth before it can be destroyed. The Witch begins with a family — the pre-condition is met. Period folk-horror; Eggers formally rigorous. **High tier →** the dread register is a real vein, not Kubrick-specific. **Low or reject →** Kubrick's formal total control was load-bearing, not the dread register itself.
 
 ---
 
 ## Holding Pool
 *Candidates the model can promote into a future slate, grouped by what each would test.*
 
-**Cold War / moral-architecture (promote if ① or ② scores high)**
+**Cold War / moral-architecture (promote if ① scores high)**
 - Manhunter (1986, Michael Mann) — cold, precise, procedural; moral architecture in a genre frame.
 
 **Arthouse with philosophical weight (revised after Yi Yi reject — domestic-quiet without legible thesis now downweighted)**
@@ -84,8 +86,7 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 - Shoplifters (2018, Kore-eda) — domestic and quiet like Yi Yi; lower confidence after reject, but the thesis (who gets to claim family) is clearer. Borderline.
 - The Hole (1998, Tsai Ming-liang) — genuinely singular; sci-fi/musical/squalor. Probably too dry.
 
-**Dread-as-architecture (both have emotional warmth before the horror — still viable despite Under the Skin D)**
-- The Witch (2015, Robert Eggers) — period folk-horror; family warmth as the thing being destroyed.
+**Dread-as-architecture (emotional warmth confirmed as the pre-condition)**
 - Hereditary (2018, Ari Aster) — grief as horror; emotional stakes front-loaded.
 
 **Untested forms (wildcards — promote to keep exploration alive)**
@@ -145,3 +146,4 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 | Yi Yi | 2000 | Yang | — | REJECTED — abandoned after opening. Philosophically serious but the thesis (you can never see what others see) arrives too quietly through domestic texture to surface. No cultural antenna connecting with Taiwanese domestic life; no beauty at sufficient intensity to substitute. Confirmed: dry contemplative cinema without a legible thesis doesn't hold. Domestic subject matter is not the barrier — the absence of philosophical weight that announces itself is. |
 | Paths of Glory | 1957 | Kubrick | A | A confirmed; S under consideration pending re-watch. Initial datedness flaw dissolved in canon conversation (2026-06-24): supersession, not grammar — progenitor penalty rejected. Typological characterization (Dax as nobility, Broulard as cynicism) reread as load-bearing rather than limitation — characters as system functions is the argument. Residual case for A over S: limited emotional reach toward individuals; you recognize, you do not grieve. Thesis: the most dangerous figure in the film is Dax, precisely because he means well. The firing squad assignment and the refusal of promotion are the same mechanism — stimulus-response to moral outrage — which places him inside the animalism he believed himself above. |
 | Dr. Strangelove | 1964 | Kubrick | B | EXPLORE probe result: comedy ceiling confirmed at B. Entertaining and funny (Scott especially hilarious), but comedy creates distance where the taste requires implication. Absurdist thesis — institutional logic running to unchecked conclusion — watched from outside rather than felt from within. Correct vehicle for its own thesis (absurdism is the argument, not the wrapper); just not a thesis that activates the implication register. Probe result: comedy-as-primary-register confirmed at B ceiling. |
+| The Spy Who Came in from the Cold | 1965 | Ritt | B | Gripping; non-classical narrative follows its own logic to its own end — meaning can't be summarized, must be experienced. Film performs the deception it depicts: viewer is as deceived as Leamas until the Wall. Cinematography deliberately flat (Oswald Morris): grey ugliness as moral argument against Bond-era espionage glamour, not inadvertent oversight. Female-character failure costs the tier: Nan has beliefs and argues them but is used and killed; film acknowledges it (the West kills its own) but volume of female diminishment across the film doesn't justify. Would have been A otherwise. Probe: the le Carré vein requires the female-character test to be met; Tinker Tailor operates at a different level because it passes. |
