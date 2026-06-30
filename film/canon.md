@@ -1,6 +1,6 @@
 # Film Canon
 *Evie's personal film practice — an active-inference model of her taste*
-*Last updated: 2026-06-27*
+*Last updated: 2026-06-29*
 
 ---
 
@@ -54,6 +54,7 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 - **Country-of-origin neutral.** Vision is the filter, never the passport.
 - **Structure performing thesis (candidate axis — unconfirmed).** *The Spy Who Came in from the Cold* performs the deception it depicts: viewer and Leamas are deceived simultaneously. When a film enacts its argument rather than states it, the craft register may be distinct from — and potentially higher than — the thesis alone suggests. *Strengthened by The Zero Effect:* Zero's method (the "Zero Effect" — looking for anything rather than something, becoming invisible to observe) is performed by the film's plot, not merely stated. The MacGuffin (missing car keys) reveals itself as beside the point; the film was looking for anything and found something real. Candidate for confirmation: *The Conformist*, *Oldboy*.
 - **Sci-fi where the premise IS the argument (confirmed; epic spectacle is a separate, lower register).** Hard sci-fi reaches A when the sci-fi premise enacts rather than decorates the thesis: *Gravity* (A, survival as the will to live — survival and rediscovery enacted as the same action), *The Martian* (A, competence as human dignity), *Arrival* (A, linguistic determinism of time). Epic-scale space spectacle without a coherent delivered argument lands at B: *Prometheus* (B) and *Interstellar* (B) join *Fury Road* at the same ceiling — enjoyed from outside, no residue. The love for ships, aliens, and cosmic scale is real but is not itself load-bearing; it earns B, not A. Specific failure mode confirmed by *Prometheus*: one great image can give a film its entire emotional high point without the runtime earning it; the movie then exists only to frame that shot. Plot coherence is required for A: *Interstellar* breaks its own time mechanics where *Gravity* holds airtight. Future probes should target hard sci-fi with formal control, not epic spectacle.
+- **Entertaining is not a disqualifier, but it is a ceiling marker.** Confirmed by *Michael Clayton* (A): when "entertaining is what it's for and what it's about," the ambition is the story rather than a philosophical or visual argument beyond it. Craft can be exceptional, moral architecture sharp, performance extraordinary — and the film still belongs at A rather than S. Pleasurably durable is not the same as inexhaustible.
 
 ### Open questions (low confidence — where the probes go)
 
@@ -105,6 +106,11 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 
 **Foundation candidates**
 - Blade Runner (1982, Scott); Paris, Texas (1984, Wenders); Betty Blue (1986, Beineix); Early Summer (1951, Ozu).
+
+**Entertainment register — confirmed A, pre-canon**
+- Knives Out (2019, Johnson) — structural wit load-bearing, Marta as clear-eyed protagonist, cynicism without nihilism. Adored. Log when ready to tier.
+- Edge of Tomorrow (2014, Liman) — Emily Blunt as fully competent female lead, time-loop premise load-bearing, competence earned not assumed. Adored. Log when ready to tier.
+- The Nice Guys (2016, Black) — wit at construction level, Holly March as the real clear-eyed protagonist, warmth underneath. Watching.
 
 ---
 
@@ -158,3 +164,4 @@ Currently excluded: Polanski (convicted predator — cruelty *was* the point), v
 | Prometheus | 2012 | Scott | B | One magnificent image (the Engineer dissolving at the waterfall) gives the film its entire emotional high point without the runtime earning it. Spectacle-as-primary-register: cool styling, ships, aliens, epic scale — enjoyed from outside, no residue, no argument. Plot garbled beyond redemption. Specific failure mode: the movie exists to frame a single shot; what you remember is the image, not the film. Confirms: epic space spectacle without coherent argument = B ceiling. |
 | Interstellar | 2014 | Nolan | B | Spectacle mode confirmed alongside Fury Road. Ships, time differentials, epic scale — nice to look at, nothing sticks. Plot incoherence breaks the time mechanics; love-as-fifth-dimension announced rather than enacted. Enjoyed from outside, not felt from within. Gravity (A) distinguishes itself: one simple coherent emotional argument (she wants to die; she chooses life) enacted through airtight survival mechanics, plot logic never cracks. Interstellar announces its thesis at maximum volume at the exact moment it should be enacted — and then the mechanics don't hold. |
 | The Zero Effect | 1998 | Kasdan | A | Competence as pleasure in its purest and most honest form — Zero's deductive method is procedural wit articulated as character, and his competence is inseparable from his brokenness: the same wiring that makes him the world's greatest private investigator makes him non-operational as a human being. The "looking for something vs. looking for anything" line is epistemically precise in a way that could only come from him — and the film then performs it: the MacGuffin (missing car keys) reveals itself as beside the point; the plot was looking for anything and found something real. Structure-as-argument axis strengthened. Gloria Sullivan (Kim Dickens) passes the female-character test: morally complex, agentive, never spent as a plot hinge. Named flaw: cold — resolution rather than climax; emotional temperature low. "Already got the point" in one viewing — A confirmed. Desperately underappreciated. |
+| Michael Clayton | 2007 | Gilroy | A | Craft exceptional — narrative weaving, scene configuration, the small touches all load-bearing at the story level. Tilda Swinton's Karen Crowder is one of the great villain performances: craven and compromised in a way that is completely believable. Clear-eyed protagonist who acts anyway: Clayton knows exactly what he is and chooses anyway. A/S verdict precise and self-articulated: "entertaining is what it's for and what it's about" — pleasurably durable, ambition is the story rather than a philosophical or visual argument beyond it. Confirms the A/S gap with exceptional clarity and adds a new axis formulation: entertaining is not a disqualifier, but it is a ceiling marker. |
