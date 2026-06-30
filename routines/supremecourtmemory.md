@@ -25,21 +25,18 @@ Each bi-weekly briefing contains:
 
 **Term:** October Term 2025 (OT2025)
 **Began:** October 6, 2025
-**Expected close:** Late June / early July 2026 (final opinions expected on or about June 29–30)
+**Expected close:** June 30, 2026 (TODAY — final opinion day)
 **Cases accepted:** ~66 (as of June 2026)
-**Cases decided:** ~57 (as of June 25, 2026)
-**Cases pending decision as of June 26, 2026:** ~9
+**Cases decided:** ~62 (as of June 29, 2026)
+**Cases pending decision as of June 30, 2026:** 4 — all expected today, the final opinion day
 
-### Major Cases Still Pending (as of June 26, 2026)
+### Major Cases Still Pending (as of June 30, 2026)
 
 | Case | Issue | Likely Direction |
 |------|--------|-----------------|
-| *Trump v. Barbara* | Birthright citizenship — 14th Amendment; exec order denying citizenship to children of undocumented/temp-visa parents | Likely to strike down exec order (5–7 justices skeptical at oral argument on April 1; DOJ "domicile" theory drew icy reception). **STILL PENDING — expected June 29.** |
-| *Trump v. Cook* | Presidential removal power — can Trump fire Lisa Cook, Fed Board of Governors member, without "for cause"? | Court may treat Fed differently; Cook allowed to remain in seat pending decision. **STILL PENDING — expected June 29.** |
-| *Trump v. Slaughter* | Presidential removal power — FTC commissioner fired; Court already allowed removal pending decision; majority appeared ready to strike down for-cause protection and possibly overrule *Humphrey's Executor* (argued Dec 8, 2025) | Likely to side with Trump; possible *Humphrey's Executor* overrule. **STILL PENDING — expected June 29.** |
-| *Watson v. RNC* | Election law — Mississippi mail-in ballot receipt deadline; whether ballots postmarked by Election Day but arriving later must be counted; 29 states + DC have similar grace periods | Likely to rule for RNC; conservative justices showed little interest in statutory text at argument. **STILL PENDING — expected June 29.** |
-| *Little v. Hecox* / *West Virginia v. B.P.J.* | Equal Protection / Title IX — state bans on transgender women in sports (Idaho + West Virginia); argued Jan 13, 2026 | Likely to uphold bans (apparent majority at oral argument); question is whether ruling is narrow (statutory) or broader (Equal Protection). **STILL PENDING — expected June 29.** |
-| ~4 additional cases | Various | — |
+| *Trump v. Barbara* (25-365) | Birthright citizenship — 14th Amendment; exec order denying citizenship to children of undocumented/temp-visa parents | Likely to strike down exec order (5–7 justices skeptical at April 1 argument; DOJ "domicile" theory drew icy reception). Trump has publicly conceded he expects to lose. **STILL PENDING — expected TODAY, June 30 (final day).** |
+| *Little v. Hecox* / *West Virginia v. B.P.J.* | Equal Protection / Title IX — state bans on transgender women in sports (Idaho + West Virginia); argued Jan 13, 2026 | Likely to uphold bans (apparent majority at oral argument); key fork is narrow (Title IX statutory) vs. broader (Equal Protection, and at what tier). **STILL PENDING — expected TODAY, June 30 (final day).** |
+| *NRSC v. FEC* | Campaign finance — whether 52 U.S.C. §30116 limits on coordinated party expenditures violate the First Amendment; government declined to defend, Roman Martinez appointed amicus to defend the limits; DNC intervened | Challengers (GOP committees) seek to strike the limits; conservative skepticism of the limits at argument. **STILL PENDING — expected TODAY, June 30 (final day).** |
 
 ### Major Decisions Already Issued This Term
 
@@ -67,6 +64,10 @@ Each bi-weekly briefing contains:
 | *Wolford v. Lopez* | Jun 25, 2026 | 6–3 (Alito). A state may not bar concealed-carry permit holders from carrying on private property open to the public absent the owner's express permission | **[2A]** *Bruen*-era expansion; flips the default toward carry on publicly-accessible private property |
 | *Mullin v. Al Otro Lado* | Jun 25, 2026 | (Alito; Sotomayor dissenting from the bench). A foreign national who seeks to enter from Mexico does not "arrive in the United States" while still in Mexico — upholds the systematic border "turn-back" policy | **[EXEC POWER / immigration]** Trump administration win; Sotomayor read a ~10-min bench dissent ("more people will die") and Alito offered a rare spoken bench rebuttal (first such exchange since Scalia/Breyer in *Glossip*, 2015) |
 | *Mullin v. Doe* | Jun 25, 2026 | (Alito). Plaintiffs challenging the termination of Temporary Protected Status for Syrian and Haitian nationals are not entitled to orders postponing the terminations during litigation | **[EXEC POWER / immigration]** Trump administration win; clears the TPS termination to proceed |
+| *Trump v. Slaughter* (25-332) | Jun 29, 2026 | 6–3 (Roberts; three liberals dissenting). The FTC's for-cause removal protection violates the separation of powers; **overrules *Humphrey's Executor* (1935)** ("If anything more is left of *Humphrey's*, the Court overrules it") | **[EXEC POWER]** Capstone of the removal-power arc. Independent agencies (NLRB, SEC, FCC, etc.) are now constitutionally subject to at-will presidential removal; the post-New Deal independence shield is functionally gone |
+| *Trump v. Cook* | Jun 29, 2026 | 5–4 (Roberts + three liberals + **Kavanaugh**). Declined to permit removal of Fed Governor Lisa Cook; the Federal Reserve is treated as constitutionally distinct (founding-era roots of banks of issue) | **[EXEC POWER]** The deliberate carve-out to *Slaughter* — keeps monetary policy out of at-will removal. Thomas would not have drawn the line |
+| *Watson v. RNC* | Jun 29, 2026 | 5–4 (Barrett, joined by Roberts + three liberals; Thomas, Alito, Gorsuch, Kavanaugh dissenting). **Upheld** Mississippi's grace period counting mail ballots postmarked by Election Day and received up to 5 days later | **[VOTING RIGHTS]** SURPRISE — RNC *lost*. Cuts against the memory file's predicted direction and against the term's broader voting-rights erosion trajectory. Preserves grace periods in 29 states + DC |
+| *Chatrie v. United States* | Jun 29, 2026 | 6–3 (Kagan, joined by Roberts and Gorsuch; Alito dissenting — "an irresponsible escapade" — with Thomas and Barrett). Geofence warrants are a Fourth Amendment "search"; remanded for a reasonableness determination | Cross-ideological privacy win; an individual has a reasonable expectation of privacy in cell-phone location records even when pulled for a limited time from a third party. Civic-tech resonance |
 
 ---
 
@@ -82,44 +83,49 @@ Each bi-weekly briefing contains:
 - **[Jun 19, 2026]** The major questions doctrine: *Brown & Williamson* (2000) → *West Virginia v. EPA* (2022) → *Biden v. Nebraska* (2023) → *Learning Resources v. Trump* (2026); its friction with textualism (Barrett's *Nebraska* reframing) and its place in the broader administrative-state thread — connected to *Learning Resources* and pending *Trump v. Slaughter*
 - **[Jun 23, 2026]** The VRA's original architecture: Sections 2 and 5, the Section 4(b) coverage formula, *Shelby County v. Holder* (2013), and the post-*Shelby* narrowing of Section 2 (*Brnovich* → *Milligan* 2023 → *Callais* 2026 → *Milligan* emergency order 2026) — the "vise" where the statute commands what the Equal Protection Clause is read to forbid; connected to *Louisiana v. Callais* and *Allen v. Milligan*
 - **[Jun 26, 2026]** Racial gerrymandering doctrine — the Equal Protection side of the vise: *Shaw v. Reno* (1993) → *Miller v. Johnson* (1995, "predominant factor" test) → *Cooper v. Harris* (2017) → *Louisiana v. Callais* (2026, where the vise closed). The structural tension between Section 2's command to use race and Equal Protection's hostility to race-predominant districting; companion to the Jun 23 Section 2 deep dive; connected to *Callais*
+- **[Jun 30, 2026]** *Bostock v. Clayton County* (2020): Gorsuch's textualist 6–3 holding that "because of sex" under Title VII covers sexual orientation and gender identity — the cleanest proof that disciplined textualism is not conservative politics in a robe (method produced a result the right despised). The two open questions for the trans-athlete cases: scope (does Title VII's logic carry into Title IX, which contains an express sex-separated-athletics provision?) and fit (sex-separated sports rest on a physiological rationale the workplace never raised). Connected to *Little v. Hecox* / *West Virginia v. B.P.J.* (decided Jun 30)
 
 ### Topic Queue (Planned)
 
 **Constitutional Foundations**
-- [x] ~~The 14th Amendment's Citizenship Clause: text, ratification history, and *United States v. Wong Kim Ark* (1898) — foundational precedent for *Trump v. Barbara*~~ *(covered Jun 15, 2026)*
-- [x] ~~Article II removal power: from *Myers v. United States* (1926) to *Humphrey's Executor* (1935) to *Seila Law* (2020) — the arc behind *Trump v. Cook* and *Trump v. Slaughter*~~ *(covered Jun 16, 2026)*
-- [x] ~~The Chevron doctrine: rise (*Chevron USA v. NRDC*, 1984), fall (*Loper Bright*, 2024), and what deference looks like now~~ *(covered Jun 16, 2026)*
+- [x] ~~The 14th Amendment's Citizenship Clause: text, ratification history, and *United States v. Wong Kim Ark* (1898)~~ *(covered Jun 15, 2026)*
+- [x] ~~Article II removal power: from *Myers v. United States* (1926) to *Humphrey's Executor* (1935) to *Seila Law* (2020)~~ *(covered Jun 16, 2026)*
+- [x] ~~The Chevron doctrine: rise, fall (*Loper Bright*, 2024), and what deference looks like now~~ *(covered Jun 16, 2026)*
 - [x] ~~The major questions doctrine: what it is, where it came from, and how it interacts with originalism~~ *(covered Jun 19, 2026)*
 
 **Voting Rights and Elections**
 - [x] ~~The VRA's original architecture: Sections 2 and 5, *Shelby County v. Holder* (2013), and the post-*Shelby* landscape~~ *(covered Jun 23, 2026)*
-- [x] ~~Racial gerrymandering doctrine: *Shaw v. Reno* through *Louisiana v. Callais* — a 30-year arc~~ *(covered Jun 26, 2026)*
-- [ ] The independent state legislature theory: *Moore v. Harper* (2023) and what it didn't do ← **NEXT in the elections track; relevant to *Watson v. RNC* if it lands June 29**
+- [x] ~~Racial gerrymandering doctrine: *Shaw v. Reno* through *Louisiana v. Callais*~~ *(covered Jun 26, 2026)*
+- [ ] The independent state legislature theory: *Moore v. Harper* (2023) and what it didn't do ← **NEXT in the elections track; useful retrospective context now that *Watson v. RNC* (Jun 29) upheld the Mississippi grace period 5–4**
 
 **Executive Power**
 - [ ] IEEPA: what the statute says, its history, and why *Learning Resources v. Trump* matters
 - [ ] Non-delegation and its near-revival: *Gundy v. United States* (2019) and the Gorsuch dissent
-- [ ] Emergency powers and the shadow docket: how the Court has quietly expanded presidential authority through stays and emergency orders
+- [ ] Emergency powers and the shadow docket: how the Court has quietly expanded presidential authority through stays and emergency orders ← **timely as a retrospective on the term's exec-power haul, now capped by *Slaughter* (*Humphrey's* overruled) + the *Cook* Fed carve-out**
 
 **First Amendment and Speech**
 - [ ] The government speech doctrine: when can government say what it wants?
 - [ ] Social media platform liability: *Moody v. NetChoice* (2024) and where it left things
+- [ ] Campaign finance architecture: *Buckley v. Valeo* (1976) → *Citizens League/Citizens United* (2010) → *McCutcheon* (2014) → coordinated-expenditure limits — ← **NEW; add given *NRSC v. FEC* decided Jun 30**
 
 **Equal Protection**
-- [ ] *United States v. Virginia* (1996) and the "exceedingly persuasive justification" standard for sex discrimination — context for transgender athlete cases ← **timely if *Little v. Hecox* / *B.P.J.* lands June 29**
-- [ ] *Bostock v. Clayton County* (2020): Title VII and sex discrimination, and why it matters for Title IX ← **also timely with the trans-athlete cases imminent**
+- [ ] *United States v. Virginia* (1996) and the "exceedingly persuasive justification" standard for sex discrimination — context for the trans-athlete cases ← **still timely as a post-decision lens on *Hecox* / *B.P.J.* (decided Jun 30); pairs naturally with the Jun 30 *Bostock* deep dive**
 
 **Immigration**
-- [ ] The plenary power doctrine: why courts defer to Congress and the executive on immigration, and its troubled origins ← **timely — *Mullin v. Al Otro Lado* / *Mullin v. Doe* just decided (Jun 25) for the administration**
+- [ ] The plenary power doctrine: why courts defer to Congress and the executive on immigration, and its troubled origins ← **timely — *Mullin v. Al Otro Lado* / *Mullin v. Doe* decided Jun 25 for the administration**
 - [ ] Temporary Protected Status: what it is, how it was created, and who it covers ← **timely given *Mullin v. Doe***
 
-**Second Amendment** *(added Jun 19, 2026 — prompted by* United States v. Hemani*)*
+**Second Amendment**
 - [ ] *Bruen* (2022) → *Rahimi* (2024) → *Hemani* (2026) → *Wolford v. Lopez* (2026): the history-and-tradition test and how it is reshaping both §922(g) prohibited-possessor categories and the geography of public carry
+
+**Fourth Amendment / Privacy** *(added Jun 30, 2026 — prompted by* Chatrie v. United States*)*
+- [ ] *Katz* (1967) → *Smith v. Maryland* third-party doctrine → *Carpenter v. United States* (2018) → *Chatrie* (2026): the slow erosion of the third-party doctrine for digital location data ← **civic-tech resonance**
 
 **Court Structure and History**
 - [ ] The Roberts Court: composition, ideological tendencies, and the current 6-3 supermajority dynamic
 - [ ] How the cert process works: Rule of Four, cert-worthiness, and the shadow docket vs. merits docket
 - [ ] Originalism as a methodology: strong vs. weak originalism, textualism, and the academic debate
+- [ ] OT2025 in retrospect: the term's through-lines (administrative-state rollback, exec-power expansion, voting-rights erosion, 2A expansion) and the surprises (*Watson*, *Cook* Fed carve-out) ← **NEW; good early-recess synthesis piece**
 
 ---
 
@@ -127,13 +133,14 @@ Each bi-weekly briefing contains:
 
 > Threads to track across multiple briefings — cases or doctrines that evolve over many terms.
 
-- **Presidential removal power**: *Myers → Humphrey's Executor → Morrison → Free Enterprise Fund → Seila Law → Collins → Trump v. Cook / Trump v. Slaughter*. Decisions imminent (argued Dec 8, 2025) — **expected June 29**. If *Humphrey's Executor* is overruled, the entire post-New Deal administrative state becomes subject to presidential removal at will. **Watch: does Roberts write narrowly again, or do Thomas/Gorsuch carry a broader majority? And does the Court carve out the Fed in the companion *Trump v. Cook*?**
-- **Birthright citizenship**: *Wong Kim Ark* (1898) is the only SCOTUS precedent directly on point. *Trump v. Barbara* may be the most significant 14th Amendment case in a generation. **Still pending; expected June 29.** DOJ "domicile" theory drew an icy reception at the April 1 argument.
-- **Voting rights erosion**: *Crawford → Shelby County → Brnovich → Allen v. Milligan 2023 → Louisiana v. Callais → Allen v. Milligan 2026*. A clear and accelerating trajectory. VRA Section 2 enforcement now functionally dismantled (deep dives Jun 23 [Section 2 architecture] and Jun 26 [racial-gerrymandering / Equal Protection vise]). *Watson v. RNC* (pending, expected June 29) may further restrict mail ballot access for 29 states + DC.
-- **Administrative state rollback**: *Chevron* overruled (*Loper Bright*, 2024) → major questions doctrine (deep dive Jun 19) → non-delegation revival? → *Learning Resources v. Trump* (IEEPA limits) → *Trump v. Slaughter* (removal power, pending). A multi-term thread with enormous downstream consequences.
-- **LGBTQ First Amendment / Equal Protection**: *Chiles v. Salazar* (2026) established strict scrutiny for viewpoint-based licensing restrictions on talk therapy. Transgender athlete cases (*Little v. Hecox*, *West Virginia v. B.P.J.*) pending — expected June 29; likely to uphold state bans under Title IX / Equal Protection analysis. *Bostock*'s reach across sex-discrimination contexts is the key doctrinal fault line; watch whether the Court resolves on narrow statutory grounds or reaches Equal Protection (and at what tier of scrutiny).
+- **Presidential removal power**: *Myers → Humphrey's Executor → Morrison → Free Enterprise Fund → Seila Law → Collins → Trump v. Slaughter / Trump v. Cook*. **RESOLVED (Jun 29, 2026): *Slaughter* (6–3, Roberts) overruled *Humphrey's Executor*; independent-agency for-cause protection is unconstitutional. *Cook* (5–4, Kavanaugh the fifth vote) carved out the Federal Reserve as constitutionally distinct.** The entire post-New Deal administrative state is now subject to presidential removal at will except the Fed. Next thread to watch: how aggressively the executive uses the new authority, and litigation over the Fed line's stability.
+- **Birthright citizenship**: *Wong Kim Ark* (1898) is the only SCOTUS precedent directly on point. *Trump v. Barbara* may be the most significant 14th Amendment case in a generation. **Still pending; expected TODAY, June 30 (final day).** DOJ "domicile" theory drew an icy reception at the April 1 argument; Trump has publicly conceded he expects to lose.
+- **Voting rights erosion**: *Crawford → Shelby County → Brnovich → Allen v. Milligan 2023 → Louisiana v. Callais → Allen v. Milligan 2026*. A clear and accelerating trajectory on the redistricting/VRA front (deep dives Jun 23 + Jun 26). **BUT — countertrend (Jun 29): *Watson v. RNC* (5–4, Barrett + Roberts + liberals) UPHELD Mississippi's mail-ballot grace period, an RNC loss preserving grace periods in 29 states + DC.** The erosion is real on race/redistricting but not monolithic on ballot-access mechanics — worth holding both.
+- **Administrative state rollback**: *Chevron* overruled (*Loper Bright*, 2024) → major questions doctrine (deep dive Jun 19) → *Learning Resources v. Trump* (IEEPA limits) → **removal power capstone: *Slaughter* (*Humphrey's* overruled, Jun 29)**. A multi-term thread now at its separation-of-powers terminus. Remaining frontier: non-delegation revival.
+- **LGBTQ First Amendment / Equal Protection**: *Chiles v. Salazar* (2026) established strict scrutiny for viewpoint-based licensing restrictions on talk therapy. **Transgender athlete cases (*Little v. Hecox*, *West Virginia v. B.P.J.*) decided TODAY, June 30** — likely uphold state bans; key fork is narrow Title IX statutory vs. broader Equal Protection (and tier of scrutiny). *Bostock*'s reach across sex-discrimination contexts is the doctrinal fault line (deep dive Jun 30). Watch whether the Court honors *Bostock*'s textual method and distinguishes on Title IX's text, or narrows *Bostock* to reach the outcome.
 - **Immigration / executive latitude at the border**: *Mullin v. Al Otro Lado* (turn-back / "arrival") and *Mullin v. Doe* (TPS termination) both decided **June 25 for the administration** (Alito), alongside *Blanche v. Lau* (Jun 23, returning-LPR admissions). A consistent pattern of deference to executive immigration enforcement this term. Next deep-dive hooks: plenary power doctrine; TPS mechanics.
-- **Second Amendment after *Bruen***: *Bruen* (2022) → *Rahimi* (2024) → *Hemani* (2026, §922(g)(3) drug-user prohibition) → *Wolford v. Lopez* (2026, public carry on private property open to the public). The history-and-tradition test is now reshaping both prohibited-possessor categories and the geography of carry. Watch how the felon-in-possession provision (§922(g)(1)) fares next.
+- **Second Amendment after *Bruen***: *Bruen* (2022) → *Rahimi* (2024) → *Hemani* (2026, §922(g)(3) drug-user prohibition) → *Wolford v. Lopez* (2026, public carry on private property open to the public). The history-and-tradition test is now reshaping both prohibited-possessor categories and the geography of carry. Watch how §922(g)(1) (felon-in-possession) fares next.
+- **Digital privacy / Fourth Amendment** *(new, Jun 30, 2026)*: *Katz* (1967) → third-party doctrine (*Smith v. Maryland*) → *Carpenter* (2018, cell-site location) → ***Chatrie v. United States* (2026, geofence warrants are a "search")**. A cross-ideological line (Kagan + Roberts + Gorsuch) continuing *Carpenter*'s erosion of the third-party doctrine for digital location data. Civic-tech relevance.
 
 ---
 
@@ -145,8 +152,9 @@ Each bi-weekly briefing contains:
 | Jun 16, 2026 | Article II removal power: *Myers → Humphrey's Executor → Seila Law* | No new opinions since Jun 15; cert denial in *E.D. v. Noblesville* (Alito dissent); spotlight on *Trump v. Slaughter / Cook* and *Watson v. RNC*; end-of-term calendar |
 | Jun 16, 2026 (sent early — scheduled for Jun 19) | Chevron doctrine: *Chevron* (1984) → *Loper Bright* (2024) → post-deference landscape | Shadow docket — Alabama nitrogen execution order; spotlight on *Little v. Hecox* / *West Virginia v. B.P.J.*; end-of-term calendar |
 | Jun 19, 2026 | Major questions doctrine: *Brown & Williamson* → *West Virginia v. EPA* → *Biden v. Nebraska* → *Learning Resources*; friction with textualism | June 18 opinion day — *United States v. Hemani* (9–0, Gorsuch, **[2A]**), *Hunter v. United States*, *T.M. v. Univ. of Maryland*; spotlight on *Trump v. Barbara* and the *Mullin* immigration pair; end-of-term calendar (next opinion day June 25) |
-| Jun 23, 2026 | The VRA's original architecture: Sections 2 & 5, *Shelby County* (2013), and the post-*Shelby* vise (*Brnovich* → *Milligan* → *Callais*) | June 22 per curiam in *McCarthy v. Hernandez* (6–3, AEDPA/*Seibert*, Etan Patz murder conviction reimposed); flagged June 23 opinion day (10am ET) with birthright citizenship, removal power, and trans-athlete cases all still outstanding; spotlight on *Trump v. Slaughter* and *Little v. Hecox* / *B.P.J.*; end-of-term calendar |
-| Jun 26, 2026 | Racial gerrymandering: *Shaw v. Reno* (1993) → *Miller v. Johnson* (1995) → *Cooper v. Harris* (2017) → *Callais* (2026) — the Equal Protection "vise" (companion to the Jun 23 Section 2 deep dive) | Caught up two opinion days: **Jun 23** — *Cisco Systems v. Doe* (6–3, Barrett; forecloses ATS/TVPA aiding-and-abetting suits), *Blanche v. Lau* (returning-LPR admissions), *Landor v. La. DOC* (RLUIPA individual-capacity damages); **Jun 25** — *Monsanto v. Durnell* (7–2, Kavanaugh, FIFRA preemption), *Wolford v. Lopez* (6–3, Alito, **[2A]** public carry), and the *Mullin* immigration pair (both Alito, both Trump wins, **[exec power]**; Sotomayor bench dissent + Alito's rare bench retort). Spotlight on removal power (*Slaughter/Cook*) and trans athletes (*Hecox/B.P.J.*); flagged June 29 as the marquee opinion day (birthright, removal power, trans athletes, *Watson v. RNC* all expected) |
+| Jun 23, 2026 | The VRA's original architecture: Sections 2 & 5, *Shelby County* (2013), and the post-*Shelby* vise (*Brnovich* → *Milligan* → *Callais*) | June 22 per curiam in *McCarthy v. Hernandez* (6–3, AEDPA/*Seibert*); flagged June 23 opinion day; spotlight on *Trump v. Slaughter* and *Little v. Hecox* / *B.P.J.*; end-of-term calendar |
+| Jun 26, 2026 | Racial gerrymandering: *Shaw v. Reno* (1993) → *Miller v. Johnson* (1995) → *Cooper v. Harris* (2017) → *Callais* (2026) — the Equal Protection "vise" | Caught up Jun 23 (*Cisco v. Doe*, *Blanche v. Lau*, *Landor*) and Jun 25 (*Monsanto v. Durnell*, *Wolford v. Lopez* **[2A]**, *Mullin* immigration pair **[exec power]**, Sotomayor/Alito bench exchange); spotlight on removal power and trans athletes; flagged June 29 marquee day |
+| Jun 30, 2026 | *Bostock v. Clayton County* (2020): textualism as a one-way ratchet? — the Title VII → Title IX / Equal Protection bridge for the trans-athlete cases | **June 29 marquee day caught up:** *Trump v. Slaughter* (6–3, Roberts, **[exec power]** — *Humphrey's Executor* overruled), *Trump v. Cook* (5–4, Kavanaugh fifth vote, **[exec power]** — Fed carve-out, Cook stays), *Watson v. RNC* (5–4, Barrett, **[voting rights]** — mail-ballot grace period UPHELD, RNC lost, SURPRISE), *Chatrie v. United States* (6–3, Kagan — geofence warrants are a Fourth Amendment search). Spotlight on *Slaughter* + preview of trans-athlete cases. Flagged June 30 (TODAY) as final opinion day: *Trump v. Barbara* (birthright), *Hecox*/*B.P.J.* (trans athletes), *NRSC v. FEC* (campaign finance) all expected at 10am ET |
 
 ---
 
@@ -166,14 +174,15 @@ Cases already granted certiorari for October Term 2026 (begins October 5, 2026):
 ## System Notes
 
 - **Briefing cadence:** Twice weekly (Tuesdays and Fridays), sent via Claude Code routine
-- **Last briefing sent:** June 26, 2026 (racial gerrymandering deep dive; June 23 and June 25 opinion days caught up — *Cisco v. Doe*, *Blanche v. Lau*, *Landor*, *Monsanto v. Durnell*, *Wolford v. Lopez*, and the *Mullin* immigration pair all covered)
-- **Next briefing due:** June 30, 2026 (Tuesday). **IMPORTANT: Monday, June 29 (10am ET) is the term's marquee opinion day** — birthright citizenship (*Trump v. Barbara*), removal power (*Trump v. Slaughter* / *Trump v. Cook*), transgender athletes (*Little v. Hecox* / *West Virginia v. B.P.J.*), and the mail-ballot case (*Watson v. RNC*) are all expected to land. Those results postdate this Friday run and MUST be caught up June 30. Given the stakes, Evie may choose to trigger a special edition Monday afternoon.
-- **Source priority:** SCOTUSblog (primary), official SCOTUS site for opinions and calendars, NPR Legal, Ballotpedia for term case lists. NOTE (Jun 26): SCOTUSblog, CNN, Wikipedia, and supremecourt.gov full-page fetches were blocked by network policy this run (proxy 403 on WebFetch/curl); opinion details were reconstructed from indexed WebSearch snippets and cross-checked against supremecourt.gov slip-opinion docket numbers (e.g., 24-856 *Cisco*, 24-1046 *Wolford*, 24-1068 *Monsanto*). If this persists, consider an allowlisted fetch path for opinion days.
+- **Last briefing sent:** June 30, 2026 (*Bostock* deep dive; June 29 marquee opinion day caught up — *Slaughter* [*Humphrey's* overruled], *Cook* [Fed carve-out], *Watson v. RNC* [grace period upheld, RNC loss], *Chatrie* [geofence = search])
+- **Next briefing due:** July 3, 2026 (Friday). **The term ENDS TODAY, June 30.** The final four cases (*Trump v. Barbara*, *Little v. Hecox* / *West Virginia v. B.P.J.*, *NRSC v. FEC*) are expected at 10am ET June 30 — AFTER this morning's 4am PT send. **They MUST be caught up July 3.** Evie may trigger a special edition this afternoon for same-day analysis. NOTE: birthright (14th Am.) deep dive already covered Jun 15; for the trans-athlete outcome, *United States v. Virginia* / scrutiny-tier and the Jun 30 *Bostock* dive are the lenses; for *NRSC v. FEC*, the new campaign-finance queue item.
+- **Summer recess:** Late June/early July through early October. Lean into Deep Dive / doctrinal context during recess; Status Snapshots will be quiet (shadow-docket orders aside). Good candidates: OT2025 retrospective, plenary power, TPS mechanics, *Carpenter*→*Chatrie* privacy thread, non-delegation, *United States v. Virginia*.
+- **Source priority:** SCOTUSblog (primary), official SCOTUS site for opinions and calendars, NPR Legal, Ballotpedia for term case lists. NOTE (Jun 26 + Jun 30): SCOTUSblog and supremecourt.gov full-page WebFetch and stevevladeck.com returned 403 under network policy this run; opinion details reconstructed and cross-checked from indexed WebSearch snippets (NPR, CBS, WaPo, The Hill, Reason/Cato for *Chatrie*). If this persists, consider an allowlisted fetch path for opinion days.
 - **Interpretive frame:** Originalism as methodological constraint (not political position); separation of powers as a structural good; Court legitimacy as contingent on restraint; awareness that "giving it back to the legislature" carries real human costs, and that this is a feature of democratic accountability, not a bug
 - **Tone:** Analytical, not partisan. Surface the doctrinal stakes. Let Evie form the political judgments.
 - **Flag in bold:** Any decision directly relevant to LGBTQ rights, voting rights, or executive power over agencies
 
 ---
 
-*Last updated: June 26, 2026*
-*Updated by: Claude (SCOTUS briefing routine — June 26 briefing sent)*
+*Last updated: June 30, 2026*
+*Updated by: Claude (SCOTUS briefing routine — June 30 briefing sent)*
