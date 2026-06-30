@@ -8,6 +8,7 @@ You are producing a weekly email newsletter covering news that impacts transgend
 
 - Send the finished newsletter as an email to **eve@evehwang.com** using the Eviebot MCP email tool (`send_email`).
 - Subject line format: `Trans News Weekly — <Month D, YYYY>` using the run date.
+- The email `body` must be authored as **styled HTML** — see §7 "Email formatting" for the exact rules and skeleton. This is required: a plain-text or Markdown body is not acceptable.
 - Send only once, at the end, after the full newsletter is assembled and the coverage log has been updated.
 
 ---
@@ -46,7 +47,7 @@ Cover all topics related to transgender people and life, including:
 - Civil rights (litigation, legislation, agency rules, EEOC, ID/passport policy)
 - Employment (workplace protection, hiring, benefits, discrimination cases)
 - Notable successes by transgender public figures (awards, appointments, milestones, cultural achievements)
-- Obituaries (notable deaths; also deaths from anti-trans violence, handled with care — see §6)
+- Obituaries (notable deaths; also deaths from anti-trans violence, handled with care — see §9)
 - General newspaper-type coverage a reader would reasonably expect on this beat
 
 ## 4. Geographic priority order
@@ -91,25 +92,67 @@ Use the analytical register **only** in the Deep Dive's interpretation and in li
 
 ---
 
-## 7. Output format
+## 7. Content sections and email formatting
 
-Assemble the email in exactly these four sections, in this order.
+### 7a. The four sections
 
-### Section 1 — Headlines
+Assemble the newsletter in exactly these four sections, in this order.
+
+**Section 1 — Headlines.**
 A list of **every relevant in-window headline** from the week. Few or many — match reality, do not pad. Each headline is one line: a clear summary plus source attribution. This is the at-a-glance scan of the week.
 
-### Section 2 — The News (three stories)
+**Section 2 — The News (three stories).**
 **Three** of the week's main stories, each written up in roughly two to four short paragraphs in the reporting register. Cover what happened, when (with the in-window date), who is involved, where, and why it matters, attributed to sources. Order them by the geographic priority in §4. If a genuinely slow week yields fewer than three story-worthy events, write the ones that exist and note briefly that it was a light week — do not manufacture a third.
 
-### Section 3 — Deep Dive
-Take **one issue that surfaced this week** and provide a **historical explainer**: how this issue developed over time, the key prior turning points, and where the current week's event sits in that arc. This is where the **analytical register** lives — interpret the issue through the structural/pragmatist lens in §6. End the reader with a clear understanding of the issue's shape and what is durable about the current state of play.
+**Section 3 — Deep Dive.**
+Take **one issue that surfaced this week** and provide a **historical explainer**: how this issue developed over time, the key prior turning points, and where the current week's event sits in that arc. This is where the **analytical register** lives — interpret the issue through the structural/pragmatist lens in §6. End the reader with a clear understanding of the issue's shape and what is durable about the current state of play. The deep-dive topic must **not repeat** a topic already in the coverage log (§8).
 
-The deep-dive topic must **not repeat** a topic already in the coverage log (see §8).
+**Section 4 — From Trans History.**
+A short piece on **something from transgender history that is not widely known or understood** but matters: a key moment, person, development, or institution that illuminates transgender life. Independent of the week's news; may come from any era. Tell it with care and respect. The history topic must **not repeat** a topic already in the coverage log (§8).
 
-### Section 4 — From Trans History
-A short piece on **something from transgender history that is not widely known or understood** but matters: a key moment, person, development, or institution that illuminates transgender life. This is independent of the week's news and may come from any era. Tell it with care and respect.
+### 7b. Email formatting — author the body as styled HTML
 
-The history topic must **not repeat** a topic already in the coverage log (see §8).
+The `send_email` tool runs the `body` through a Markdown renderer that **passes raw HTML through untouched** and then wraps it in `<html><body>…</body></html>`. To get a styled email, author the entire body as **raw HTML with inline CSS**. Follow these rules exactly — they are derived from how the renderer actually behaves:
+
+1. **Do NOT include `<html>`, `<head>`, or `<body>` tags.** The renderer adds `<html><body>` itself. Start your body with the outer container `<div>`.
+2. **Style only with inline `style="…"` attributes on each element.** `<style>` blocks and `<head>` CSS are stripped by email clients and are unavailable here. There is no other way to style.
+3. **Inside the HTML, use HTML for everything** — `<strong>`, `<em>`, `<a href="…">`, and HTML entities like `&mdash;`. Do **not** use Markdown syntax (`**bold**`, `[text](url)`) inside the HTML; it will appear literally, unprocessed.
+4. Keep the layout simple and email-client-safe: a single centered container (max-width ~600px), `<div>`/`<p>`/`<ul>`/`<li>` blocks, system font stack, generous spacing. Avoid background images, external CSS, and JavaScript.
+5. Every source attribution should be a real `<a href>` link to the source where one exists.
+
+Use this skeleton as the structure and fill in the bracketed parts. Keep the inline styles; extend them tastefully if useful.
+
+```
+<div style="max-width:600px;margin:0 auto;font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;color:#1a1a1a;line-height:1.55;">
+<div style="border-bottom:3px solid #2a4d69;padding-bottom:12px;margin-bottom:20px;">
+<div style="font-size:24px;font-weight:700;color:#2a4d69;">Trans News Weekly</div>
+<div style="font-size:13px;color:#6b7280;">[Month D, YYYY] &middot; covering [start date]–[end date]</div>
+</div>
+
+<div style="font-size:18px;font-weight:600;color:#2a4d69;border-left:4px solid #2a4d69;padding-left:10px;margin:24px 0 12px;">Headlines</div>
+<ul style="padding-left:20px;margin:0 0 16px;">
+<li style="margin-bottom:6px;">[Headline summary] &mdash; <a href="[url]" style="color:#2a4d69;">[Source]</a></li>
+<!-- repeat <li> for every in-window headline; few or many -->
+</ul>
+
+<div style="font-size:18px;font-weight:600;color:#2a4d69;border-left:4px solid #2a4d69;padding-left:10px;margin:24px 0 12px;">The News</div>
+<div style="margin-bottom:20px;">
+<div style="font-size:16px;font-weight:600;margin-bottom:4px;">[Story 1 headline]</div>
+<p style="margin:0 0 10px;">[Story 1, 2–4 short paragraphs, reporting register, with in-window date and <a href="[url]" style="color:#2a4d69;">source</a> links.]</p>
+</div>
+<!-- repeat the story block for stories 2 and 3 -->
+
+<div style="background:#f4f6f8;border-radius:6px;padding:16px 18px;margin:24px 0;">
+<div style="font-size:17px;font-weight:600;color:#2a4d69;margin-bottom:8px;">Deep Dive: [issue]</div>
+<p style="margin:0 0 10px;">[Historical explainer + structural/pragmatist analysis.]</p>
+</div>
+
+<div style="font-size:18px;font-weight:600;color:#2a4d69;border-left:4px solid #2a4d69;padding-left:10px;margin:24px 0 12px;">From Trans History</div>
+<p style="margin:0 0 10px;">[A lesser-known but important moment, person, or development, told with care.]</p>
+
+<div style="font-size:12px;color:#9ca3af;border-top:1px solid #e5e7eb;padding-top:12px;margin-top:28px;">Trans News Weekly &middot; assembled by a Claude Code routine for Evie.</div>
+</div>
+```
 
 ---
 
@@ -144,6 +187,7 @@ Keep the entries short and descriptive enough that you can recognize a near-dupl
 2. Read `trans-news/coverage-log.md` for used Deep Dive and History topics (§8).
 3. Search for in-window developments across all topics and geographies (§3–§5), dating each candidate (§2).
 4. Select headlines, three news stories, one deep-dive issue (unused), one history topic (unused).
-5. Write the four sections in the correct registers (§6–§7).
-6. Append the new row to the coverage log and write it back (§8).
-7. Send the email to eve@evehwang.com (§0).
+5. Write the four sections in the correct registers (§6–§7a).
+6. Lay the newsletter out as styled HTML per §7b.
+7. Append the new row to the coverage log and write it back (§8).
+8. Send the email to eve@evehwang.com (§0).
