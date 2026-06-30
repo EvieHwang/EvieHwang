@@ -13,4 +13,4 @@ Keep topics described concretely enough to recognize a near-duplicate next week 
 
 | Date sent | Deep Dive topic | From Trans History topic |
 |-----------|-----------------|--------------------------|
-| _(none yet — first run will add the first row here)_ | | |
+| June 30, 2026 | Title IX and transgender athletes — 1972 enactment through the 2026 SCOTUS ruling (W. Va. v. B.P.J. / Little v. Hecox) | Compton's Cafeteria Riot, August 1966, San Francisco |
