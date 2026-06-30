@@ -13,3 +13,4 @@ Keep topics described concretely enough to recognize a near-duplicate next week 
 | Date sent | Deep Dive topic |
 |-----------|-----------------|
 <!-- append one row per run, e.g.: | June 30, 2026 | Section 301 apparel tariffs and the July 24 Section 122 cliff | -->
+| June 30, 2026 | De minimis suspension's shift from IEEPA executive emergency action to a Tariff Act of 1930 notice-and-comment rule (CBP NPRM published June 24, 2026) |
