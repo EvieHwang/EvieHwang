@@ -14,3 +14,4 @@ Keep topics described concretely enough to recognize a near-duplicate next week 
 | Date sent | Deep Dive topic | From Trans History topic |
 |-----------|-----------------|--------------------------|
 | June 30, 2026 | Title IX and transgender athletes — 1972 enactment through the 2026 SCOTUS ruling (W. Va. v. B.P.J. / Little v. Hecox) | Compton's Cafeteria Riot, August 1966, San Francisco |
+| July 3, 2026 | HUD's Equal Access Rule (2012–2026) — how a shelter-access protection built by agency rulemaking, not statute, became repeatedly vulnerable to rollback | Reed Erickson and the Erickson Educational Foundation (1964–1980s) — the anonymous trans philanthropist who funded early gender-clinic and legal infrastructure |
