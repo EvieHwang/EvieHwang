@@ -15,3 +15,4 @@ Keep topics described concretely enough to recognize a near-duplicate next week 
 <!-- append one row per run, e.g.: | June 30, 2026 | Section 301 apparel tariffs and the July 24 Section 122 cliff | -->
 | June 30, 2026 | De minimis suspension's shift from IEEPA executive emergency action to a Tariff Act of 1930 notice-and-comment rule (CBP NPRM published June 24, 2026) |
 | June 30, 2026 | Transpacific freight-rate volatility (Drewry WCI's June 2026 22-month high) and the structural case for treating lead time as a buffer distribution tied to known triggers, not a point estimate |
+| July 6, 2026 | Section 301 forced-labor tariffs (60-economy determination, June 2, 2026) as the legally durable successor to invalidated IEEPA/temporary Section 122 authority, and the textile-preference mechanism tying preferential rates to reciprocal US cotton/fiber trade |
