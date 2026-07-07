@@ -62,64 +62,27 @@ to convene, what to recommend, what data architecture to propose.
 - Conversion therapy = unprofessional conduct; DOH runs gender-marker
   self-attestation; OSPI governs gender-inclusive schools and athletics.
 
-**Live fault lines (verify current status continuously; details live in the news
-routine, not here):** care for minors; schools and parental-notification mandates;
-the November 2026 ballot initiatives; federal-vs-state funding and litigation
-pressure; SOGI data governance and privacy.
-
 **Rules of the role.** All communications made or received in the conduct of
 Commission business are subject to the Public Records Act. Working rule: this file
 and its siblings are private personal thinking; anything lifted from them into a
 communication with staff, commissioners, legislators, or agencies becomes a public
 record when sent. (Confirm edge cases with Commission counsel.)
 
-**Adjacent commitments.** GSBA board membership; relationships from WADEPS focus
-group work (Seattle University); the Senator Claire Wilson channel (SB 5599
-contingency planning).
-
-**Reference materials to attach over time:** current Commission charter/bylaws, most
-recent annual report, meeting calendar, contact roster. *(Placeholders — add as
-gathered.)*
-
 ---
 
-## 3. Six-year horizons (end of term)
-
-Each horizon: the outcome, and how I'd know it happened. Nothing here is a task;
-tasks live in the working plan.
+## 3. Six-year horizons to accomplish by end of second term
 
 ### H1 — SOGI data governance architecture exists
 **Outcome:** Washington has a cross-agency SOGI data collection and governance
-standard — modeled on Oregon's REALD+SOGI — adopted or formally in motion, with the
-Commission on record as its architect/convener.
-**Measured by:** a published standard or executive/agency directive; at least two
-major agencies (e.g. HCA, DOH) collecting to it; a governance body with a charter
-that names data dignity and privacy protections explicitly.
+standard — modeled on Oregon's REALD+SOGI — adopted or formally in motion.
 
-### H2 — Youth protections survive contact with a hostile legal environment
-**Outcome:** whatever happens to SB 5599 at the Supreme Court and to the 2026 ballot
-initiatives, Washington's protective architecture for queer and trans youth (shelter
-access, care access, school climate) has been stress-tested and reinforced —
-redundant floors rather than single points of failure.
-**Measured by:** a documented contingency map (which statute/rule/agency carries each
-protection if another falls) delivered to the Governor's office; at least one
-recommendation from it adopted; the Wilson-channel work having produced a concrete
-legislative or administrative follow-through.
+### H2 — Transgender youth protections survive contact with a hostile legal environment
+**Outcome:** Whatever external threats emerge, Washington's protective architecture for queer and trans youth (shelter access, care access, school climate, athletics) has been stress-tested and reinforced, and has parity, i.e. a trans minor should have the same access, judged by the same neutral criteria, that any minor has. 
 
-### H3 — Accountability mechanisms priced into systems, not bolted on
-**Outcome:** the WADEPS-style insight — pair mandatory, PRA-standard data submission
-with actuarially priced consequences — has been translated into at least one adopted
-recommendation in a domain touching LGBTQ Washingtonians (policing data, school
-incident reporting, or health-plan compliance).
-**Measured by:** a Commission recommendation citing the mechanism; an agency or
-legislative sponsor carrying it; implementation begun.
-
-### H4 — The Commission itself runs better because I was on it
+### H3 — The Commission itself runs better because I was on it
 **Outcome:** the Commission's own working machinery — how it tracks legislation,
 briefs commissioners, and institutionalizes knowledge across member turnover — is
-measurably more durable.
-**Measured by:** an adopted internal practice (legislative tracking system, briefing
-cadence, onboarding corpus) that persists past my involvement in creating it.
+more effective and durable.
 
-*Granularity stops here. The current year's goals, derived from these horizons, live
+*The current year's goals, derived from these horizons, live
 in `working-plan.md` and reset each January.*
