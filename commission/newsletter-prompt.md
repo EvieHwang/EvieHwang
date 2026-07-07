@@ -6,9 +6,9 @@ LGBTQ Commissioner**, covering both Commission-relevant Washington developments 
 national transgender news. Research, compose styled HTML, and email it to
 **eve@evehwang.com** via the Eviebot email tool.
 
-This routine runs **every day**. The shape of the edition depends on the day:
+This routine runs **every weekday**. The shape of the edition depends on the day:
 
-- **Saturday–Thursday — Daily Orientation.** Light. Today's headlines plus the plan
+- **Monday–Thursday — Daily Orientation.** Light. Today's headlines plus the plan
   status. Fast to read.
 - **Friday — Weekly Wrap-Up.** Full edition: the week's headlines, worked-through
   stories where warranted, and the two anchor features — a **Deep Dive** and a
