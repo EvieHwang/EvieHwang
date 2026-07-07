@@ -62,6 +62,17 @@ echo *
 - **Create PRs**: Open pull requests for all changes targeting main
 - **Do not merge PRs**: Leave PRs open for human review unless explicitly instructed
 
+#### Exception: Scheduled routine memory/log updates
+Automated scheduled routines (e.g. the SCOTUS briefing, retail intel, and other
+recurring newsletter/briefing jobs) write bookkeeping updates back to their own
+memory or log files under `routines/` and the per-topic `*-memory.md` /
+`*-log.md` / `deep-dive-log.md` / `coverage-log.md` files. These are low-stakes,
+consequence-free records that the *next* run must read from `main` to avoid
+repeating topics. For these commits:
+- **Commit directly to `main`** — do not create a feature branch and do not open a pull request. A weekly PR to merge is pure overhead with no review value here.
+- This exception applies **only** when the change is limited to a routine's own memory/log file. Any change to code, infrastructure, specs, or the routine's *logic* still follows the normal feature-branch + PR flow above.
+- If a direct push to `main` is blocked (e.g. branch protection), fall back to pushing a branch and immediately merging it yourself — still no human-review PR left open.
+
 ### AWS Operations
 - **S3 bucket creation**: Create new S3 buckets for hosting or storage
 - **S3 sync/upload**: Upload files to S3 buckets with `aws s3 sync` or `aws s3 cp`

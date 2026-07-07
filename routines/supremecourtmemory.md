@@ -174,6 +174,7 @@ Cases already granted certiorari for October Term 2026 (begins October 5, 2026):
 
 ## System Notes
 
+- **Committing the memory update (Step 6):** Commit this file **directly to `main`** — do NOT create a feature branch and do NOT open a pull request. This is a consequence-free bookkeeping record that the next run must read from `main`; a weekly PR is pure overhead. (See the "Scheduled routine memory/log updates" exception in `CLAUDE.md`.) If a direct push to `main` is ever blocked, push a branch and merge it yourself immediately — never leave a review PR open.
 - **Briefing cadence:** Twice weekly (Tuesdays and Fridays), sent via Claude Code routine
 - **Last briefing sent:** July 7, 2026 (Campaign-finance architecture deep dive — *Buckley* → *Citizens United* → *McCutcheon* → *Colorado II* → *NRSC v. FEC*; recess week, no merits opinions; emergency-docket orders *Blanche v. Perlmutter* [June 30, stay denied] and *Herridge v. Chen* [July 2]; spotlight on *Blanche v. Perlmutter*)
 - **Next briefing due:** July 10, 2026 (Friday). **OT2025 is fully closed (June 30); the merits docket is empty until October.** Recess mode: lean into Deep Dive / doctrinal context; Status Snapshots will be quiet apart from emergency-docket orders. Strong next-up candidates: the emergency/shadow-docket dive (live post-*Cook* story, and the 63-vs-56 data point is now on the record); OT2025 retrospective; plenary power / immigration; *Carpenter*→*Chatrie* privacy thread; non-delegation revival (*Gundy*); *Bruen*→*Rahimi*→*Hemani*→*Wolford* Second Amendment.
