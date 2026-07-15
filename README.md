@@ -8,7 +8,7 @@ I'm a **Product Manager** specializing in allocation and in-season inventory man
 
 ## 🛠️ Shipped
 
-[Markdown Decision Agent](https://github.com/EvieHwang/markdown-decision-support) — An agentic system that evaluates retail item characteristics, sell-through curves, and inventory positions to recommend retial price markdown timing and depth.
+[Markdown Decision Agent](https://github.com/EvieHwang/markdown-decision-support) — An agentic system that evaluates retail item characteristics, sell-through curves, and inventory positions to recommend retail price markdown timing and depth.
 
 [Markus](https://github.com/EvieHwang/Markus_v3) is a Markdown syntax editor for iPhone, iPad and Mac that swipes between rendered and raw views and syncs via iCloud. No vault, no accounts, no onboarding - the Markdown editor you always wanted.
 
