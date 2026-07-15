@@ -25,9 +25,3 @@ I'm a **Product Manager** specializing in allocation and in-season inventory man
 ## 🧰 How I Build
 
 I use Claude Code in the cloud sandbox for most development work, mostly to allow for mobile management. New builds start from **[evie-dev-framework](https://github.com/EvieHwang/evie-dev-framework-0526)**. Source lives on GitHub, and apps deploy to iOS, AWS or a local Mac Mini for headless services and persistent agents.
-
-
-## 🧭 Background
-
-I'm currently open to **Product Manager** roles in retail merchandising and inventory systems, preferably at large retailers or platform companies building the planning intelligence layer.
-
